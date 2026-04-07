@@ -12,14 +12,16 @@ Generate daily GitHub Trending reports. One report per day at 08:00 (Beijing tim
 
 ```bash
 python3 fetch_trending.py
+python3 summarize_repos.py    # AI 生成项目简介
 python3 generate_report.py
 ```
 
 **OpenClaw 在执行时会**:
 1. 抓取当天 GitHub Trending TOP 10
-2. 与昨天数据进行对比（新晋/留榜/落榜）
-3. 生成带日期导航的 HTML 报告
-4. 保存到 `docs/index.html`
+2. **AI 生成每个项目的一句话中文简介**（覆盖 GitHub 原生描述）
+3. 与昨天数据进行对比（新晋/留榜/落榜）
+4. 生成带日期导航的 HTML 报告
+5. 保存到 `docs/index.html`
 
 ## 数据存储
 
@@ -40,8 +42,19 @@ python3 generate_report.py
 ### 任务: 每日 08:00
 
 ```bash
-cd /path/to/trending-reports && python3 fetch_trending.py && python3 generate_report.py
+cd /path/to/trending-reports && python3 fetch_trending.py && python3 summarize_repos.py && python3 generate_report.py
 ```
+
+### 环境变量
+
+| 变量 | 说明 | 默认值 |
+|------|------|--------|
+| `MINIMAX_API_KEY` | MiniMax API Key（优先） | — |
+| `MINIMAX_MODEL` | MiniMax 模型 | `MiniMax-Text-01` |
+| `MINIMAX_BASE_URL` | MiniMax API 地址 | `https://api.minimax.chat/v1` |
+| `OPENAI_API_KEY` | OpenAI API Key（备用） | — |
+| `OPENAI_MODEL` | OpenAI 模型 | `gpt-4o-mini` |
+| `OPENAI_BASE_URL` | OpenAI API 地址 | `https://api.openai.com/v1` |
 
 ## 本地测试
 
