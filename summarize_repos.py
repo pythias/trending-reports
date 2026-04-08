@@ -15,6 +15,7 @@ try:
     from openai import OpenAI
     HAS_LLM = True
 except ImportError:
+    OpenAI = None  # type: ignore
     HAS_LLM = False
 
 # Configuration
