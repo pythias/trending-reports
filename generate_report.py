@@ -5,8 +5,9 @@ Generates daily report comparing with yesterday's data.
 Homepage allows date navigation.
 """
 
+import argparse
 import json
-from datetime import datetime, timezone, timedelta
+from datetime import datetime
 from pathlib import Path
 
 # Paths
@@ -15,10 +16,6 @@ DATA_DIR = BASE_DIR / "data"
 HISTORY_DIR = DATA_DIR / "history"
 DOCS_DIR = BASE_DIR / "docs"
 OUTPUT_FILE = DOCS_DIR / "index.html"
-
-# Beijing timezone
-BEIJING_TZ = timezone(timedelta(hours=8))
-
 
 def load_json(path: Path) -> dict:
     with open(path, "r", encoding="utf-8") as f:
@@ -38,32 +35,25 @@ def get_available_dates() -> list[str]:
     return [f"{d[:4]}-{d[4:6]}-{d[6:8]}" for d in dates]
 
 
-def find_today_and_yesterday() -> tuple[Path | None, Path | None]:
-    """Find today's and yesterday's data files."""
-    today = datetime.now(BEIJING_TZ).strftime("%Y%m%d")
-    yesterday = (datetime.now(BEIJING_TZ) - timedelta(days=1)).strftime("%Y%m%d")
+def date_to_history_path(date_str: str) -> Path:
+    """Convert YYYY-MM-DD to history json path."""
+    return HISTORY_DIR / f"{date_str.replace('-', '')}.json"
 
-    today_file = HISTORY_DIR / f"{today}.json"
-    yesterday_file = HISTORY_DIR / f"{yesterday}.json"
 
-    today_exists = today_file.exists()
-    yesterday_exists = yesterday_file.exists()
+def get_date_pair(target_date: str, available_dates: list[str]) -> tuple[Path | None, Path | None]:
+    """Get current/previous data path based on selected date."""
+    if target_date not in available_dates:
+        return None, None
 
-    if not today_exists:
-        # Try to find most recent
-        available = get_available_dates()
-        if len(available) >= 2:
-            today_file = HISTORY_DIR / f"{available[0].replace('-', '')}.json"
-            yesterday_file = HISTORY_DIR / f"{available[1].replace('-', '')}.json"
-            today_exists = today_file.exists()
-            yesterday_exists = yesterday_file.exists()
-        elif len(available) == 1:
-            today_file = HISTORY_DIR / f"{available[0].replace('-', '')}.json"
-            today_exists = today_file.exists()
-            yesterday_exists = False
+    current_file = date_to_history_path(target_date)
+    prev_file = None
 
-    return (today_file if today_exists else None,
-            yesterday_file if yesterday_exists else None)
+    idx = available_dates.index(target_date)
+    if idx + 1 < len(available_dates):
+        prev_file = date_to_history_path(available_dates[idx + 1])
+
+    return (current_file if current_file.exists() else None,
+            prev_file if prev_file and prev_file.exists() else None)
 
 
 def categorize_repos(current: list, previous: list) -> dict:
@@ -90,15 +80,22 @@ def format_date(date_str: str) -> str:
     return dt.strftime("%Y年%m月%d日")
 
 
-def generate_date_nav(available_dates: list, current_date: str) -> str:
+def get_output_filename(date_str: str, latest_date: str) -> str:
+    """Get output html filename for a report date."""
+    if date_str == latest_date:
+        return "index.html"
+    return f"date-{date_str}.html"
+
+
+def generate_date_nav(available_dates: list, current_date: str, latest_date: str) -> str:
     """Generate date navigation HTML."""
     nav_items = ""
     for d in available_dates[:14]:  # Show last 14 days
-        display = d.replace("-", "")
         display_formatted = format_date(d)
         active = "bg-emerald-500/20 text-emerald-400" if d == current_date else "text-slate-400 hover:bg-slate-800"
+        href = get_output_filename(d, latest_date)
         nav_items += f'''
-            <a href="?date={d}" class="px-3 py-1.5 rounded-lg text-sm {active} transition-colors">
+            <a href="{href}" class="px-3 py-1.5 rounded-lg text-sm {active} transition-colors">
                 {display_formatted}
             </a>
         '''
@@ -196,13 +193,13 @@ def generate_section(title: str, icon: str, repos: list, category: str) -> str:
     '''
 
 
-def generate_html(categorized: dict, current_date: str, prev_date: str | None, available_dates: list) -> str:
+def generate_html(categorized: dict, current_date: str, prev_date: str | None, available_dates: list, latest_date: str) -> str:
     """Generate complete HTML report."""
     template_path = Path(__file__).parent / "templates" / "report.html"
     html = template_path.read_text(encoding="utf-8") if template_path.exists() else ""
 
     # Date navigation
-    date_nav = generate_date_nav(available_dates, current_date)
+    date_nav = generate_date_nav(available_dates, current_date, latest_date)
 
     # Summary
     total_new = len(categorized.get("新晋", []))
@@ -223,25 +220,24 @@ def generate_html(categorized: dict, current_date: str, prev_date: str | None, a
     return html
 
 
-def main():
-    print("Generating GitHub Trending Report...")
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(description="Generate GitHub Trending report pages.")
+    parser.add_argument(
+        "--date",
+        help="Generate only one date report in YYYY-MM-DD format. Defaults to generate all available dates.",
+    )
+    return parser.parse_args()
 
-    # Get available dates
-    available_dates = get_available_dates()
-    if not available_dates:
-        print("No data found. Run fetch_trending.py first.")
-        return
 
-    # Find today's and yesterday's data
-    today_file, yesterday_file = find_today_and_yesterday()
+def build_report_for_date(target_date: str, available_dates: list[str], latest_date: str) -> tuple[str, Path]:
+    """Build one report page and return generated date/output file."""
+    current_file, yesterday_file = get_date_pair(target_date, available_dates)
+    if not current_file:
+        raise ValueError(f"Date data not found: {target_date}")
 
-    if not today_file:
-        print("No today's data found.")
-        return
-
-    current_data = load_json(today_file)
+    current_data = load_json(current_file)
     current_repos = current_data.get("repos", [])
-    current_date = current_data.get("date", today_file.stem)
+    current_date = current_data.get("date", target_date)
 
     # Load previous data for comparison
     previous_repos = []
@@ -249,9 +245,8 @@ def main():
     if yesterday_file and yesterday_file.exists():
         prev_data = load_json(yesterday_file)
         previous_repos = prev_data.get("repos", [])
-        prev_date = prev_data.get("date", yesterday_file.stem.replace("-", ""))
+        prev_date = prev_data.get("date")
 
-    # Categorize
     categorized = categorize_repos(current_repos, previous_repos)
 
     print(f"\nReport for {current_date}:")
@@ -259,13 +254,42 @@ def main():
     print(f"  留榜: {len(categorized['留榜'])}")
     print(f"  落榜: {len(categorized['落榜'])}")
 
-    # Generate HTML
-    html = generate_html(categorized, current_date, prev_date, available_dates)
+    html = generate_html(categorized, current_date, prev_date, available_dates, latest_date)
+    output_file = DOCS_DIR / get_output_filename(target_date, latest_date)
+    output_file.write_text(html, encoding="utf-8")
+    print(f"  输出: {output_file}")
+    return current_date, output_file
 
-    # Save
+
+def main():
+    print("Generating GitHub Trending Report...")
+    args = parse_args()
+
+    # Get available dates
+    available_dates = get_available_dates()
+    if not available_dates:
+        print("No data found. Run fetch_trending.py first.")
+        return
+
     DOCS_DIR.mkdir(parents=True, exist_ok=True)
-    OUTPUT_FILE.write_text(html, encoding="utf-8")
-    print(f"\nReport generated: {OUTPUT_FILE}")
+    latest_date = available_dates[0]
+
+    if args.date:
+        target_date = args.date
+        if target_date not in available_dates:
+            print(f"Date not found: {target_date}")
+            return
+        _, output_file = build_report_for_date(target_date, available_dates, latest_date)
+        print(f"\nReport generated: {output_file}")
+        return
+
+    generated_files = []
+    for date_str in available_dates:
+        _, output_file = build_report_for_date(date_str, available_dates, latest_date)
+        generated_files.append(output_file)
+
+    print(f"\nGenerated {len(generated_files)} report files.")
+    print(f"Latest report: {OUTPUT_FILE}")
 
 
 if __name__ == "__main__":
