@@ -6,7 +6,6 @@ Homepage allows date navigation.
 """
 
 import json
-import re
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
@@ -29,19 +28,11 @@ def load_json(path: Path) -> dict:
 def get_available_dates() -> list[str]:
     """Get all available report dates."""
     dates = []
-    # Check history
     if HISTORY_DIR.exists():
         for f in HISTORY_DIR.glob("*.json"):
             date_part = f.stem.split("_")[0]  # Handle YYYYMMDD or YYYYMMDD_HHMM
             if date_part.isdigit() and len(date_part) == 8:
                 dates.append(date_part)
-    # Check data root
-    for f in DATA_DIR.glob("*.json"):
-        stem = f.stem
-        if re.match(r"\d{4}-\d{2}-\d{2}", stem):
-            date = stem.replace("-", "")
-            if date not in dates:
-                dates.append(date)
     # Sort descending
     dates.sort(reverse=True)
     return [f"{d[:4]}-{d[4:6]}-{d[6:8]}" for d in dates]
@@ -52,7 +43,7 @@ def find_today_and_yesterday() -> tuple[Path | None, Path | None]:
     today = datetime.now(BEIJING_TZ).strftime("%Y%m%d")
     yesterday = (datetime.now(BEIJING_TZ) - timedelta(days=1)).strftime("%Y%m%d")
 
-    today_file = DATA_DIR / f"{today[:4]}-{today[4:6]}-{today[6:8]}.json"
+    today_file = HISTORY_DIR / f"{today}.json"
     yesterday_file = HISTORY_DIR / f"{yesterday}.json"
 
     today_exists = today_file.exists()
@@ -62,12 +53,12 @@ def find_today_and_yesterday() -> tuple[Path | None, Path | None]:
         # Try to find most recent
         available = get_available_dates()
         if len(available) >= 2:
-            today_file = DATA_DIR / f"{available[0].replace('-', '')}.json"
-            yesterday_file = DATA_DIR / f"{available[1].replace('-', '')}.json"
+            today_file = HISTORY_DIR / f"{available[0].replace('-', '')}.json"
+            yesterday_file = HISTORY_DIR / f"{available[1].replace('-', '')}.json"
             today_exists = today_file.exists()
             yesterday_exists = yesterday_file.exists()
         elif len(available) == 1:
-            today_file = DATA_DIR / f"{available[0].replace('-', '')}.json"
+            today_file = HISTORY_DIR / f"{available[0].replace('-', '')}.json"
             today_exists = today_file.exists()
             yesterday_exists = False
 

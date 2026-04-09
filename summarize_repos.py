@@ -33,12 +33,12 @@ OPENAI_MODEL = os.environ.get("OPENAI_MODEL", "gpt-4o-mini")
 
 
 def get_today_file() -> Path | None:
-    today = datetime.now(BEIJING_TZ).strftime("%Y-%m-%d")
-    today_file = DATA_DIR / f"{today}.json"
+    today = datetime.now(BEIJING_TZ).strftime("%Y%m%d")
+    today_file = HISTORY_DIR / f"{today}.json"
     if today_file.exists():
         return today_file
     # find most recent
-    files = sorted(DATA_DIR.glob("????-??-??.json"), reverse=True)
+    files = sorted(HISTORY_DIR.glob("????????.json"), reverse=True)
     return files[0] if files else None
 
 

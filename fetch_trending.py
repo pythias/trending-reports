@@ -146,12 +146,8 @@ def main():
             print("No repos found, exiting.")
             return
 
-        # Save today's data
+        # Save today's data to history only
         today = datetime.now(BEIJING_TZ).strftime("%Y-%m-%d")
-        today_file = DATA_DIR / f"{today}.json"
-        save_data(repos, today_file)
-
-        # Archive to history
         history_file = archive_to_history({"timestamp": datetime.now(BEIJING_TZ).isoformat(), "date": today, "repos": repos})
         print(f"Archived to: {history_file}")
 
