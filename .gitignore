@@ -30,11 +30,7 @@ env/
 logs/
 *.log
 
-# Data (keep history structure but ignore content)
-data/*.json
-!data/.gitkeep
-data/history/*.json
-!data/history/.gitkeep
+# Data
 
 # macOS
 .DS_Store

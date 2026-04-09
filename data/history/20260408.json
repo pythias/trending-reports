@@ -1,0 +1,114 @@
+{
+  "timestamp": "2026-04-08T09:45:06.640798+08:00",
+  "date": "2026-04-08",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-04-08T09:45:06.639839+08:00",
+      "author": "google-ai-edge",
+      "name": "gallery",
+      "url": "https://github.com/google-ai-edge/gallery",
+      "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+      "language": "Kotlin",
+      "stars": "",
+      "forks": "",
+      "summary": "Google AI Edge Gallery 是 Google 推出的 on-device ML/GenAI 示例项目集合，使用 Kotlin 开发，旨在让用户能够在本地设备上体验和尝试各种设备端机器学习及生成式 AI 用例。"
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-04-08T09:45:06.639938+08:00",
+      "author": "google-ai-edge",
+      "name": "LiteRT-LM",
+      "url": "https://github.com/google-ai-edge/LiteRT-LM",
+      "language": "C++",
+      "stars": "",
+      "forks": "",
+      "description": "",
+      "summary": "LiteRT-LM 是 Google AI Edge 推出的轻量级运行时，专门针对设备端语言模型进行优化，使用 C++ 实现，致力于在移动和边缘设备上高效运行 LLM。"
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-04-08T09:45:06.640030+08:00",
+      "author": "NVIDIA",
+      "name": "personaplex",
+      "url": "https://github.com/NVIDIA/personaplex",
+      "description": "PersonaPlex code.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "PersonaPlex 是 NVIDIA 开发的代码库，专注于个性化推荐和 persona 相关的研究，使用 Python 实现。"
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-04-08T09:45:06.640092+08:00",
+      "author": "abhigyanpatwari",
+      "name": "GitNexus",
+      "url": "https://github.com/abhigyanpatwari/GitNexus",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "GitNexus 是一个零服务器端代码智能引擎，在浏览器中运行，可以将 GitHub 仓库或 ZIP 文件转化为交互式知识图谱，并内置 Graph RAG Agent，特别适合代码探索和知识发现。"
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-04-08T09:45:06.640161+08:00",
+      "author": "tobi",
+      "name": "qmd",
+      "url": "https://github.com/tobi/qmd",
+      "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "qmd 是一个轻量级 CLI 搜索引擎，用于索引和搜索文档、知识库、会议笔记等本地内容，采用前沿的 SOTA 方法，完全本地运行，保护隐私。"
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-04-08T09:45:06.640220+08:00",
+      "author": "forrestchang",
+      "name": "andrej-karpathy-skills",
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "stars": "",
+      "forks": "",
+      "description": "",
+      "language": "",
+      "summary": "该仓库收集并整理 Andrej Karpathy 的各类技能和资源，可能包括他分享的 AI 教学材料、模型训练经验及研究方向的相关内容。"
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-04-08T09:45:06.640288+08:00",
+      "author": "elebumm",
+      "name": "RedditVideoMakerBot",
+      "url": "https://github.com/elebumm/RedditVideoMakerBot",
+      "description": "Create Reddit Videos with just✨ one command ✨",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "RedditVideoMakerBot 是一款 Python 工具，只需一条命令即可将 Reddit 帖子自动转化为视频内容，适合社交媒体内容创作者快速生成短视频素材。"
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-04-08T09:45:06.640345+08:00",
+      "author": "HKUDS",
+      "name": "DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "DeepTutor 是香港大学数据科学实验室推出的 Agent 原生个性化学习助手，基于 Python 开发，利用大模型能力为学习者提供一对一、个性化的辅导体验。"
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-04-08T09:45:06.640402+08:00",
+      "author": "TheCraigHewitt",
+      "name": "seomachine",
+      "url": "https://github.com/TheCraigHewitt/seomachine",
+      "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "SEO Machine 是一个基于 Claude Code 的 SEO 内容创作工作流，能够研究、撰写、分析和优化长篇搜索引擎优化博客内容，帮助企业生成高排名的目标受众内容。"
+    }
+  ]
+}
