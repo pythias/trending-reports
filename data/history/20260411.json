@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-04-11T14:21:56.425827+08:00",
+  "date": "2026-04-11",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-04-11T14:21:56.425159+08:00",
+      "author": "microsoft",
+      "name": "markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "微软出品的文档转 Markdown 工具，支持多种办公文档格式（如 Word、Excel、PowerPoint、PDF 等）直接转换为 Markdown，提升文档可移植性和编辑效率，适合知识管理和文档迁移场景。"
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-04-11T14:21:56.425259+08:00",
+      "author": "coleam00",
+      "name": "Archon",
+      "url": "https://github.com/coleam00/Archon",
+      "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "首个开源 AI 编程 harness 构建器，旨在让 AI 编程变得确定性和可重复。通过结构化的测试框架和验证机制，减少 AI 生成代码的随机性，提升代码质量可靠性。"
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-04-11T14:21:56.425331+08:00",
+      "author": "NousResearch",
+      "name": "hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "一款自称「与你共同成长」的 AI Agent，专注于长期记忆和持续学习能力，能够在多次交互中积累上下文，逐步提升对用户意图和领域的理解深度。"
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-04-11T14:21:56.425392+08:00",
+      "author": "rowboatlabs",
+      "name": "rowboat",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "开源 AI 同事项目，主打记忆功能。Rowboat 能跨会话记住重要上下文信息，像真实同事一样积累对项目、团队和任务的认知，适合长期辅助开发或办公场景。"
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-04-11T14:21:56.425451+08:00",
+      "author": "multica-ai",
+      "name": "multica",
+      "url": "https://github.com/multica-ai/multica",
+      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "开源托管 Agent 平台，将编码 Agent 转化为真正的团队成员。支持任务分配、进度追踪和技能积累，让多个 AI Agent 协同工作并持续进步，适合构建自动化开发团队。"
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-04-11T14:21:56.425572+08:00",
+      "author": "forrestchang",
+      "name": "andrej-karpathy-skills",
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": "",
+      "forks": "",
+      "language": "",
+      "summary": "从 Karpathy 关于 LLM 编程陷阱的观察中提炼出的单一 CLAUDE.md 文件，专为优化 Claude Code 行为而设计。提供了实用的提示技巧，帮助 AI 更好地理解和执行编程任务。"
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-04-11T14:21:56.425629+08:00",
+      "author": "shiyu-coder",
+      "name": "Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "金融市场语言的基础模型项目，代号 Kronos。旨在用 NLP 技术理解和分析金融市场中的文本/语言数据（如财报、新闻、分析师报告），辅助金融分析和预测。"
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-04-11T14:21:56.425685+08:00",
+      "author": "HKUDS",
+      "name": "DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "香港大学出品的 Agent 原生个性化学习助手，基于大模型和 Agent 架构，能够根据学习者的水平和进度动态调整教学内容，提供真正个性化的辅导体验。"
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-04-11T14:21:56.425709+08:00",
+      "author": "opendataloader-project",
+      "name": "opendataloader-pdf",
+      "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+      "language": "Java",
+      "stars": "",
+      "forks": "",
+      "summary": "专为 AI 准备数据的开源 PDF 解析器，自动将 PDF 转换为机器可读的格式，提升 PDF 内容的可访问性和可处理性，适合大规模文档 AI 处理流水线。"
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-04-11T14:21:56.425742+08:00",
+      "author": "obra",
+      "name": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": "",
+      "forks": "",
+      "summary": "一个实用导向的 Agent 技能框架与软件开发方法论，强调从实际失败中学习和迭代，提供了让 AI Agent 真正发挥效能的技能系统和开发流程。"
+    }
+  ]
+}
