@@ -1,126 +1,126 @@
 {
-  "timestamp": "2026-04-12T08:00:18.818395+08:00",
+  "timestamp": "2026-04-12T10:52:25.191851+08:00",
   "date": "2026-04-12",
   "repos": [
     {
       "rank": 1,
-      "fetched_at": "2026-04-12T08:00:18.817725+08:00",
+      "fetched_at": "2026-04-12T10:52:25.191176+08:00",
       "author": "NousResearch",
       "name": "hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
+      "summary": "NousResearch 推出的 AI Agent 项目，核心理念是构建一个能够持续学习和成长的智能体。项目设计强调自适应性和可扩展性，适合对自主智能体感兴趣的开发者研究和实验。",
       "language": "Python",
       "stars": "",
-      "forks": "",
-      "summary": "NousResearch 出品的 AI Agent 框架，定位为一款『会随着使用而成长』的智能体。专注于自主学习和持续进化能力，适合构建需要长期适应用户习惯的 AI 应用场景。"
+      "forks": ""
     },
     {
       "rank": 2,
-      "fetched_at": "2026-04-12T08:00:18.817822+08:00",
+      "fetched_at": "2026-04-12T10:52:25.191277+08:00",
       "author": "microsoft",
       "name": "markitdown",
       "url": "https://github.com/microsoft/markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
+      "summary": "微软出品的文档转换工具，支持将 Office 文档（Word、Excel、PPT）、PDF、HTML 等格式一键转换为 Markdown。极大方便了 AI 处理和编辑文档内容的场景，适合文档处理流水线。",
       "language": "Python",
       "stars": "",
-      "forks": "",
-      "summary": "微软出品的文档格式转换工具，可将 Office 文档（Word、Excel、PPT 等）直接转为 Markdown 格式。对 AI 内容提取和文档预处理场景非常实用。"
+      "forks": ""
     },
     {
       "rank": 3,
-      "fetched_at": "2026-04-12T08:00:18.817893+08:00",
+      "fetched_at": "2026-04-12T10:52:25.191350+08:00",
       "author": "coleam00",
       "name": "Archon",
       "url": "https://github.com/coleam00/Archon",
       "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+      "summary": "开源的 AI 编程工具构建框架，旨在让 AI 辅助编码变得可预测和可重复。提供 harness 构建能力，适合开发者二次开发 AI 编程环境，提升编程效率和一致性。",
       "language": "TypeScript",
       "stars": "",
-      "forks": "",
-      "summary": "开源 AI 编程 Harness 构建器，旨在让 AI 编码过程变得确定性和可重复。对比单纯的 Agent，Archon 提供了更结构化的执行框架，适合构建可复现的 AI 编程工作流。"
+      "forks": ""
     },
     {
       "rank": 4,
-      "fetched_at": "2026-04-12T08:00:18.817952+08:00",
+      "fetched_at": "2026-04-12T10:52:25.191408+08:00",
       "author": "forrestchang",
       "name": "andrej-karpathy-skills",
       "url": "https://github.com/forrestchang/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "summary": "汇集 Karpathy 等专家对 LLM 编程陷阱的观察，整理成一份 CLAUDE.md 配置文件，帮助 Claude Code 规避常见错误，提升 AI 辅助编程的效率和准确性。",
       "stars": "",
       "forks": "",
-      "language": "",
-      "summary": "Karpathy 经验总结的 CLAUDE.md 配置模板，帮助优化 Claude Code 的编程表现。汇集了 LLM 编程中的常见陷阱和改进建议，实操性很强。"
+      "language": ""
     },
     {
       "rank": 5,
-      "fetched_at": "2026-04-12T08:00:18.818012+08:00",
+      "fetched_at": "2026-04-12T10:52:25.191467+08:00",
       "author": "multica-ai",
       "name": "multica",
       "url": "https://github.com/multica-ai/multica",
       "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "summary": "开源的多智能体管理平台，目标是让 AI 编程智能体成为真正的团队成员。支持任务分配、进度追踪和技能积累，适合需要协调多个 AI Agent 协同工作的团队。",
       "language": "TypeScript",
       "stars": "",
-      "forks": "",
-      "summary": "开源托管 Agent 平台，将 AI 编程 Agent 打造成真正的团队成员。支持任务分配、进度追踪和技能积累，适合管理多个 Agent 协同工作的复杂项目。"
+      "forks": ""
     },
     {
       "rank": 6,
-      "fetched_at": "2026-04-12T08:00:18.818122+08:00",
+      "fetched_at": "2026-04-12T10:52:25.191523+08:00",
       "author": "shanraisshan",
       "name": "claude-code-best-practice",
       "url": "https://github.com/shanraisshan/claude-code-best-practice",
       "description": "practice made claude perfect",
+      "summary": "汇集 Claude Code 最佳实践的文档项目，适合希望提升 AI 编程效率的开发者参考学习。内容涵盖提示词工程、工具使用技巧和常见场景解决方案。",
       "language": "HTML",
       "stars": "",
-      "forks": "",
-      "summary": "Claude Code 使用最佳实践集合，汇集了如何更高效地使用 Claude Code 进行编程的经验和技巧，适合希望提升 AI 编程效率的开发者参考。"
+      "forks": ""
     },
     {
       "rank": 7,
-      "fetched_at": "2026-04-12T08:00:18.818180+08:00",
+      "fetched_at": "2026-04-12T10:52:25.191578+08:00",
       "author": "TapXWorld",
       "name": "ChinaTextbook",
       "url": "https://github.com/TapXWorld/ChinaTextbook",
       "description": "所有小初高、大学PDF教材。",
+      "summary": "收录中国从小学到大学各学科 PDF 教材的开源项目，覆盖语文、数学、英语、理科、文科等多个年级和科目，适合教育资源整理和学习参考。",
       "language": "Roff",
       "stars": "",
-      "forks": "",
-      "summary": "收录中国小初高及大学各学科 PDF 教材的开源项目，方便教育资料整合与 AI 训练数据准备，规模较大，资源较全。"
+      "forks": ""
     },
     {
       "rank": 8,
-      "fetched_at": "2026-04-12T08:00:18.818233+08:00",
+      "fetched_at": "2026-04-12T10:52:25.191632+08:00",
       "author": "OpenBMB",
       "name": "VoxCPM",
       "url": "https://github.com/OpenBMB/VoxCPM",
       "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "summary": "北京人工智能研究院（BAAI）推出的免分词器多语言语音生成模型，支持创意语音设计和高度拟真的声音克隆。适合语音合成、播报和创意内容制作场景。",
       "language": "Python",
       "stars": "",
-      "forks": "",
-      "summary": "OpenBMB 出品的无 Tokenizer 多语言 TTS 模型，支持语音生成、创意声音设计和高度逼真的声音克隆。无需传统分词器，简化了语音合成流程，适合多语言语音应用开发。"
+      "forks": ""
     },
     {
       "rank": 9,
-      "fetched_at": "2026-04-12T08:00:18.818233+08:00",
+      "fetched_at": "2026-04-12T10:52:25.191686+08:00",
       "author": "shiyu-coder",
       "name": "Kronos",
       "url": "https://github.com/shiyu-coder/Kronos",
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "summary": "金融市场的语言基础模型，能够理解和分析金融市场的文本数据、新闻、报告等。支持金融情感分析、市场预测和信息抽取等任务，适合量化交易和金融研究。",
       "language": "Python",
       "stars": "",
-      "forks": "",
-      "summary": "金融市场的语言基础模型，专注于理解和生成金融领域文本。可用于金融舆情分析、市场信号提取和金融 NLP 下游任务，是金融 AI 领域值得关注的基础模型。"
+      "forks": ""
     },
     {
       "rank": 10,
-      "fetched_at": "2026-04-12T08:00:18.818286+08:00",
+      "fetched_at": "2026-04-12T10:52:25.191739+08:00",
       "author": "opendataloader-project",
       "name": "opendataloader-pdf",
       "url": "https://github.com/opendataloader-project/opendataloader-pdf",
       "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+      "summary": "开源 PDF 解析工具，专为 AI 数据处理场景优化。自动提取 PDF 中的文本、结构化信息，支持大规模文档处理流水线，适合构建文档型 AI 训练数据集。",
       "language": "Java",
       "stars": "",
-      "forks": "",
-      "summary": "开源 PDF 解析器，专注于将 PDF 转换为 AI 可用的结构化数据，支持自动化 PDF 可访问性处理。Java 实现，适合大规模文档预处理和数据管道集成。"
+      "forks": ""
     }
   ]
 }
