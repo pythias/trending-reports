@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-04-13T08:49:43.855052+08:00",
+  "date": "2026-04-13",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-04-13T08:49:43.854398+08:00",
+      "author": "NousResearch",
+      "name": "hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "NousResearch 出品的 AI Agent 框架，主打「与你共同成长」的设计理念。提供可扩展的 Agent 架构，支持工具调用、记忆管理和多轮对话，适合构建个性化 AI 助手。"
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-04-13T08:49:43.854495+08:00",
+      "author": "shiyu-coder",
+      "name": "Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "金融市场的 Foundation Model，能够理解和生成金融领域的专业语言。可用于股价预测、金融新闻分析、情感识别等任务，是 AI + FinTech 领域的值得关注的新开源模型。"
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-04-13T08:49:43.854562+08:00",
+      "author": "forrestchang",
+      "name": "andrej-karpathy-skills",
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": "",
+      "forks": "",
+      "language": "",
+      "summary": "受 Andrej Karpathy 关于 LLM 编程陷阱的观察启发，整理出一个 CLAUDE.md 文件来提升 Claude Code 的表现。内容涵盖常见 LLM 推理错误模式、代码审查技巧和高效提示策略。"
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-04-13T08:49:43.854624+08:00",
+      "author": "microsoft",
+      "name": "markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "微软出品的文档格式转换工具，支持将 PDF、Word、Excel、PowerPoint 等办公文件一键转为 Markdown 格式。极大简化了文档处理流程，适合需要批量处理文档的开发者和写作者。"
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-04-13T08:49:43.854682+08:00",
+      "author": "multica-ai",
+      "name": "multica",
+      "url": "https://github.com/multica-ai/multica",
+      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "开源的 Agent 管理平台，将 AI 编程助手从工具升级为真正的「队友」。支持任务分配、进度追踪和技能积累，让多个 Agent 协同工作。适合团队管理多个 AI Agent 协作场景。"
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-04-13T08:49:43.854737+08:00",
+      "author": "coleam00",
+      "name": "Archon",
+      "url": "https://github.com/coleam00/Archon",
+      "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "首个开源的 AI 编程测试框架（Harness Builder），让 AI 编程行为变得可预测、可复现。通过构建测试用例和场景约束，提升 AI 编码的稳定性和可靠性，适合 AI 代码评审和质量控制。"
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-04-13T08:49:43.854792+08:00",
+      "author": "shanraisshan",
+      "name": "claude-code-best-practice",
+      "url": "https://github.com/shanraisshan/claude-code-best-practice",
+      "description": "practice made claude perfect",
+      "language": "HTML",
+      "stars": "",
+      "forks": "",
+      "summary": "Claude Code 最佳实践集合，整理了大量真实场景中的使用技巧和避坑指南。内容覆盖代码生成、调试、测试编写等环节，帮助开发者更高效地使用 Claude Code。"
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-04-13T08:49:43.854846+08:00",
+      "author": "OpenBMB",
+      "name": "VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "北京人工智能研究院（OpenBMB）开源的多语言语音合成模型。无需分词器即可工作，支持多语言语音生成、创意声音设计和高质量语音克隆，是开源 TTS 领域的重要突破。"
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-04-13T08:49:43.854899+08:00",
+      "author": "thedotmack",
+      "name": "claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "Claude Code 插件，自动记录整个编程会话过程，用 AI 压缩关键上下文，并在未来的会话中注入相关记忆。解决 AI 编程中的「上下文丢失」问题，让 AI 越用越懂你。"
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-04-13T08:49:43.854964+08:00",
+      "author": "ahujasid",
+      "name": "blender-mcp",
+      "url": "https://github.com/ahujasid/blender-mcp",
+      "description": "Blender MCP (Model Context Protocol) integration enabling AI assistants like Claude to control Blender directly.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "将 Blender 与 Model Context Protocol (MCP) 集成的开源项目，让 AI 助手（如 Claude）能够直接控制 Blender 3D 建模软件。实现了 AI 驱动的 3D 建模、场景生成和自动化渲染能力。"
+    }
+  ]
+}
