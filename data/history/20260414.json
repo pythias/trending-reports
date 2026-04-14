@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-04-14T08:00:18.440740+08:00",
+  "date": "2026-04-14",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-04-14T08:00:18.440247+08:00",
+      "author": "forrestchang",
+      "name": "andrej-karpathy-skills",
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": "",
+      "forks": "",
+      "language": "",
+      "ai_summary": "一张 CLAUDE.md 文件，基于 Andrej Karpathy 对 LLM 编程陷阱的观察，优化 Claude Code 的行为表现，帮助 AI 编程助手避免常见错误。"
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-04-14T08:00:18.440333+08:00",
+      "author": "NousResearch",
+      "name": "hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "ai_summary": "一款随着使用不断进化的 AI Agent 框架，采用自学习架构，能够根据用户交互持续提升自身能力，降低人工调优成本。"
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-04-14T08:00:18.440385+08:00",
+      "author": "shiyu-coder",
+      "name": "Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "ai_summary": "金融市场的语言基础模型，专注于金融文本理解与市场趋势预测，填补了垂直领域 LLM 在金融场景的应用空白。"
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-04-14T08:00:18.440429+08:00",
+      "author": "thedotmack",
+      "name": "claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "ai_summary": "Claude Code 的记忆插件，自动捕获编程会话全流程，经 AI 压缩后注入后续会话上下文，让 AI 助手真正「记住」项目历史。"
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-04-14T08:00:18.440479+08:00",
+      "author": "microsoft",
+      "name": "markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "ai_summary": "微软出品的文档转换工具，将 Office 文档、PDF 等格式一键转为 Markdown，打通办公文档与纯文本工作流的壁垒。"
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-04-14T08:00:18.440521+08:00",
+      "author": "multica-ai",
+      "name": "multica",
+      "url": "https://github.com/multica-ai/multica",
+      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "ai_summary": "开源托管 Agent 平台，将独立编程 Agent 整合为可协作的团队，支持任务分配、进度追踪和技能积累。"
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-04-14T08:00:18.440562+08:00",
+      "author": "coleam00",
+      "name": "Archon",
+      "url": "https://github.com/coleam00/Archon",
+      "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "ai_summary": "首个 AI 编程 Harness 构建器，通过结构化测试框架让 AI 编程行为可复现、可审计，推动 AI 编程从实验走向工程化。"
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-04-14T08:00:18.440603+08:00",
+      "author": "snarktank",
+      "name": "ralph",
+      "url": "https://github.com/snarktank/ralph",
+      "description": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "ai_summary": "自主 AI Agent 循环，持续运行直至所有 PRD 需求完成，适用于端到端产品开发流程的自动化推进。"
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-04-14T08:00:18.440643+08:00",
+      "author": "virattt",
+      "name": "ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "ai_summary": "AI 对冲基金团队框架，集成多角色 AI 协同进行市场分析与投资决策，探索量化交易的自动化新范式。"
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-04-14T08:00:18.440684+08:00",
+      "author": "anthropics",
+      "name": "claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "language": "Jupyter Notebook",
+      "stars": "",
+      "forks": "",
+      "ai_summary": "Anthropic 官方推出的 Claude 使用笔记本集，汇集了各种创意和高效的 Claude API 调用方式与最佳实践。"
+    }
+  ]
+}
