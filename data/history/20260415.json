@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-04-15T08:01:00.620097+08:00",
+  "date": "2026-04-15",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-04-15T08:01:00.619407+08:00",
+      "author": "forrestchang",
+      "name": "andrej-karpathy-skills",
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": "",
+      "forks": "",
+      "language": "",
+      "summary": "A curated CLAUDE.md configuration file for Claude Code, distilled from Andrej Karpathy's hard-won lessons about common LLM coding mistakes and how to avoid them. Great resource for developers wanting to get better results from AI coding assistants."
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-04-15T08:01:00.619511+08:00",
+      "author": "thedotmack",
+      "name": "claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "Memory plugin for Claude Code that automatically records coding sessions, uses AI to compress the context, and feeds relevant history back into future sessions. Essentially giving Claude Code persistent memory across sessions."
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-04-15T08:01:00.619595+08:00",
+      "author": "jamiepine",
+      "name": "voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source voice synthesis studio",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "An open-source voice synthesis studio, giving developers a free alternative to commercial voice generation tools. Likely enables text-to-speech generation with customizable voices and controls."
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-04-15T08:01:00.619657+08:00",
+      "author": "pascalorg",
+      "name": "editor",
+      "url": "https://github.com/pascalorg/editor",
+      "description": "Create and share 3D architectural projects.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "A browser-based 3D architectural editor that lets users design and share spatial/architectural projects collaboratively in the browser."
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-04-15T08:01:00.619773+08:00",
+      "author": "microsoft",
+      "name": "markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "Microsoft's document conversion tool that converts Word, Excel, PowerPoint, PDF and other office formats to clean Markdown. Very useful for migrating documents or making content web-friendly."
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-04-15T08:01:00.619844+08:00",
+      "author": "obra",
+      "name": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": "",
+      "forks": "",
+      "summary": "A methodology and framework for building agentic AI systems with practical skills. Designed to help software teams integrate AI agents into development workflows in a structured, reliable way."
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-04-15T08:01:00.619913+08:00",
+      "author": "chrislgarry",
+      "name": "Apollo-11",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "language": "Assembly",
+      "stars": "",
+      "forks": "",
+      "summary": "Historical repository containing the original Apollo 11 Guidance Computer source code — the software that flew humans to the Moon. A piece of computing history preserved for posterity."
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-04-15T08:01:00.619970+08:00",
+      "author": "virattt",
+      "name": "ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "An experimental AI-powered hedge fund project using multi-agent systems to conduct financial market analysis and trading decisions. Demonstrates applying AI agent architectures to quantitative finance."
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-04-15T08:01:00.619987+08:00",
+      "author": "shiyu-coder",
+      "name": "Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "Kronos is a foundation model trained specifically on financial market language — SEC filings, earnings calls, financial news — enabling deep financial NLP tasks like sentiment analysis, document understanding, and market prediction."
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-04-15T08:01:00.620026+08:00",
+      "author": "NousResearch",
+      "name": "hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "NousResearch's agent framework designed to be adaptive and self-improving — the agent learns and evolves based on interactions, making it more capable over time. Open-source alternative to proprietary AI agents."
+    }
+  ]
+}
