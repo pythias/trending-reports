@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-04-21T09:02:49.385052+08:00",
+  "date": "2026-04-21",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-04-21T09:02:49.384405+08:00",
+      "author": "Fincept-Corporation",
+      "name": "FinceptTerminal",
+      "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "一个现代化金融终端，提供高级市场分析、投资研究和经济数据工具，支持交互式数据探索，适合量化分析师和投资研究人员使用。"
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-04-21T09:02:49.384506+08:00",
+      "author": "ruvnet",
+      "name": "RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": "",
+      "forks": "",
+      "summary": "利用普通 WiFi 信号实现实时人体姿态估计、生命体征监测和存在检测的隐私保护型 AI 工具，全程无需任何视频画面，适合智能家居和医疗监护场景。"
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-04-21T09:02:49.384582+08:00",
+      "author": "thunderbird",
+      "name": "thunderbolt",
+      "url": "https://github.com/thunderbird/thunderbolt",
+      "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "Thunderbird 邮件客户端的 AI 扩展项目，允许用户自由选择大语言模型、掌控自己的数据，摆脱供应商绑定，强化隐私和自主权。"
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-04-21T09:02:49.384652+08:00",
+      "author": "paperless-ngx",
+      "name": "paperless-ngx",
+      "url": "https://github.com/paperless-ngx/paperless-ngx",
+      "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "开源文档管理系统，支持扫描、索引和归档各类纸质/电子文档，配有全文搜索和标签分类，是家庭与小型办公室实现无纸化的热门选择。"
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-04-21T09:02:49.384707+08:00",
+      "author": "tractorjuice",
+      "name": "arc-kit",
+      "url": "https://github.com/tractorjuice/arc-kit",
+      "description": "Enterprise Architecture Governance & Vendor Procurement Toolkit",
+      "language": "HTML",
+      "stars": "",
+      "forks": "",
+      "summary": "企业架构治理与供应商采购工具包，帮助企业评估技术选型、管理供应商合同和合规性，适合 CTO 办公室和企业架构团队。"
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-04-21T09:02:49.384761+08:00",
+      "author": "koala73",
+      "name": "worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "AI 驱动的全球情报仪表盘，聚合实时新闻、地缘政治动态和关键基础设施状态，适合记者、外交人员和风险分析师追踪全球局势。"
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-04-21T09:02:49.384816+08:00",
+      "author": "openai",
+      "name": "openai-agents-python",
+      "url": "https://github.com/openai/openai-agents-python",
+      "description": "A lightweight, powerful framework for multi-agent workflows",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "OpenAI 官方的多智能体工作流 Python 框架，提供轻量级但功能强大的多 Agent 编排能力，适合构建复杂 AI 自动化流程和 Agent 应用。"
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-04-21T09:02:49.384870+08:00",
+      "author": "deepseek-ai",
+      "name": "DeepGEMM",
+      "url": "https://github.com/deepseek-ai/DeepGEMM",
+      "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
+      "language": "Cuda",
+      "stars": "",
+      "forks": "",
+      "summary": "DeepSeek 开源的 FP8 矩阵乘法（GEMM）高效 CUDA 内核实现，支持细粒度缩放，专为高性能深度学习计算优化，可显著加速大模型训练推理。"
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-04-21T09:02:49.384926+08:00",
+      "author": "pi-hole",
+      "name": "pi-hole",
+      "url": "https://github.com/pi-hole/pi-hole",
+      "description": "A black hole for Internet advertisements",
+      "language": "Shell",
+      "stars": "",
+      "forks": "",
+      "summary": "网络级广告与追踪器拦截工具，部署在本地 DNS 服务器上即可屏蔽全网广告和恶意追踪域名，轻量、稳定，是自托管隐私保护的经典项目。"
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-04-21T09:02:49.384990+08:00",
+      "author": "XTLS",
+      "name": "Xray-core",
+      "url": "https://github.com/XTLS/Xray-core",
+      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+      "language": "Go",
+      "stars": "",
+      "forks": "",
+      "summary": "Xray 是 v2ray-core 的高性能分支，支持更多协议和功能，广泛用于网络代理与隐私通信，是对抗网络封锁的热门开源解决方案。"
+    }
+  ]
+}
