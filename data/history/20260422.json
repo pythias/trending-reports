@@ -1,0 +1,100 @@
+{
+  "timestamp": "2026-04-22T09:00:15.949009+08:00",
+  "date": "2026-04-22",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-04-22T09:00:15.948458+08:00",
+      "author": "Fincept-Corporation",
+      "name": "FinceptTerminal",
+      "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+      "language": "Python",
+      "summary": "一款现代化金融应用，提供高级市场分析、投资研究和经济学数据工具，支持交互式数据探索与决策，面向金融分析师和投资者。",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-04-22T09:00:15.948565+08:00",
+      "author": "thunderbird",
+      "name": "thunderbolt",
+      "url": "https://github.com/thunderbird/thunderbolt",
+      "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
+      "language": "TypeScript",
+      "summary": "Thunderbird 推出的 AI 控制工具，让用户自由选择模型、掌控自己的数据，摆脱供应商锁定，主打隐私与自主权。",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-04-22T09:00:15.948648+08:00",
+      "author": "zilliztech",
+      "name": "claude-context",
+      "url": "https://github.com/zilliztech/claude-context",
+      "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+      "language": "TypeScript",
+      "summary": "为 Claude Code 打造的代码搜索 MCP（Model Context Protocol）工具，可将整个代码库作为上下文供给 AI 编码助手使用，提升代码理解和生成质量。",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-04-22T09:00:15.948706+08:00",
+      "author": "ruvnet",
+      "name": "RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "summary": "利用普通 WiFi 信号实现实时人体姿态估计、生命体征监测和存在检测的隐私保护型感知技术，全程无需拍摄任何视频画面。",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-04-22T09:00:15.948762+08:00",
+      "author": "microsoft",
+      "name": "ai-agents-for-beginners",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "description": "12 Lessons to Get Started Building AI Agents",
+      "language": "Jupyter Notebook",
+      "summary": "微软出品的 AI Agent 入门教程，包含 12 节课程，涵盖 Agent 核心概念、架构设计、工具调用与实战项目，适合初学者系统学习。",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-04-22T09:00:15.948816+08:00",
+      "author": "dayanch96",
+      "name": "YTLite",
+      "url": "https://github.com/dayanch96/YTLite",
+      "description": "A flexible enhancer for YouTube on iOS",
+      "language": "Logos",
+      "summary": "面向 iOS 端 YouTube 的灵活增强工具，支持自定义功能扩展和界面定制，提升 iOS 用户的 YouTube 体验。",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-04-22T09:00:15.948886+08:00",
+      "author": "HKUDS",
+      "name": "RAG-Anything",
+      "url": "https://github.com/HKUDS/RAG-Anything",
+      "description": "\"RAG-Anything: All-in-One RAG Framework\"",
+      "language": "Python",
+      "summary": "全能型 RAG（检索增强生成）框架，整合多种数据源和检索策略，为构建知识密集型 AI 应用提供一站式解决方案。",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-04-22T09:00:15.948942+08:00",
+      "author": "sansan0",
+      "name": "TrendRadar",
+      "url": "https://github.com/sansan0/TrendRadar",
+      "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
+      "language": "Python",
+      "summary": "AI 驱动的舆情监控与趋势追踪工具，聚合多平台热点与 RSS，支持关键词筛选、AI 翻译、AI 简报及微信/飞书/钉钉等多渠道推送，本地或云端部署可选。"
+    }
+  ]
+}
