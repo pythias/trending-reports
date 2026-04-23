@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-04-23T09:00:18.248729+08:00",
+  "date": "2026-04-23",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-04-23T09:00:18.248092+08:00",
+      "author": "zilliztech",
+      "name": "claude-context",
+      "url": "https://github.com/zilliztech/claude-context",
+      "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "为 Claude Code 打造的代码搜索 MCP（Model Context Protocol）工具，将整个代码库作为上下文供 AI 编码代理使用，帮助开发者快速检索和理解大型代码库。"
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-04-23T09:00:18.248185+08:00",
+      "author": "Fincept-Corporation",
+      "name": "FinceptTerminal",
+      "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "现代化金融终端应用，提供高级市场分析、投资研究和宏观经济数据工具，支持交互式探索和数据驱动决策，适合金融从业者和投资者使用。"
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-04-23T09:00:18.248266+08:00",
+      "author": "koala73",
+      "name": "worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "实时全球情报仪表盘，利用 AI 聚合新闻、地缘政治监测和基础设施追踪，在统一界面中呈现态势感知，适用于安全分析师和政策研究人员。"
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-04-23T09:00:18.248324+08:00",
+      "author": "langfuse",
+      "name": "langfuse",
+      "url": "https://github.com/langfuse/langfuse",
+      "description": "🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "开源 LLM 工程平台，提供可观测性、评估指标、提示词管理、Playground 和数据集管理功能，深度集成 OpenTelemetry、Langchain、OpenAI SDK 等主流框架，是 LLM 应用开发的重要基础设施。"
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-04-23T09:00:18.248380+08:00",
+      "author": "KeygraphHQ",
+      "name": "shannon",
+      "url": "https://github.com/KeygraphHQ/shannon",
+      "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "Shannon Lite 是一款自主式白盒 AI 渗透测试工具，通过分析源代码识别攻击向量并执行真实漏洞利用，帮助开发者在上线前发现 Web 应用和 API 的安全弱点。"
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-04-23T09:00:18.248435+08:00",
+      "author": "open-metadata",
+      "name": "OpenMetadata",
+      "url": "https://github.com/open-metadata/OpenMetadata",
+      "description": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "统一元数据平台，涵盖数据发现、可观测性和数据治理，具备中央元数据仓库、深入的列级血缘追踪和无缝团队协作能力，是企业数据资产管理的核心工具。"
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-04-23T09:00:18.248501+08:00",
+      "author": "ruvnet",
+      "name": "RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": "",
+      "forks": "",
+      "summary": "利用商用 WiFi 信号实现实时人体姿态估计、生命体征监测和存在感知的工具，全程不依赖任何视频像素，在隐私敏感场景（如医疗、养老）中具有独特优势。"
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-04-23T09:00:18.248555+08:00",
+      "author": "HKUDS",
+      "name": "RAG-Anything",
+      "url": "https://github.com/HKUDS/RAG-Anything",
+      "description": "\"RAG-Anything: All-in-One RAG Framework\"",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "一体化 RAG（检索增强生成）框架，旨在为各种数据类型和应用场景提供统一的检索增强生成解决方案，降低 RAG 系统的构建门槛。"
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-04-23T09:00:18.248610+08:00",
+      "author": "sansan0",
+      "name": "TrendRadar",
+      "url": "https://github.com/sansan0/TrendRadar",
+      "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "AI 驱动的舆情监控与热点追踪工具，聚合多平台热点和 RSS 订阅，支持关键词筛选、AI 翻译和 AI 简报分析，集成微信、飞书、钉钉、邮件等多渠道推送，本地/云端自持，适合企业和媒体从业者。"
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-04-23T09:00:18.248665+08:00",
+      "author": "AIDC-AI",
+      "name": "Pixelle-Video",
+      "url": "https://github.com/AIDC-AI/Pixelle-Video",
+      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "AI 全自动短视频生成引擎，自动化处理视频内容创作流程，适合内容创作者和营销团队快速批量生产短视频内容。"
+    }
+  ]
+}
