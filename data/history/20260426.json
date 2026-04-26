@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-04-26T09:01:59.257382+08:00",
+  "date": "2026-04-26",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-04-26T09:01:59.256756+08:00",
+      "author": "Alishahryar1",
+      "name": "free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+      "summary": "一款让用户免费在终端、VSCode 扩展或 Discord 中使用 Claude Code 的工具，支持类似 OpenClaw 的集成方式，降低 AI 编程辅助的使用门槛。",
+      "language": "Python",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-04-26T09:01:59.256851+08:00",
+      "author": "mattpocock",
+      "name": "skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "My personal directory of skills, straight from my .claude directory.",
+      "summary": "作者 Matt Pocock 个人技能目录的公开版本，汇集了他在 .claude 配置中的各类技能和提示词，适合参考和学习高级 Claude Code 使用方式。",
+      "language": "Shell",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-04-26T09:01:59.256928+08:00",
+      "author": "Z4nzu",
+      "name": "hackingtool",
+      "url": "https://github.com/Z4nzu/hackingtool",
+      "description": "ALL IN ONE Hacking Tool For Hackers",
+      "summary": "集成了多种渗透测试和安全审计工具的一体化黑客工具箱，涵盖网络攻击、密码破解、信息收集等功能，适合安全研究人员学习使用。",
+      "language": "Python",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-04-26T09:01:59.256986+08:00",
+      "author": "PostHog",
+      "name": "posthog",
+      "url": "https://github.com/PostHog/posthog",
+      "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
+      "summary": "PostHog 是一个全功能开发者平台，提供产品分析、Web 分析、会话回放、错误追踪、功能开关、A/B 测试、问卷、数据仓库、CDP 以及 AI 助手，帮助团队在一套体系中完成产品成功所需的全部数据和分析需求。",
+      "language": "Python",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-04-26T09:01:59.257042+08:00",
+      "author": "davila7",
+      "name": "claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "summary": "用于配置和监控 Claude Code 的命令行工具，帮助开发者更高效地管理 AI 编程助手的行为和输出，适合深度定制 Claude Code 工作流的用户。",
+      "language": "Python",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-04-26T09:01:59.257096+08:00",
+      "author": "deepseek-ai",
+      "name": "DeepEP",
+      "url": "https://github.com/deepseek-ai/DeepEP",
+      "description": "DeepEP: an efficient expert-parallel communication library",
+      "summary": "DeepSeek 开源的高效专家并行通信库，专为 MoE（Mixture of Experts）模型设计，支持高效的分布式计算通信，在大模型训练和推理中具有重要价值。",
+      "language": "Cuda",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-04-26T09:01:59.257150+08:00",
+      "author": "PowerShell",
+      "name": "PowerShell",
+      "url": "https://github.com/PowerShell/PowerShell",
+      "description": "PowerShell for every system!",
+      "summary": "PowerShell 官方仓库，一个跨平台（Windows、macOS、Linux）的自动化和配置管理框架，提供强大的脚本能力和系统管理功能，由微软维护。",
+      "language": "C#",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-04-26T09:01:59.257203+08:00",
+      "author": "RooCodeInc",
+      "name": "Roo-Code",
+      "url": "https://github.com/RooCodeInc/Roo-Code",
+      "description": "Roo Code gives you a whole dev team of AI agents in your code editor.",
+      "summary": "在代码编辑器中提供多个 AI 代理协同工作的工具，模拟整个开发团队的工作模式，支持多代理分工合作，适合需要大规模 AI 辅助编程的场景。",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-04-26T09:01:59.257256+08:00",
+      "author": "huggingface",
+      "name": "ml-intern",
+      "url": "https://github.com/huggingface/ml-intern",
+      "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
+      "summary": "HuggingFace 开源的机器学习实习 Agent，能够自主阅读论文、训练模型并部署 ML 模型，为 AI 辅助机器学习工作流提供了开源参考实现。",
+      "language": "Python",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-04-26T09:01:59.257315+08:00",
+      "author": "codecrafters-io",
+      "name": "build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "summary": "Codecrafters 出品的「徒手造轮子」系列，通过从零实现热门技术（Redis、Git、Docker 等）来帮助开发者深入理解系统底层原理，是提升编程技能的经典学习项目。",
+      "language": "Markdown",
+      "stars": "",
+      "forks": ""
+    }
+  ]
+}
