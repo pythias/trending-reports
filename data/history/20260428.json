@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-04-28T09:01:23.668619+08:00",
+  "date": "2026-04-28",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-04-28T09:01:23.668080+08:00",
+      "author": "mattpocock",
+      "name": "skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars": "",
+      "forks": "",
+      "summary": "mattpocock 的实战技能库，直接来自其 .claude 目录。提供一系列面向真实工程师的 AI 技能提示词和最佳实践，帮助 Claude 等 AI 编程助手更高效地完成工程任务。"
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-04-28T09:01:23.668174+08:00",
+      "author": "abhigyanpatwari",
+      "name": "GitNexus",
+      "url": "https://github.com/abhigyanpatwari/GitNexus",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "零服务器的代码智能引擎，完全运行在浏览器中。用户只需上传 GitHub 仓库或 ZIP 文件，即可获得交互式知识图谱和内置的 Graph RAG Agent，非常适合代码探索和理解大型代码库结构。"
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-04-28T09:01:23.668239+08:00",
+      "author": "ComposioHQ",
+      "name": "awesome-codex-skills",
+      "url": "https://github.com/ComposioHQ/awesome-codex-skills",
+      "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "精选的 Codex 实战技能列表，涵盖 Codex CLI 和 API 工作流自动化的各种实用场景。帮助开发者利用 Codex 实现跨平台、跨工具的自动化工作流程。"
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-04-28T09:01:23.668287+08:00",
+      "author": "Alishahryar1",
+      "name": "free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "让你在终端、VSCode 扩展或 Discord 中免费使用 claude-code 的开源方案，类似 OpenClaw 的免费替代实现。降低了 AI 编程助手的门槛。"
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-04-28T09:01:23.668334+08:00",
+      "author": "gastownhall",
+      "name": "beads",
+      "url": "https://github.com/gastownhall/beads",
+      "description": "Beads - A memory upgrade for your coding agent",
+      "language": "Go",
+      "stars": "",
+      "forks": "",
+      "summary": "为 AI 编程助手提供的记忆增强工具，帮助解决长对话中上下文丢失的问题。让 AI 在处理复杂项目时能记住更多历史信息，提升长期任务的一致性和准确性。"
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-04-28T09:01:23.668380+08:00",
+      "author": "penpot",
+      "name": "penpot",
+      "url": "https://github.com/penpot/penpot",
+      "description": "Penpot: The open-source design tool for design and code collaboration",
+      "language": "Clojure",
+      "stars": "",
+      "forks": "",
+      "summary": "开源设计工具，支持设计和代码协作。采用 Clojure 开发，提供类似 Figma 的在线设计体验，同时桥接设计与前端代码，是设计师和开发者协作的有力工具。"
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-04-28T09:01:23.668426+08:00",
+      "author": "davila7",
+      "name": "claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "命令行工具，用于配置和监控 Claude Code 的运行状态和模板管理。帮助团队标准化 AI 编程助手的使用流程，提升协作效率。"
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-04-28T09:01:23.668470+08:00",
+      "author": "microsoft",
+      "name": "VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "微软开源的前沿语音 AI 项目，提供语音识别、合成和对话能力的开源实现。代表了微软在语音人工智能领域的前沿探索。"
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-04-28T09:01:23.668514+08:00",
+      "author": "Z4nzu",
+      "name": "hackingtool",
+      "url": "https://github.com/Z4nzu/hackingtool",
+      "description": "ALL IN ONE Hacking Tool For Hackers",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "一体化黑客工具集，聚合了多种渗透测试和安全研究工具。面向安全研究人员和白帽子，用于合法的安全评估和漏洞检测。"
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-04-28T09:01:23.668563+08:00",
+      "author": "TauricResearch",
+      "name": "TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "多智能体 LLM 金融交易框架，利用多个 AI 智能体协同进行金融分析与交易决策。融合了大语言模型和多代理架构，为量化交易研究提供了新思路。"
+    }
+  ]
+}
