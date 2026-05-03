@@ -1,0 +1,102 @@
+{
+  "timestamp": "2026-05-03T09:00:10.377474+08:00",
+  "date": "2026-05-03",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-05-03T09:00:10.373043+08:00",
+      "author": "TauricResearch",
+      "name": "TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "基于多智能体 LLM 的金融交易框架，支持多模型协同决策，适用于量化交易场景。"
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-05-03T09:00:10.373123+08:00",
+      "author": "ruvnet",
+      "name": "ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "领先的 Claude 智能体编排平台，支持多智能体蜂群部署、工作流自动化、RAG 集成，深度整合 Claude Code 和 Codex。"
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-05-03T09:00:10.373178+08:00",
+      "author": "browserbase",
+      "name": "skills",
+      "url": "https://github.com/browserbase/skills",
+      "description": "Claude Agent SDK with a web browsing tool",
+      "language": "JavaScript",
+      "stars": "",
+      "forks": "",
+      "summary": "为 Claude Agent 提供网页浏览能力的 SDK，让 AI 智能体能像人一样浏览和操作网页。"
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-05-03T09:00:10.373331+08:00",
+      "author": "soxoj",
+      "name": "maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "description": "Collect a dossier on a person by username from 3000+ sites",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "通过用户名从 3000+ 站点收集个人信息档案的开源情报工具，适用于渗透测试和 OSINT 调查。"
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-05-03T09:00:10.373279+08:00",
+      "author": "Flowseal",
+      "name": "zapret-discord-youtube",
+      "url": "https://github.com/Flowseal/zapret-discord-youtube",
+      "language": "Batchfile",
+      "stars": "",
+      "forks": "",
+      "description": "",
+      "summary": "针对 Discord 和 YouTube 的流量限制解决方案，提供网络穿透和加速配置脚本。"
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-05-03T09:00:10.373330+08:00",
+      "author": "1jehuang",
+      "name": "jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "Coding Agent Harness",
+      "language": "Rust",
+      "stars": "",
+      "forks": "",
+      "summary": "用 Rust 编写的编程智能体测试框架，用于评估和基准测试 AI 编程能力。"
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-05-03T09:00:10.373373+08:00",
+      "author": "ShareX",
+      "name": "ShareX",
+      "url": "https://github.com/ShareX/ShareX",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+      "language": "C#",
+      "stars": "",
+      "forks": "",
+      "summary": "免费开源的截图/录屏工具，支持一键截取屏幕、上传图片/文本/文件到多种平台。"
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-05-03T09:00:10.373417+08:00",
+      "author": "jwasham",
+      "name": "coding-interview-university",
+      "url": "https://github.com/jwasham/coding-interview-university",
+      "description": "A complete computer science study plan to become a software engineer.",
+      "language": "",
+      "stars": "",
+      "forks": "",
+      "summary": "成为软件工程师的完整计算机科学学习路线图，涵盖算法、系统设计、基础知识等。"
+    }
+  ]
+}
