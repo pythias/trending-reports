@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-05-06T09:02:35.069866+08:00",
+  "date": "2026-05-06",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-05-06T09:02:35.069285+08:00",
+      "author": "Hmbown",
+      "name": "DeepSeek-TUI",
+      "url": "https://github.com/Hmbown/DeepSeek-TUI",
+      "description": "Coding agent for DeepSeek models that runs in your terminal",
+      "language": "Rust",
+      "stars": "",
+      "forks": "",
+      "summary": "A terminal-based coding agent for DeepSeek models, built in Rust. Offers a lightweight, distraction-free local coding assistant experience directly in the CLI."
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-05-06T09:02:35.069397+08:00",
+      "author": "ruvnet",
+      "name": "ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "Enterprise-grade multi-agent orchestration platform for Claude. Supports autonomous swarm coordination, RAG integration, and native Claude Code/Codex hooks — targeting developers building complex AI workflows."
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-05-06T09:02:35.069453+08:00",
+      "author": "virattt",
+      "name": "dexter",
+      "url": "https://github.com/virattt/dexter",
+      "description": "An autonomous agent for deep financial research",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "Autonomous AI agent specialized in deep financial research. Designed to autonomously navigate markets, analyze reports, and synthesize investment insights without human intervention."
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-05-06T09:02:35.069505+08:00",
+      "author": "docusealco",
+      "name": "docuseal",
+      "url": "https://github.com/docusealco/docuseal",
+      "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+      "language": "Ruby",
+      "stars": "",
+      "forks": "",
+      "summary": "Open-source DocuSign replacement for creating, filling, and signing digital documents. Built with Ruby, targets businesses needing a self-hosted e-signature solution."
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-05-06T09:02:35.069551+08:00",
+      "author": "bwya77",
+      "name": "vscode-dark-islands",
+      "url": "https://github.com/bwya77/vscode-dark-islands",
+      "description": "VSCode theme based off the easemate IDE and Jetbrains islands theme",
+      "language": "PowerShell",
+      "stars": "",
+      "forks": "",
+      "summary": "A VSCode dark theme inspired by the Easemate IDE and JetBrains Islands theme. Catering to developers who want a cohesive dark aesthetic across editors."
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-05-06T09:02:35.069605+08:00",
+      "author": "mksglu",
+      "name": "context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "Context window optimization tool for AI coding agents. Sandboxes tool output with 98% token reduction across 14 platforms, helping agents stay within context limits."
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-05-06T09:02:35.069659+08:00",
+      "author": "cocoindex-io",
+      "name": "cocoindex",
+      "url": "https://github.com/cocoindex-io/cocoindex",
+      "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "Incremental indexing engine designed for long-horizon AI agents. Keeps agent context lean over extended sessions by providing smart, incremental memory management."
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-05-06T09:02:35.069703+08:00",
+      "author": "msitarzewski",
+      "name": "agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": "",
+      "forks": "",
+      "summary": "A shell-based toolkit of specialized AI agents — from frontend developers to Reddit marketers — each with distinct personalities and defined deliverables."
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-05-06T09:02:35.069756+08:00",
+      "author": "jwasham",
+      "name": "coding-interview-university",
+      "url": "https://github.com/jwasham/coding-interview-university",
+      "description": "A complete computer science study plan to become a software engineer.",
+      "stars": "",
+      "forks": "",
+      "language": "",
+      "summary": "The legendary CS study plan to become a software engineer. A massively popular GitHub repo with structured learning paths covering algorithms, systems design, and more."
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-05-06T09:02:35.069803+08:00",
+      "author": "Arindam200",
+      "name": "awesome-ai-apps",
+      "url": "https://github.com/Arindam200/awesome-ai-apps",
+      "description": "A collection of projects showcasing RAG, agents, workflows, and other AI use cases",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "Curated collection of AI application demos covering RAG, agents, and workflows. A great starting point for developers exploring real-world LLM use cases."
+    }
+  ]
+}
