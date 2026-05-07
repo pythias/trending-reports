@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-05-07T23:02:39.123984+08:00",
+  "date": "2026-05-07",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-05-07T23:02:39.123321+08:00",
+      "author": "anthropics",
+      "name": "financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "description": "",
+      "summary": "Anthropics 官方案例，展示金融服务业 AI 应用开发范式，可能包含 Claude 在金融场景下的最佳实践。"
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-05-07T23:02:39.123431+08:00",
+      "author": "Hmbown",
+      "name": "DeepSeek-TUI",
+      "url": "https://github.com/Hmbown/DeepSeek-TUI",
+      "description": "Coding agent for DeepSeek models that runs in your terminal",
+      "language": "Rust",
+      "stars": "",
+      "forks": "",
+      "summary": "Rust 写的终端 UI 版 DeepSeek 编程助手，让你直接在命令行里使用 DeepSeek 模型进行 AI 辅助编程。"
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-05-07T23:02:39.123499+08:00",
+      "author": "z-lab",
+      "name": "dflash",
+      "url": "https://github.com/z-lab/dflash",
+      "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "通过块级扩散技术实现极速推测解码（Speculative Decoding），加速 LLM 推理的新方法。"
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-05-07T23:02:39.123556+08:00",
+      "author": "InsForge",
+      "name": "InsForge",
+      "url": "https://github.com/InsForge/InsForge",
+      "description": "InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "基于 Postgres 的全栈后端方案，集认证、存储、计算、托管和 AI 网关于一体，专为编程 Agent 打造。"
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-05-07T23:02:39.123622+08:00",
+      "author": "LearningCircuit",
+      "name": "local-deep-research",
+      "url": "https://github.com/LearningCircuit/local-deep-research",
+      "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "本地深度研究工具，在消费级 GPU（如 RTX 3090）上实现接近 GPT-4 的 SimpleQA 水平，支持几乎所有本地/云端 LLM 和 10+ 搜索引擎，所有数据本地加密。"
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-05-07T23:02:39.123743+08:00",
+      "author": "addyosmani",
+      "name": "agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "Shell",
+      "stars": "",
+      "forks": "",
+      "summary": "Google 工程师 addyosmani 出品，面向 AI 编程 Agent 的生产级工程技能集，涵盖代码审查、调试、重构等实战技能。"
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-05-07T23:02:39.123807+08:00",
+      "author": "VectifyAI",
+      "name": "PageIndex",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "无需向量数据库的推理型 RAG 文档索引方案，通过 PageIndex 实现高效检索，简化 RAG 架构。"
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-05-07T23:02:39.123860+08:00",
+      "author": "vercel-labs",
+      "name": "open-agents",
+      "url": "https://github.com/vercel-labs/open-agents",
+      "description": "An open source template for building cloud agents.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "Vercel Labs 出品的开源云端 AI Agent 搭建模板，基于 TypeScript，快速构建云端 Agent 服务。"
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-05-07T23:02:39.123912+08:00",
+      "author": "docusealco",
+      "name": "docuseal",
+      "url": "https://github.com/docusealco/docuseal",
+      "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+      "language": "Ruby",
+      "stars": "",
+      "forks": "",
+      "summary": "开源 DocuSign 替代方案，用 Ruby 构建，支持创建、填写和签署数字文档的工作流。"
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-05-07T23:02:39.123965+08:00",
+      "author": "decolua",
+      "name": "9router",
+      "url": "https://github.com/decolua/9router",
+      "description": "🆓 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "language": "JavaScript",
+      "stars": "",
+      "forks": "",
+      "summary": "通过 40+ 提供商连接各种 AI 编程工具（Claude Code、Cursor 等）到免费 Claude/GPT/Gemini，支持自动 fallback 和 RTK 节省 40% tokens，永不超限。"
+    }
+  ]
+}
