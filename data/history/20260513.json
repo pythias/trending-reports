@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-05-13T09:00:18.462017+08:00",
+  "date": "2026-05-13",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-05-13T09:00:18.461436+08:00",
+      "author": "tinyhumansai",
+      "name": "openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "language": "Rust",
+      "stars": "",
+      "forks": "",
+      "summary": "Rust实现的个人AI超级智能体，主打隐私、简单和强大。具体功能尚需进一步了解，但定位为面向个人的AI助手工具。"
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-05-13T09:00:18.461536+08:00",
+      "author": "rohitg00",
+      "name": "agentmemory",
+      "url": "https://github.com/rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "为AI编码智能体打造的持久化记忆库，基于真实世界基准测试排名第一。支持智能体在长时间任务中保持上下文记忆，提升代码生成的连贯性和准确性。"
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-05-13T09:00:18.461606+08:00",
+      "author": "CloakHQ",
+      "name": "CloakBrowser",
+      "url": "https://github.com/CloakHQ/CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "反机器人检测的 stealth Chromium，可作为Playwright的直接替代品。通过源码级指纹补丁实现，30/30测试全部通过，适合需要绕过反爬虫检测的自动化场景。"
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-05-13T09:00:18.461656+08:00",
+      "author": "apernet",
+      "name": "hysteria",
+      "url": "https://github.com/apernet/hysteria",
+      "description": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
+      "language": "Go",
+      "stars": "",
+      "forks": "",
+      "summary": "高速、抗审查的代理工具，基于Go语言实现，主打极速和强抗封锁能力。适合需要绕过网络限制的场景。"
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-05-13T09:00:18.461761+08:00",
+      "author": "mattpocock",
+      "name": "skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars": "",
+      "forks": "",
+      "summary": "Matt Pocock（TypeScript专家）分享的真实工程师技能集，直接来源于其.claude目录。涵盖实用的工程实践和技巧，适合想提升开发效率的工程师。"
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-05-13T09:00:18.461808+08:00",
+      "author": "anonfaded",
+      "name": "FadCam",
+      "url": "https://github.com/anonfaded/FadCam",
+      "description": "Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control",
+      "language": "Java",
+      "stars": "",
+      "forks": "",
+      "summary": "开源、无广告的Android多媒体录制器，支持后台录像、屏幕录制、直播和远程摄像头控制。适合需要移动端录制能力的用户。"
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-05-13T09:00:18.461855+08:00",
+      "author": "millionco",
+      "name": "react-doctor",
+      "url": "https://github.com/millionco/react-doctor",
+      "description": "Your agent writes bad React. This catches it",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "AI智能体写出的React代码质量参差不齐，react-doctor正是用来检测和修复这些问题的工具。帮助开发者捕获AI生成的低质量React代码。"
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-05-13T09:00:18.461904+08:00",
+      "author": "rasbt",
+      "name": "LLMs-from-scratch",
+      "url": "https://github.com/rasbt/LLMs-from-scratch",
+      "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+      "language": "Jupyter Notebook",
+      "stars": "",
+      "forks": "",
+      "summary": "手把手教你用PyTorch从零构建类ChatGPT的大语言模型，包含完整代码和逐步讲解。适合想深入理解LLM原理的开发者。"
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-05-13T09:00:18.461909+08:00",
+      "author": "datawhalechina",
+      "name": "hello-agents",
+      "url": "https://github.com/datawhalechina/hello-agents",
+      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "Datawhale出品的《从零开始构建智能体》教程，讲解AI智能体的原理与实践，适合想入门智能体开发的Python开发者。"
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-05-13T09:00:18.461953+08:00",
+      "author": "yikart",
+      "name": "AiToEarn",
+      "url": "https://github.com/yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "探索用AI赚钱的项目合集或工具平台，帮助用户利用AI技术实现收益。"
+    }
+  ]
+}
