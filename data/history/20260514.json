@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-05-14T09:01:28.080587+08:00",
+  "date": "2026-05-14",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-05-14T09:01:28.079958+08:00",
+      "author": "tinyhumansai",
+      "name": "openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "language": "Rust",
+      "stars": "",
+      "forks": "",
+      "summary": "A Rust-based personal AI super intelligence framework focused on privacy and power. Aims to be a private, simple yet extremely capable AI assistant running locally."
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-05-14T09:01:28.080057+08:00",
+      "author": "rohitg00",
+      "name": "agentmemory",
+      "url": "https://github.com/rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "A TypeScript library providing persistent memory capabilities for AI coding agents. Claims #1 ranking based on real-world benchmarks, enabling agents to maintain context across sessions."
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-05-14T09:01:28.080132+08:00",
+      "author": "obra",
+      "name": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": "",
+      "forks": "",
+      "summary": "An agentic skills framework combined with a practical software development methodology. Shell-based, designed to enhance developer productivity through structured agent workflows."
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-05-14T09:01:28.080252+08:00",
+      "author": "yikart",
+      "name": "AiToEarn",
+      "url": "https://github.com/yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "A platform leveraging AI for earning opportunities. TypeScript-based project exploring monetization through AI capabilities."
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-05-14T09:01:28.080305+08:00",
+      "author": "influxdata",
+      "name": "telegraf",
+      "url": "https://github.com/influxdata/telegraf",
+      "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+      "language": "Go",
+      "stars": "",
+      "forks": "",
+      "summary": "The official InfluxData agent written in Go for collecting, processing, aggregating, and writing metrics, logs, and arbitrary data. Part of the TICK stack ecosystem."
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-05-14T09:01:28.080356+08:00",
+      "author": "millionco",
+      "name": "react-doctor",
+      "url": "https://github.com/millionco/react-doctor",
+      "description": "Your agent writes bad React. This catches it",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "A TypeScript linting/validation tool that catches bad React code patterns written by AI agents. Helps maintain code quality when using AI-assisted React development."
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-05-14T09:01:28.080407+08:00",
+      "author": "K-Dense-AI",
+      "name": "scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "A collection of production-ready agent skills tailored for research, scientific computing, engineering, financial analysis, and writing tasks. Python-based modular design."
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-05-14T09:01:28.080469+08:00",
+      "author": "danielmiessler",
+      "name": "Personal_AI_Infrastructure",
+      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "A comprehensive personal AI infrastructure framework by Daniel Miessler, designed to augment human capabilities through agentic AI workflows. TypeScript-based."
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-05-14T09:01:28.080520+08:00",
+      "author": "supertone-inc",
+      "name": "supertonic",
+      "url": "https://github.com/supertone-inc/supertonic",
+      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+      "language": "Swift",
+      "stars": "",
+      "forks": "",
+      "summary": "A high-performance, on-device multilingual text-to-speech system running natively via ONNX. Swift-based, focusing on speed and privacy by processing audio locally."
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-05-14T09:01:28.080520+08:00",
+      "author": "CloakHQ",
+      "name": "CloakBrowser",
+      "url": "https://github.com/CloakHQ/CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "A stealth browser based on Chromium that evades all bot detection systems. Provides source-level fingerprint patches as a drop-in Playwright replacement, passing 30/30 detection tests."
+    }
+  ]
+}
