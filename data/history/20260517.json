@@ -1,0 +1,86 @@
+{
+  "timestamp": "2026-05-17T09:01:38.630358+08:00",
+  "date": "2026-05-17",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-05-17T09:01:38.629798+08:00",
+      "author": "oven-sh",
+      "name": "bun",
+      "url": "https://github.com/oven-sh/bun",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "language": "Rust",
+      "summary": "Bun 是一个用 Rust 编写的极速 JavaScript 运行时，同时集成了打包器、测试运行器和包管理器的功能。它旨在成为 Node.js 的替代方案，在性能上有显著优势，尤其在启动速度和执行效率方面表现突出。"
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-05-17T09:01:38.629901+08:00",
+      "author": "K-Dense-AI",
+      "name": "scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "language": "Python",
+      "summary": "K-Dense-AI 的科学智能体技能库，提供可直接使用的 AI Agent 技能，涵盖科研、工程、分析、金融和写作等多个领域。旨在帮助研究人员和从业者快速构建具备专业能力的 AI 助手。"
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-05-17T09:01:38.629974+08:00",
+      "author": "obra",
+      "name": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "summary": "Superpowers 是一个 AI Agent 技能框架与软件开发方法论，帮助开发者构建可靠的自主代理系统。它提供了一套系统化的开发模式和技能编排机制，让 AI Agent 的开发更加规范和高效。"
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-05-17T09:01:38.630050+08:00",
+      "author": "Anil-matcha",
+      "name": "Open-Generative-AI",
+      "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+      "description": "Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "language": "JavaScript",
+      "summary": "开源的 AI 图像和视频生成工作室，集成 200+ 主流模型（Flux、Midjourney、Kling、Sora、Veo 等），无需内容过滤，支持自托管，MIT 许可证。为用户提供完全免费且私密的 AI 生成体验。"
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-05-17T09:01:38.630112+08:00",
+      "author": "supertone-inc",
+      "name": "supertonic",
+      "url": "https://github.com/supertone-inc/supertonic",
+      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+      "language": "Swift",
+      "summary": "Supertonic 是超快速、设备端运行的多语言 TTS（文本转语音）引擎，基于 ONNX 原生运行。无需网络连接即可在本地设备上实现高质量语音合成，支持多语言，专为低延迟场景优化。"
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-05-17T09:01:38.630171+08:00",
+      "author": "tinyhumansai",
+      "name": "openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "language": "Rust",
+      "summary": "OpenHuman 是一个个人 AI 超级智能体项目，注重隐私性、简洁性和强大功能的结合。采用 Rust 构建，提供完全本地化的 AI 能力，让用户拥有对自身数据和 AI 能力的完全控制。"
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-05-17T09:01:38.630229+08:00",
+      "author": "ruvnet",
+      "name": "RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "summary": "RuView 利用普通 WiFi 信号实现实时空间感知、生命体征监测和存在检测，无需任何摄像头即可完成感知识别。基于 WiFi 的无线电信号变化分析，提供非侵入式的智能家居和健康监测解决方案。"
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-05-17T09:01:38.630286+08:00",
+      "author": "colbymchenry",
+      "name": "codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local",
+      "language": "TypeScript",
+      "summary": "CodeGraph 是为 Claude Code 设计的预索引代码知识图谱，通过结构化代码表示大幅减少 token 消耗和工具调用次数。100% 本地运行，帮助开发者在不依赖云端的情况下高效使用 AI 编程辅助。"
+    }
+  ]
+}
