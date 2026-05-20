@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-05-19T09:03:33.949931+08:00",
+  "date": "2026-05-19",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-05-19T09:03:33.949293+08:00",
+      "author": "tinyhumansai",
+      "name": "openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "language": "Rust",
+      "stars": "",
+      "forks": "",
+      "summary": "Rust 实现的大型语言模型对话框架，主打隐私优先和本地部署，适合追求极致性能和私密性的开发者。"
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-05-19T09:03:33.949398+08:00",
+      "author": "HKUDS",
+      "name": "CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "香港大学开源项目，将任何软件工具转化为 AI Agent 可调用的 CLI 接口，降低 AI Agent 接入现有工具链的门槛。"
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-05-19T09:03:33.949469+08:00",
+      "author": "K-Dense-AI",
+      "name": "scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "面向科研、工程、金融、写作等场景的即用型 AI Agent Skills 合集，开箱即用，降低在专业领域使用 AI Agent 的门槛。"
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-05-19T09:03:33.949526+08:00",
+      "author": "supertone-inc",
+      "name": "supertonic",
+      "url": "https://github.com/supertone-inc/supertonic",
+      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+      "language": "Swift",
+      "stars": "",
+      "forks": "",
+      "summary": "基于 ONNX 的极速多语言 TTS 引擎，支持端侧本地运行，无需网络，适合嵌入式和移动端语音合成场景。"
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-05-19T09:03:33.949587+08:00",
+      "author": "ggml-org",
+      "name": "llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "language": "C++",
+      "stars": "",
+      "forks": "",
+      "summary": "纯 C/C++ 实现的 LLM 推理引擎，以高效的量化压缩和跨平台支持著称，是本地部署大模型的首选方案。"
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-05-19T09:03:33.949643+08:00",
+      "author": "ruvnet",
+      "name": "RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": "",
+      "forks": "",
+      "summary": "利用商品 WiFi 信号实现实时空间感知、生命体征监测和存在检测，无需摄像头，在隐私敏感场景下价值突出。"
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-05-19T09:03:33.949698+08:00",
+      "author": "CloakHQ",
+      "name": "CloakBrowser",
+      "url": "https://github.com/CloakHQ/CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "通过源代码级指纹补丁绕过所有机器人检测的 Chromium 分支，可作为 Playwright 直接替代，支持 30/30 测试通过。"
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-05-19T09:03:33.949754+08:00",
+      "author": "tech-leads-club",
+      "name": "agent-skills",
+      "url": "https://github.com/tech-leads-club/agent-skills",
+      "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "专业 AI 编码 Agent 的安全技能注册表，经过验证的 Skills 库，可扩展至 Antigravity、Claude Code、Cursor、Copilot 等主流工具。"
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-05-19T09:03:33.949808+08:00",
+      "author": "BigBodyCobain",
+      "name": "Shadowbroker",
+      "url": "https://github.com/BigBodyCobain/Shadowbroker",
+      "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "开源情报聚合工具，整合私人飞机轨迹、间谍卫星、地震数据等多源信息，支持 AI Agent 关联分析，适合安全研究和商业情报。"
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-05-19T09:03:33.949864+08:00",
+      "author": "humanlayer",
+      "name": "12-factor-agents",
+      "url": "https://github.com/humanlayer/12-factor-agents",
+      "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "探讨如何构建能在生产环境中真正交付客户的 LLM 应用软件，总结 12 条核心原则，涵盖可靠性、可观测性和持续改进。"
+    }
+  ]
+}
