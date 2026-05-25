@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-05-21T09:01:43.324301+08:00",
+  "date": "2026-05-21",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-05-21T09:01:43.323657+08:00",
+      "author": "colbymchenry",
+      "name": "codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "为 Claude Code、Codex、Cursor 等 AI 编程工具打造的预索引代码知识图谱，100% 本地运行，大幅减少 token 消耗和工具调用次数。"
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-05-21T09:01:43.323749+08:00",
+      "author": "Imbad0202",
+      "name": "academic-research-skills",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "面向 Claude Code 的学术研究技能工作流，覆盖研究→写作→审稿→修订→定稿全流程，帮助自动化学术写作。"
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-05-21T09:01:43.323817+08:00",
+      "author": "tinyhumansai",
+      "name": "openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "language": "Rust",
+      "stars": "",
+      "forks": "",
+      "summary": "个人 AI 超级智能体，主打隐私、简洁和强大性能，基于 Rust 实现的全本地化 AI 助手。"
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-05-21T09:01:43.323875+08:00",
+      "author": "multica-ai",
+      "name": "andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "",
+      "stars": "",
+      "forks": "",
+      "summary": "源自 Andrej Karpathy 关于 LLM 编程陷阱的观察，用一个 CLAUDE.md 文件提升 Claude Code 的编程表现和稳定性。"
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-05-21T09:01:43.323933+08:00",
+      "author": "rohitg00",
+      "name": "ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "从零开始学习 AI 工程化的实战教程，涵盖从学习到构建再到交付的全链路实践指南。"
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-05-21T09:01:43.324000+08:00",
+      "author": "HKUDS",
+      "name": "CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": \"让所有软件都具有 Agent 原生能力\"，通过 CLI 接口让任意软件接入 AI Agent 生态，配套 CLI-Hub 社区。\"
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-05-21T09:01:43.324056+08:00",
+      "author": "can1357",
+      "name": "oh-my-pi",
+      "url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "终端 AI 编程 Agent，支持哈希锚定编辑、LSP、Python、浏览器和子 Agent，提供优化的工具调用框架。"
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-05-21T09:01:43.324110+08:00",
+      "author": "obra",
+      "name": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": "",
+      "forks": "",
+      "summary": \"有效的\" Agent 技能框架与软件开发方法论，提供一套经过验证的 Agent 开发实践和工作流程。"
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-05-21T09:01:43.324174+08:00",
+      "author": "anthropics",
+      "name": "claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "Anthropic 官方维护的高质量 Claude Code 插件目录，汇集经过审核的优质扩展能力。"
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-05-21T09:01:43.324226+08:00",
+      "author": "msitarzewski",
+      "name": "agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": "",
+      "forks": "",
+      "summary": "一站式 AI Agency 系统，包含前端、后端、社交媒体等多类型专业 Agent，各 Agent 有独立人设、流程和交付物。"
+    }
+  ]
+}
