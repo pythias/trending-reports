@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-05-27T09:03:56.836772+08:00",
+  "date": "2026-05-27",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-05-27T09:03:56.836122+08:00",
+      "author": "Lum1104",
+      "name": "Understand-Anything",
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "将任意代码转换为可交互的知识图谱，帮助开发者探索、搜索和提问代码结构。支持主流 AI 编码助手（Claude Code、Copilot、Cursor 等）。核心理念是「用于教学的图谱 > 用于炫技的图谱」，适合代码理解和学习场景。"
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-05-27T09:03:56.836217+08:00",
+      "author": "affaan-m",
+      "name": "ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": "",
+      "forks": "",
+      "summary": "AI Agent 性能优化工具集，为 Claude Code、Codex、Cursor 等提供 skills、instincts、memory、security 和 research-first 开发模式的增强。帮助开发者打造更高效、更专业的 AI 编码代理工作流。"
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-05-27T09:03:56.836295+08:00",
+      "author": "rohitg00",
+      "name": "ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "从零学习并构建 AI 工程的实战教程项目，强调「学习→构建→发布」的完整路径。面向希望系统掌握 AI 开发的工程师，提供实践导向的学习资源。"
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-05-27T09:03:56.836364+08:00",
+      "author": "anthropics",
+      "name": "knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "Anthropic 官方的 Claude Cowork 知识工作者插件开源库，提供一系列提升知识工作效率的插件。帮助用户在协作场景中更好地完成研究、分析和写作任务。"
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-05-27T09:03:56.836419+08:00",
+      "author": "mukul975",
+      "name": "Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "754 个结构化网络安全技能，映射到 MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND 和 NIST AI RMF 五大框架。兼容 20+ AI 平台，涵盖 26 个安全领域，是目前最全面的 AI 网络安全技能库之一。"
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-05-27T09:03:56.836485+08:00",
+      "author": "hardikpandya",
+      "name": "stop-slop",
+      "url": "https://github.com/hardikpandya/stop-slop",
+      "description": "A skill file for removing AI tells from prose",
+      "stars": "",
+      "forks": "",
+      "language": "",
+      "summary": "一个让 AI 写作去除「AI 腔调」的 skill 文件。通过特定的 prompt 技术让 AI 生成的文章更自然、更有人的味道，适合需要高质量内容输出的场景。"
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-05-27T09:03:56.836540+08:00",
+      "author": "Leonxlnx",
+      "name": "taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "language": "Shell",
+      "stars": "",
+      "forks": "",
+      "summary": "提升 AI 输出「品味」的 skill，让 AI 不再生成千篇一律的平庸内容。类似于 stop-slop，专注于让 AI 的输出更有创意、更有格调，拒绝流水线式的通用回复。"
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-05-27T09:03:56.836603+08:00",
+      "author": "DigitalPlatDev",
+      "name": "FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+      "language": "HTML",
+      "stars": "",
+      "forks": "",
+      "summary": "为所有人提供免费域名的平台项目。DigitalPlat 的 FreeDomain 服务旨在降低个人开发者和小项目的域名门槛，让免费域名变得触手可及。"
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-05-27T09:03:56.836655+08:00",
+      "author": "jellyfin",
+      "name": "jellyfin",
+      "url": "https://github.com/jellyfin/jellyfin",
+      "description": "The Free Software Media System - Server Backend & API",
+      "language": "C#",
+      "stars": "",
+      "forks": "",
+      "summary": "Jellyfin 是一个开源免费媒体系统，提供完整的媒体服务器后端和 API。可以自建家庭媒体中心，支持视频、音频、图片管理，是 Plex 的开源替代方案。"
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-05-27T09:03:56.836707+08:00",
+      "author": "Axorax",
+      "name": "awesome-free-apps",
+      "url": "https://github.com/Axorax/awesome-free-apps",
+      "description": "Curated list of the best free apps for PC and mobile",
+      "language": "JavaScript",
+      "stars": "",
+      "forks": "",
+      "summary": "精选的免费桌面和移动应用列表，帮助用户发现优质且完全免费的应用。涵盖 Windows、macOS、Linux、Android、iOS 等平台，持续更新。"
+    }
+  ]
+}
