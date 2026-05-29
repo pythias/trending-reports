@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-05-29T09:00:05.833185+08:00",
+  "date": "2026-05-29",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-05-29T09:00:05.832570+08:00",
+      "author": "harry0703",
+      "name": "MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "一个AI短视频生成工具，支持一键生成高清短视频，适合内容创作者快速产出视频内容。"
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-05-29T09:00:05.832659+08:00",
+      "author": "affaan-m",
+      "name": "ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": "",
+      "forks": "",
+      "summary": "一个AI Agent性能优化框架，为Claude Code、Codex、Cursor等工具提供技能、本能、记忆和安全机制，提升开发效率。"
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-05-29T09:00:05.832734+08:00",
+      "author": "Leonxlnx",
+      "name": "taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "language": "Shell",
+      "stars": "",
+      "forks": "",
+      "summary": "一个AI技能框架，让AI模型学会「品味」，避免生成无聊、泛泛的平庸内容，提升输出质量。"
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-05-29T09:00:05.832798+08:00",
+      "author": "hardikpandya",
+      "name": "stop-slop",
+      "url": "https://github.com/hardikpandya/stop-slop",
+      "description": "A skill file for removing AI tells from prose",
+      "language": "",
+      "stars": "",
+      "forks": "",
+      "summary": "一个技能文件，用于去除AI写作痕迹，让AI生成的文本读起来更自然，减少「AI味」。"
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-05-29T09:00:05.832854+08:00",
+      "author": "twentyhq",
+      "name": "twenty",
+      "url": "https://github.com/twentyhq/twenty",
+      "description": "The open alternative to Salesforce, designed for AI.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "开源CRM系统，Salesforce的开源替代方案，深度集成AI能力，适合追求数据自主的企业团队。"
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-05-29T09:00:05.832907+08:00",
+      "author": "DigitalPlatDev",
+      "name": "FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+      "language": "HTML",
+      "stars": "",
+      "forks": "",
+      "summary": "提供免费域名服务的项目，致力于让每个人都能轻松获得自己的免费域名。"
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-05-29T09:00:05.832957+08:00",
+      "author": "byoungd",
+      "name": "English-level-up-tips",
+      "url": "https://github.com/byoungd/English-level-up-tips",
+      "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
+      "language": "",
+      "stars": "",
+      "forks": "",
+      "summary": "一份「离谱」的英语学习指南，提供进阶英语学习方法，适合想让英语水平突飞猛进的学习者。"
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-05-29T09:00:05.833062+08:00",
+      "author": "microsoft",
+      "name": "markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "微软出品的文档转换工具，可将Office文档和各种文件格式转换为Markdown，方便处理和编辑。"
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-05-29T09:00:05.833012+08:00",
+      "author": "obra",
+      "name": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": "",
+      "forks": "",
+      "summary": "一个Agent技能框架和软件开发方法论，帮助团队构建可靠、可复用的AI辅助开发流程。"
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-05-29T09:00:05.833123+08:00",
+      "author": "revfactory",
+      "name": "harness",
+      "url": "https://github.com/revfactory/harness",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "language": "HTML",
+      "stars": "",
+      "forks": "",
+      "summary": "一个元技能工具，设计特定领域的Agent团队，定义专业Agent并生成它们使用的技能文件。"
+    }
+  ]
+}
