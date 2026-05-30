@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-05-30T09:03:05.358883+08:00",
+  "date": "2026-05-30",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-05-30T09:03:05.358354+08:00",
+      "author": "harry0703",
+      "name": "MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "AI短视频生成工具，支持一键生成高清短视频，集成大语言模型自动生成文案、配音、字幕。"
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-05-30T09:03:05.358436+08:00",
+      "author": "microsoft",
+      "name": "markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "微软出品，支持将 Word、Excel、PowerPoint、PDF 等办公文档批量转换为 Markdown 格式。"
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-05-30T09:03:05.358493+08:00",
+      "author": "EveryInc",
+      "name": "compound-engineering-plugin",
+      "url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "为 Claude Code、Codex、Cursor 等 AI 编程工具提供的官方 Compound Engineering 插件，增强复杂代码生成能力。"
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-05-30T09:03:05.358542+08:00",
+      "author": "twentyhq",
+      "name": "twenty",
+      "url": "https://github.com/twentyhq/twenty",
+      "description": "The open alternative to Salesforce, designed for AI.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "开源 CRM 系统，定位为 Salesforce 的 AI 友好替代品，支持自定义对象和 AI 驱动的销售自动化。"
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-05-30T09:03:05.358634+08:00",
+      "author": "anthropics",
+      "name": "claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "Anthropic 官方命令行编程助手，在终端中理解代码库，执行日常任务、处理 git 工作流，支持自然语言交互。"
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-05-30T09:03:05.358688+08:00",
+      "author": "Leonxlnx",
+      "name": "taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "language": "Shell",
+      "stars": "",
+      "forks": "",
+      "summary": "给 AI 装备「好品味」的技能插件，防止 AI 生成无聊、泛化的内容输出，提升创意质量。"
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-05-30T09:03:05.358733+08:00",
+      "author": "cursor",
+      "name": "plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "Cursor 编辑器的插件规范和官方插件集合，定义插件 API 标准并提供内置功能扩展实现。"
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-05-30T09:03:05.358776+08:00",
+      "author": "run-llama",
+      "name": "liteparse",
+      "url": "https://github.com/run-llama/liteparse",
+      "description": "A fast, helpful, and open-source document parser",
+      "language": "Rust",
+      "stars": "",
+      "forks": "",
+      "summary": "快速、开源的文档解析库，帮助从 PDF、HTML、Doc 等格式中提取结构化内容，Rust 实现高性能。"
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-05-30T09:03:05.358821+08:00",
+      "author": "galilai-group",
+      "name": "stable-worldmodel",
+      "url": "https://github.com/galilai-group/stable-worldmodel",
+      "description": "A platform for reproducible world model research and evaluation",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "可复现的世界模型研究和评估平台，提供标准化的测试基准，推动 AI 世界建模能力的透明评估。"
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-05-30T09:03:05.358864+08:00",
+      "author": "byoungd",
+      "name": "English-level-up-tips",
+      "url": "https://github.com/byoungd/English-level-up-tips",
+      "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
+      "language": "",
+      "stars": "",
+      "forks": "",
+      "summary": "离谱但好用的英语学习指南，涵盖词汇、语法、阅读、写作等全面进阶路径，含大量实用技巧。"
+    }
+  ]
+}
