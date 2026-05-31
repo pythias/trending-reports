@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-05-31T09:02:28.098804+08:00",
+  "date": "2026-05-31",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-05-31T09:02:28.098286+08:00",
+      "author": "microsoft",
+      "name": "markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "微软出品的Python文档转换工具，支持将Office文档、PDF等多种格式一键转为Markdown，开发者内容迁移利器。"
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-05-31T09:02:28.098366+08:00",
+      "author": "harry0703",
+      "name": "MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "AI一键生成高清短视频工具，利用大模型自动生成文案、配音和剪辑，适合内容创作者快速量产视频。"
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-05-31T09:02:28.098422+08:00",
+      "author": "anthropics",
+      "name": "claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "Anthropic官方终端编程助手，通过自然语言命令执行日常编码任务、解释复杂代码、处理Git工作流，大幅提升开发效率。"
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-05-31T09:02:28.098473+08:00",
+      "author": "cursor",
+      "name": "plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "Cursor编辑器的官方插件规范和插件集合，开发者可基于此规范为Cursor开发扩展功能。"
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-05-31T09:02:28.098520+08:00",
+      "author": "revfactory",
+      "name": "harness",
+      "url": "https://github.com/revfactory/harness",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "language": "HTML",
+      "stars": "",
+      "forks": "",
+      "summary": "元技能框架，通过设计特定领域的AI Agent团队、定义专用Agent并生成它们使用的技能，实现复杂任务的协作完成。"
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-05-31T09:02:28.098565+08:00",
+      "author": "EveryInc",
+      "name": "compound-engineering-plugin",
+      "url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "官方Compound Engineering插件，支持Claude Code、Codex、Cursor等多个AI编程工具，提供工程化辅助能力。"
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-05-31T09:02:28.098610+08:00",
+      "author": "affaan-m",
+      "name": "ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": "",
+      "forks": "",
+      "summary": "Agent性能优化系统，提供技能、本能、记忆、安全和研究优先的开发模式，适用于Claude Code、Codex、Cursor等多种编程工具。"
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-05-31T09:02:28.098663+08:00",
+      "author": "OpenBMB",
+      "name": "VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "无Tokenizer的多语言TTS系统，支持语音生成、创意语音设计和真实语音克隆，由OpenBMB团队开发。"
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-05-31T09:02:28.098706+08:00",
+      "author": "galilai-group",
+      "name": "stable-worldmodel",
+      "url": "https://github.com/galilai-group/stable-worldmodel",
+      "description": "A platform for reproducible world model research and evaluation",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "可复现的世界模型研究与评估平台，为强化学习和决策智能提供标准化的实验环境。"
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-05-31T09:02:28.098750+08:00",
+      "author": "Crosstalk-Solutions",
+      "name": "project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "离线生存计算工具，整合关键工具、知识库和AI，在无网络环境下也能保持信息获取和决策能力。"
+    }
+  ]
+}
