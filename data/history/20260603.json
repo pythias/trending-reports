@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-06-03T09:00:14.969933+08:00",
+  "date": "2026-06-03",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-06-03T09:00:14.969379+08:00",
+      "author": "chopratejas",
+      "name": "headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "Headroom 是一个 LLM Token 压缩工具，可以将工具输出、日志、文件和 RAG 分块压缩 60-95%，在减少 token 消耗的同时保持答案质量。支持库模式、代理模式、MCP 服务器三种接入方式，适合希望降低 API 调用成本的项目。"
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-06-03T09:00:14.969470+08:00",
+      "author": "microsoft",
+      "name": "markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "Markitdown 是微软出品的文档转换工具，支持将 Office 文档（Word/Excel/PPT 等）和 PDF 直接转 Markdown 格式，便于 LLM 处理或静态网站生成。纯 Python 实现，依赖少、使用简单。"
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-06-03T09:00:14.969526+08:00",
+      "author": "affaan-m",
+      "name": "ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": "",
+      "forks": "",
+      "summary": "ECC 是一个 AI Coding Agent 性能优化框架，为 Claude Code、Codex、Opencode、Cursor 等主流编码助手提供 Skills、Instincts、Memory、Security 和 Research-First 开发能力，提升开发效率和代码质量。"
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-06-03T09:00:14.969582+08:00",
+      "author": "D4Vinci",
+      "name": "Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "Scrapling 是一个自适应网页爬取框架，从单次请求到大规模爬取都能处理，自动处理反爬机制、动态加载内容，适合需要快速获取网页数据的开发者。"
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-06-03T09:00:14.969638+08:00",
+      "author": "nesquena",
+      "name": "hermes-webui",
+      "url": "https://github.com/nesquena/hermes-webui",
+      "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "Hermes WebUI 为 Hermes Agent 提供网页端和手机端界面，方便通过浏览器或移动设备与 AI Agent 交互，适合需要远程操控 AI Agent 的场景。"
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-06-03T09:00:14.969693+08:00",
+      "author": "reconurge",
+      "name": "flowsint",
+      "url": "https://github.com/reconurge/flowsint",
+      "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "FlowSint 是一个可视化、灵活、可扩展的图调查平台，专为网络安全分析师和调查人员设计，支持图形化调查流程，便于追踪和分析复杂安全事件。"
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-06-03T09:00:14.969738+08:00",
+      "author": "OpenBMB",
+      "name": "VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "VoxCPM2 是无 Tokenizer 的多语言语音合成系统，支持创意语音设计和逼真的语音克隆，适合语音内容创作、多语言配音和 AI 交互应用。"
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-06-03T09:00:14.969784+08:00",
+      "author": "stefan-jansen",
+      "name": "machine-learning-for-trading",
+      "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+      "description": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
+      "language": "Jupyter Notebook",
+      "stars": "",
+      "forks": "",
+      "summary": "《Machine Learning for Algorithmic Trading》第二版的配套代码仓库，涵盖量化交易策略的机器学习应用，包括因子研究、回测框架和实盘对接，适合金融量化开发者。"
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-06-03T09:00:14.969829+08:00",
+      "author": "jamwithai",
+      "name": "production-agentic-rag-course",
+      "url": "https://github.com/jamwithai/production-agentic-rag-course",
+      "description": "A course on building production-ready Agentic RAG systems with Python.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "生产级 Agentic RAG 系统实战课程，教授如何用 Python 构建可在生产环境部署的 AI 检索增强生成系统，包含架构设计、性能优化和监控实践。"
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-06-03T09:00:14.969879+08:00",
+      "author": "supermemoryai",
+      "name": "supermemory",
+      "url": "https://github.com/supermemoryai/supermemory",
+      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "Supermemory 是面向 AI 时代的快速、可扩展记忆引擎和应用，提供 Memory API，帮助 AI Agent 持久化上下文和长期记忆，适用于需要上下文连续性的 AI 应用场景。"
+    }
+  ]
+}

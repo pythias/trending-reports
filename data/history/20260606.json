@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-06-06T09:04:02.076087+08:00",
+  "date": "2026-06-06",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-06-06T09:04:02.075560+08:00",
+      "author": "NousResearch",
+      "name": "hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "NousResearch 推出的 AI Agent 框架，主打\"随着使用不断成长\"的自学习能力，旨在构建能持续适应用户需求的智能体。"
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-06-06T09:04:02.075639+08:00",
+      "author": "chopratejas",
+      "name": "headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "LLM 上下文压缩工具，可在不损失答案质量的前提下减少 60-95% 的 token 消耗。支持 Library、Proxy、MCP Server 三种模式，适合处理大文本和 RAG 场景。"
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-06-06T09:04:02.075705+08:00",
+      "author": "CopilotKit",
+      "name": "CopilotKit",
+      "url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG-UI Protocol",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "为 AI Agent 和生成式 UI 打造的前端技术栈，支持 React 和 Angular，同时也是 AG-UI 协议的发起者，让 Agent 能更自然地操作前端界面。"
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-06-06T09:04:02.075799+08:00",
+      "author": "lfnovo",
+      "name": "open-notebook",
+      "url": "https://github.com/lfnovo/open-notebook",
+      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "开源版 Notebook LM，提供比原版更大的灵活性，支持自定义知识库、AI 辅助阅读、语音交互等功能，适合个人知识管理。"
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-06-06T09:04:02.075855+08:00",
+      "author": "affaan-m",
+      "name": "ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": "",
+      "forks": "",
+      "summary": "AI Coding Agent 的性能优化工具包，为 Claude Code、Codex、Cursor 等工具注入 Skills、Instincts、Memory 等能力，提升研究型开发效率。"
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-06-06T09:04:02.075899+08:00",
+      "author": "Panniantong",
+      "name": "Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "让 AI Agent 能够\"看见\"全网的开源方案，支持 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书等多个平台搜索，无需付费 API。"
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-06-06T09:04:02.075944+08:00",
+      "author": "NVIDIA",
+      "name": "cosmos",
+      "url": "https://github.com/NVIDIA/cosmos",
+      "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
+      "language": "Jupyter Notebook",
+      "stars": "",
+      "forks": "",
+      "summary": "NVIDIA 开源的世界模型平台，包含数据集和工具链，专注于 Physical AI（物理世界 AI），可用于机器人、自动驾驶、智能基础设施等领域。"
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-06-06T09:04:02.075988+08:00",
+      "author": "666ghj",
+      "name": "MiroFish",
+      "url": "https://github.com/666ghj/MiroFish",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "简洁通用的群体智能引擎，可用于各类预测任务，通过多智能体协作提升预测准确率，支持多种应用场景。"
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-06-06T09:04:02.075999+08:00",
+      "author": "mvanhorn",
+      "name": "last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "AI Agent 技能模块，自动跨 Reddit、X、YouTube、Hacker News、Polymarket 等平台研究任意话题并生成有据可查的综合报告。"
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-06-06T09:04:02.076032+08:00",
+      "author": "PaddlePaddle",
+      "name": "PaddleOCR",
+      "url": "https://github.com/PaddlePaddle/PaddleOCR",
+      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "百度飞桨开源的 OCR 工具包，可将 PDF 或图片转换为结构化数据，支持 100+ 语言，轻量高效，是文档 AI 化的常用底层工具。"
+    }
+  ]
+}

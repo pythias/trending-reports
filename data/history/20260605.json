@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-06-05T09:01:21.857779+08:00",
+  "date": "2026-06-05",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-06-05T09:01:21.857143+08:00",
+      "author": "chopratejas",
+      "name": "headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "一个 Token 压缩工具，可以将工具输出、日志、文件和 RAG chunks 压缩 60-95%，同时保持答案质量。支持 Library、Proxy 和 MCP Server 三种使用方式，适合在 LLM 调用前做预处理以节省成本。"
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-06-05T09:01:21.857251+08:00",
+      "author": "NousResearch",
+      "name": "hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "NousResearch 推出的 AI Agent 框架，核心理念是「与你一同成长」——随着使用和交互不断适应和进化，适合需要长期学习和迭代的 AI 应用场景。"
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-06-05T09:01:21.857319+08:00",
+      "author": "affaan-m",
+      "name": "ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": "",
+      "forks": "",
+      "summary": "Agent 性能优化系统，为 Claude Code、Codex、Opencode、Cursor 等编程助手提供 Skills、Instincts、Memory、Security 和 Research-First 开发能力，提升编程代理的工作效率和安全性。"
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-06-05T09:01:21.857388+08:00",
+      "author": "PaddlePaddle",
+      "name": "PaddleOCR",
+      "url": "https://github.com/PaddlePaddle/PaddleOCR",
+      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "百度 PaddlePaddle 团队开源的 OCR 工具包，可将 PDF 或图片转换为结构化数据，支持 100+ 语言，充当 AI 与文档之间的桥梁，轻量高效。"
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-06-05T09:01:21.857443+08:00",
+      "author": "github",
+      "name": "spec-kit",
+      "url": "https://github.com/github/spec-kit",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "GitHub 官方推出的 Spec-Driven Development（规格驱动开发）入门工具包，帮助开发者通过规范文档来驱动开发流程，提升协作效率和代码质量。"
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-06-05T09:01:21.857498+08:00",
+      "author": "NVIDIA",
+      "name": "cosmos",
+      "url": "https://github.com/NVIDIA/cosmos",
+      "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
+      "language": "Jupyter Notebook",
+      "stars": "",
+      "forks": "",
+      "summary": "英伟达开源的 Physical AI 世界模型平台，提供数据集和工具，帮助开发者构建机器人、自动驾驶、智能基础设施等物理世界 AI 应用。"
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-06-05T09:01:21.857551+08:00",
+      "author": "lfnovo",
+      "name": "open-notebook",
+      "url": "https://github.com/lfnovo/open-notebook",
+      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "Notebook LM 的开源实现，保留了原版核心功能（AI 播客、总结、问答）并加入更多灵活性和功能，适合需要本地部署或定制化的用户。"
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-06-05T09:01:21.857605+08:00",
+      "author": "Open-LLM-VTuber",
+      "name": "Open-LLM-VTuber",
+      "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "开源 LLM 语音虚拟主播项目，支持免手持语音交互、语音打断和 Live2D 虚拟形象，可在本地跨平台运行，适合打造虚拟主播或 AI 陪伴应用。"
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-06-05T09:01:21.857658+08:00",
+      "author": "jwasham",
+      "name": "coding-interview-university",
+      "url": "https://github.com/jwasham/coding-interview-university",
+      "description": "A complete computer science study plan to become a software engineer.",
+      "stars": "",
+      "forks": "",
+      "language": "",
+      "summary": "久经考验的程序员求职面试完整学习路线，涵盖数据结构、算法、操作系统、网络等核心知识，是准备科技公司面试的经典自学指南。"
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-06-05T09:01:21.857715+08:00",
+      "author": "github",
+      "name": "copilot-sdk",
+      "url": "https://github.com/github/copilot-sdk",
+      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "language": "Java",
+      "stars": "",
+      "forks": "",
+      "summary": "GitHub 官方 Copilot Agent 多平台 SDK，允许开发者将 Copilot Agent 能力集成到自己的应用和服务中，支持跨平台使用。"
+    }
+  ]
+}

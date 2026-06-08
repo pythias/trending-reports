@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-06-04T09:02:45.866952+08:00",
+  "date": "2026-06-04",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-06-04T09:02:45.866391+08:00",
+      "author": "chopratejas",
+      "name": "headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "A token compression tool for LLMs. Reduces prompt/context size by 60-95% by compressing logs, files, and RAG chunks before they reach the model. Offers library, proxy, and MCP server modes — useful for cutting API costs on long-context tasks."
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-06-04T09:02:45.866481+08:00",
+      "author": "affaan-m",
+      "name": "ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": "",
+      "forks": "",
+      "summary": "A performance optimization harness for AI coding agents (Claude Code, Cursor, Codex, etc.). Adds structured skills, instincts, memory management, and security layers to make agentic coding more reliable and efficient."
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-06-04T09:02:45.866549+08:00",
+      "author": "aquasecurity",
+      "name": "trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": "",
+      "forks": "",
+      "summary": "Comprehensive security scanner from Aqua Security. Detects vulnerabilities, misconfigs, secrets, and generates SBOMs across containers, Kubernetes, cloud environments, and code repos. A DevSecOps staple."
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-06-04T09:02:45.866598+08:00",
+      "author": "NousResearch",
+      "name": "hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "An adaptive AI agent from Nous Research that reportedly improves/grows through use. The tagline suggests it learns from context and feedback — likely an agent framework with memory and self-improvement mechanisms."
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-06-04T09:02:45.866645+08:00",
+      "author": "microsoft",
+      "name": "markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "Microsoft's document-to-Markdown converter. Handles common office formats (Word, Excel, PowerPoint, PDF) and outputs clean Markdown — great for prepping content for LLM ingestion or static site generation."
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-06-04T09:02:45.866692+08:00",
+      "author": "nesquena",
+      "name": "hermes-webui",
+      "url": "https://github.com/nesquena/hermes-webui",
+      "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "A web-based UI for the Hermes Agent, enabling access from browser or mobile. Pairs with hermes-agent to provide a friendly frontend for an otherwise CLI-driven agentic AI system."
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-06-04T09:02:45.866747+08:00",
+      "author": "D4Vinci",
+      "name": "Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "An adaptive web scraping framework that scales from one-off requests to full crawls. The 'adaptive' claim suggests it handles dynamic content, anti-scraping measures, and varying site structures automatically."
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-06-04T09:02:45.866802+08:00",
+      "author": "opendataloader-project",
+      "name": "opendataloader-pdf",
+      "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+      "language": "Java",
+      "stars": "",
+      "forks": "",
+      "summary": "A PDF parser purpose-built for AI workloads. Focuses on extracting structured, machine-readable data from PDFs and automating accessibility — designed to feed LLM pipelines with clean document content."
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-06-04T09:02:45.866847+08:00",
+      "author": "odoo",
+      "name": "odoo",
+      "url": "https://github.com/odoo/odoo",
+      "description": "Odoo. Open Source Apps To Grow Your Business.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "Odoo's main ERP/business app platform. An open-source suite covering CRM, accounting, inventory, e-commerce, and more — a full-featured alternative to paid SaaS tools for business operations."
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-06-04T09:02:45.866895+08:00",
+      "author": "Open-LLM-VTuber",
+      "name": "Open-LLM-VTuber",
+      "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "A voice-first LLM interface with a Live2D animated avatar. Supports hands-free interaction, voice interruption, and runs locally across platforms — blends VTuber tech with any OpenAI-compatible LLM."
+    }
+  ]
+}
