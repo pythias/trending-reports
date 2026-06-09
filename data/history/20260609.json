@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-06-09T09:05:52.480157+08:00",
+  "date": "2026-06-09",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-06-09T09:05:52.479514+08:00",
+      "author": "mvanhorn",
+      "name": "last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "让 AI agent 能够跨平台研究任何话题的综合技能工具，支持 Reddit、X、YouTube、HN、Polymarket 等平台的信息抓取与摘要合成。"
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-06-09T09:05:52.479616+08:00",
+      "author": "RyanCodrai",
+      "name": "turbovec",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "Rust 编写的高性能向量索引库，带 Python 绑定，基于 TurboQuant 构建，适合需要快速向量检索的 AI 应用场景。"
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-06-09T09:05:52.479687+08:00",
+      "author": "google",
+      "name": "skills",
+      "url": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "Google 官方推出的 Agent Skills 集合，为 AI agent 提供接入 Google 产品和技术的标准化技能模块。"
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-06-09T09:05:52.479744+08:00",
+      "author": "refactoringhq",
+      "name": "tolaria",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "description": "Desktop app to manage markdown knowledge bases",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "桌面端 Markdown 知识库管理工具，帮助用户整理和浏览本地 Markdown 文件，适合个人知识管理场景。"
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-06-09T09:05:52.479801+08:00",
+      "author": "Panniantong",
+      "name": "Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "让 AI agent 具备「眼睛」的多平台信息读取工具，支持 Twitter、Reddit、YouTube、GitHub、B站、小红书等，一个 CLI，无需 API 费用。"
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-06-09T09:05:52.479921+08:00",
+      "author": "danielmiessler",
+      "name": "Personal_AI_Infrastructure",
+      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "个人 AI 基础设施框架，旨在通过 agentic AI 放大人类能力，涵盖工作流自动化与智能助手编排。"
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-06-09T09:05:52.479985+08:00",
+      "author": "santifer",
+      "name": "career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "language": "JavaScript",
+      "stars": "",
+      "forks": "",
+      "summary": "基于 Claude Code 的 AI 求职系统，支持 14 种技能模式、Go 可视化仪表盘、PDF 生成和批量处理，自动化求职全流程。"
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-06-09T09:05:52.480039+08:00",
+      "author": "phuryn",
+      "name": "pm-skills",
+      "url": "https://github.com/phuryn/pm-skills",
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "language": "",
+      "stars": "",
+      "forks": "",
+      "summary": "产品经理技能市场，提供 100+ agentic 技能、命令和插件，涵盖从发现到策略、执行、上线和增长的完整流程。"
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-06-09T09:05:52.480092+08:00",
+      "author": "openai",
+      "name": "plugins",
+      "url": "https://github.com/openai/plugins",
+      "description": "OpenAI Plugins",
+      "language": "JavaScript",
+      "stars": "",
+      "forks": "",
+      "summary": "OpenAI 官方 Plugins 集合，为 ChatGPT 等产品提供扩展能力，包括检索、代码解释器等官方插件实现。"
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-06-09T09:05:52.480157+08:00",
+      "author": "Andyyyy64",
+      "name": "whichllm",
+      "url": "https://github.com/Andyyyy64/whichllm",
+      "description": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "本地 LLM 基准测试工具，通过真实硬件运行排名而非参数数量来筛选最适合你设备的模型，一行命令即可快速评测。"
+    }
+  ]
+}
