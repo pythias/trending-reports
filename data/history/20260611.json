@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-06-11T09:02:11.233021+08:00",
+  "date": "2026-06-11",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-06-11T09:02:11.232375+08:00",
+      "author": "addyosmani",
+      "name": "agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "Shell",
+      "stars": "",
+      "forks": "",
+      "summary": "Production-grade engineering skills for AI coding agents. Provides reusable, curated skill definitions to help AI assistants handle real-world engineering tasks at production quality."
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-06-11T09:02:11.232469+08:00",
+      "author": "phuryn",
+      "name": "pm-skills",
+      "url": "https://github.com/phuryn/pm-skills",
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "stars": "",
+      "forks": "",
+      "language": "",
+      "summary": "PM Skills Marketplace with 100+ agentic skills, commands, and plugins covering the full product lifecycle from discovery to strategy, execution, launch, and growth."
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-06-11T09:02:11.232542+08:00",
+      "author": "refactoringhq",
+      "name": "tolaria",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "description": "Desktop app to manage markdown knowledge bases",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "Desktop app to manage markdown knowledge bases. Offers a GUI for organizing and navigating large collections of markdown files, useful for personal knowledge management."
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-06-11T09:02:11.232601+08:00",
+      "author": "mvanhorn",
+      "name": "last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web—then synthesizes a grounded summary. Great for competitive intelligence and trend tracking."
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-06-11T09:02:11.232653+08:00",
+      "author": "soxoj",
+      "name": "maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "🕵️ OSINT tool that collects dossiers on a person by username across 3000+ sites. Powerful for social media reconnaissance, penetration testing, and digital investigations."
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-06-11T09:02:11.232718+08:00",
+      "author": "x1xhlol",
+      "name": "system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "stars": "",
+      "forks": "",
+      "language": "",
+      "summary": "Comprehensive collection of system prompts, internal tools, and AI models from major AI coding tools (Cursor, Claude Code, Windsurf, Copilot, etc.). Useful for reverse-engineering and building AI agents."
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-06-11T09:02:11.232783+08:00",
+      "author": "obra",
+      "name": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": "",
+      "forks": "",
+      "summary": "An agentic skills framework & software development methodology. Provides structured approaches and reusable skill definitions for building reliable AI-powered software teams."
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-06-11T09:02:11.232844+08:00",
+      "author": "masterking32",
+      "name": "MasterDnsVPN",
+      "url": "https://github.com/masterking32/MasterDnsVPN",
+      "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
+      "language": "Go",
+      "stars": "",
+      "forks": "",
+      "summary": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, and high packet-loss stability."
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-06-11T09:02:11.232905+08:00",
+      "author": "harry0703",
+      "name": "MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "利用AI大模型一键生成高清短视频。输入文案即可自动生成、配音、加字幕，适合短视频创作者和营销人员快速批量生产内容。"
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-06-11T09:02:11.232958+08:00",
+      "author": "maziyarpanahi",
+      "name": "openmed",
+      "url": "https://github.com/maziyarpanahi/openmed",
+      "description": "open-source healthcare ai",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "Open-source healthcare AI. Provides AI models and tools specifically designed for healthcare and medical use cases, promoting transparency and accessibility in medical AI."
+    }
+  ]
+}
