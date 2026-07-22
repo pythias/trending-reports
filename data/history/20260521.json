@@ -68,11 +68,11 @@
       "author": "HKUDS",
       "name": "CLI-Anything",
       "url": "https://github.com/HKUDS/CLI-Anything",
-      "description": \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
       "language": "Python",
       "stars": "",
       "forks": "",
-      "summary": \"让所有软件都具有 Agent 原生能力\"，通过 CLI 接口让任意软件接入 AI Agent 生态，配套 CLI-Hub 社区。\"
+      "summary": "\"让所有软件都具有 Agent 原生能力\"，通过 CLI 接口让任意软件接入 AI Agent 生态，配套 CLI-Hub 社区。"
     },
     {
       "rank": 7,
@@ -96,7 +96,7 @@
       "language": "Shell",
       "stars": "",
       "forks": "",
-      "summary": \"有效的\" Agent 技能框架与软件开发方法论，提供一套经过验证的 Agent 开发实践和工作流程。"
+      "summary": "\"有效的\" Agent 技能框架与软件开发方法论，提供一套经过验证的 Agent 开发实践和工作流程。"
     },
     {
       "rank": 9,
