@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-07-23T09:00:08.952241+08:00",
+  "date": "2026-07-23",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-07-23T09:00:08.951599+08:00",
+      "author": "koala73",
+      "name": "worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "实时全球情报分析平台，整合AI新闻聚合与地缘政治监控，提供一站式态势感知与基础设施追踪仪表盘。"
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-07-23T09:00:08.951693+08:00",
+      "author": "ruvnet",
+      "name": "RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": "",
+      "forks": "",
+      "summary": "利用普通WiFi信号实现实时空间智能、生命体征监测和人体存在检测，无需任何摄像头和视频设备。"
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-07-23T09:00:08.951760+08:00",
+      "author": "ayghri",
+      "name": "i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "专为编程智能体设计的实用小技巧，通过简洁明了的输出格式防冗余，极其适合注意力缺失的用户。"
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-07-23T09:00:08.951815+08:00",
+      "author": "schollz",
+      "name": "croc",
+      "url": "https://github.com/schollz/croc",
+      "description": "Easily and securely send things from one computer to another 🐊 📦",
+      "language": "Go",
+      "stars": "",
+      "forks": "",
+      "summary": "跨设备文件传输的极简命令行工具，支持端到端加密与安全穿透，可轻松在不同电脑间安全发送任意文件。"
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-07-23T09:00:08.951880+08:00",
+      "author": "likec4",
+      "name": "likec4",
+      "url": "https://github.com/likec4/likec4",
+      "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "通过代码自动生成实时更新的交互式软件架构图，助力团队高效编写、可视化与协作演进系统架构。"
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-07-23T09:00:08.951943+08:00",
+      "author": "chrislgarry",
+      "name": "Apollo-11",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "language": "Assembly",
+      "stars": "",
+      "forks": "",
+      "summary": "传奇阿波罗11号登月飞船制导计算机的原始汇编源代码，包含指令舱和登月舱的经典太空历史程序。"
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-07-23T09:00:08.952004+08:00",
+      "author": "jamiepine",
+      "name": "voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "开源AI声音工作室，为开发者和创作者提供便捷的声音克隆、听写和语音内容编辑创作的统一平台。"
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-07-23T09:00:08.952055+08:00",
+      "author": "diegosouzapw",
+      "name": "OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "免费开源的聚合AI网关，支持超200家服务商和500种模型，具备自动降级和高比例Token压缩等特性。"
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-07-23T09:00:08.952124+08:00",
+      "author": "shiyu-coder",
+      "name": "Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "专为金融市场语言和数据建模设计的基础大模型，旨在深度解析和预测复杂多变的金融市场动态。"
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-07-23T09:00:08.952175+08:00",
+      "author": "ComposioHQ",
+      "name": "awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "汇集众多优秀定制技能与工具的精选资源列表，助力开发者进一步拓展和优化AI工作流。"
+    }
+  ]
+}
