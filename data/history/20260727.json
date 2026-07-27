@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-07-27T09:00:06.989962+08:00",
+  "date": "2026-07-27",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-07-27T09:00:06.989376+08:00",
+      "author": "permissionlesstech",
+      "name": "bitchat",
+      "url": "https://github.com/permissionlesstech/bitchat",
+      "description": "bluetooth mesh chat, IRC vibes",
+      "language": "Swift",
+      "stars": "",
+      "forks": "",
+      "summary": "基于蓝牙网状网络（Bluetooth Mesh）的通讯聊天应用，无需互联网，专为近距离点对点无线聊天设计。"
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-07-27T09:00:06.989465+08:00",
+      "author": "citrolabs",
+      "name": "ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "language": "JavaScript",
+      "stars": "",
+      "forks": "",
+      "summary": "专为AI智能体进行网页自动化设计的高速浏览器，无需干扰用户即可安全共享登录态，具备零成本与零配置特性。"
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-07-27T09:00:06.989526+08:00",
+      "author": "block",
+      "name": "buzz",
+      "url": "https://github.com/block/buzz",
+      "description": "A hive mind communication platform",
+      "language": "Rust",
+      "stars": "",
+      "forks": "",
+      "summary": "采用Rust编写的蜂群意识分布式通信平台，专为构建去中心化、高协同的实时通信网络而设计。"
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-07-27T09:00:06.989578+08:00",
+      "author": "pingdotgg",
+      "name": "t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "description": "",
+      "summary": "由 ping.gg 发起的 T3 社区代码交互与编程练习平台，支持在浏览器中进行前端和全栈代码演练。"
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-07-27T09:00:06.989634+08:00",
+      "author": "CoreBunch",
+      "name": "Instatic",
+      "url": "https://github.com/CoreBunch/Instatic",
+      "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "开源的 Webflow、Framer 和 WordPress 替代品。支持智能体（Agentic）自托管的视觉 CMS系统，可导出干净的静态页面，内置用户、角色、插件和数据库管理。"
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-07-27T09:00:06.989694+08:00",
+      "author": "yorukot",
+      "name": "superfile",
+      "url": "https://github.com/yorukot/superfile",
+      "description": "Pretty fancy and modern terminal file manager",
+      "language": "Go",
+      "stars": "",
+      "forks": "",
+      "summary": "一款美观且现代化的终端文件管理器，拥有丰富的界面元素和流畅的快捷键操作体验。"
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-07-27T09:00:06.989744+08:00",
+      "author": "nodejs",
+      "name": "node",
+      "url": "https://github.com/nodejs/node",
+      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "language": "JavaScript",
+      "stars": "",
+      "forks": "",
+      "summary": "Node.js 官方 JavaScript 运行时，基于 Chrome V8 引擎构建，旨在以事件驱动、非阻塞式 I/O 模型来开发可伸缩的网络应用。"
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-07-27T09:00:06.989803+08:00",
+      "author": "OtterMind",
+      "name": "Chat2DB",
+      "url": "https://github.com/OtterMind/Chat2DB",
+      "description": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+      "language": "Java",
+      "stars": "",
+      "forks": "",
+      "summary": "一款由 AI 驱动的多数据库客户端和 SQL 工具，支持 MySQL、PostgreSQL、SQL Server、Oracle 等主流数据库，集成智能 SQL 生成与分析能力。"
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-07-27T09:00:06.989851+08:00",
+      "author": "pbakaus",
+      "name": "impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
+      "stars": "",
+      "forks": "",
+      "summary": "专为 AI 辅助开发量身定制的开源设计语言，旨在帮助生成式模型和 AI 智能体输出更高水准的前端视觉设计。"
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-07-27T09:00:06.989900+08:00",
+      "author": "shiyu-coder",
+      "name": "Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "专为金融市场数据与场景所设计的基础大模型，针对金融领域的专业语言进行深度的理解与预测建模。"
+    }
+  ]
+}
