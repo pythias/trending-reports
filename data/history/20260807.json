@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-08-07T09:00:10.302982+08:00",
+  "date": "2026-08-07",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-08-07T09:00:10.301372+08:00",
+      "author": "TencentCloud",
+      "name": "TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "一个团队级的 AI 智能体记忆枢纽，能够将对话、文档和代码转化为可在各个智能体及框架间共享的记忆资产（包含对话记忆、技能、LLM百科、代码图谱等）。"
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-08-07T09:00:10.301623+08:00",
+      "author": "addyosmani",
+      "name": "agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": "",
+      "forks": "",
+      "summary": "面向 AI 代码助手的生产级工程开发技能集。"
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-08-07T09:00:10.301782+08:00",
+      "author": "cloudflare",
+      "name": "computer",
+      "url": "https://github.com/cloudflare/computer",
+      "description": "Give your agent a computer 👾",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "为你的 AI 智能体提供一个可以操作的计算机环境。"
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-08-07T09:00:10.301917+08:00",
+      "author": "mattpocock",
+      "name": "skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": "",
+      "forks": "",
+      "summary": "适用于真正的工程师的技能工具集合，直接服务于 `.agents` 目录。"
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-08-07T09:00:10.302086+08:00",
+      "author": "goauthentik",
+      "name": "authentik",
+      "url": "https://github.com/goauthentik/authentik",
+      "description": "The authentication glue you need.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "一款功能强大的身份认证与授权“胶水”平台。"
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-08-07T09:00:10.302245+08:00",
+      "author": "huangruiteng",
+      "name": "loopx",
+      "url": "https://github.com/huangruiteng/loopx",
+      "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "针对长期运行 AI 分工团队设计的轻量级循环状态内核，在各大编码助手之间通用，并且支持持久目标记录、额度自适应唤醒以及任务交接等功能。"
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-08-07T09:00:10.302380+08:00",
+      "author": "google",
+      "name": "guava",
+      "url": "https://github.com/google/guava",
+      "description": "Google core libraries for Java",
+      "language": "Java",
+      "stars": "",
+      "forks": "",
+      "summary": "Google 著名的 Java 版核心公共类库，提供了极多实用的常用工具。"
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-08-07T09:00:10.302511+08:00",
+      "author": "TapXWorld",
+      "name": "ChinaTextbook",
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "language": "Roff",
+      "stars": "",
+      "forks": "",
+      "summary": "收录了小学、初中、高中直至大学的各类全面 PDF 电子教材资源。"
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-08-07T09:00:10.302636+08:00",
+      "author": "Significant-Gravitas",
+      "name": "AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "旨在实现“人人可及的自动 AI”愿景，帮助开发者专注于更核心的事项而无需过多干预底层调用的自主智能体项目。"
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-08-07T09:00:10.302769+08:00",
+      "author": "tirth8205",
+      "name": "code-review-graph",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "专为 MCP 与 CLI 打造的本地优先代码智能知识图谱平台，为 AI 编程工具构建具有针对性的精准内容投喂与上下文缩减功能。"
+    }
+  ]
+}
