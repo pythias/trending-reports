@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-08-08T09:00:13.764811+08:00",
+  "date": "2026-08-08",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-08-08T09:00:13.764167+08:00",
+      "author": "PrimeIntellect-ai",
+      "name": "prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "一个探索自我演进（RLM）的长生命周期 AI 智能体，专为代码流和持久任务设计。"
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-08-08T09:00:13.764261+08:00",
+      "author": "addyosmani",
+      "name": "agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": "",
+      "forks": "",
+      "summary": "由前端大佬 Addy Osmani 打造的生产级 AI 编程智能体技能集。"
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-08-08T09:00:13.764327+08:00",
+      "author": "cloudflare",
+      "name": "computer",
+      "url": "https://github.com/cloudflare/computer",
+      "description": "Give your agent a computer 👾",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "Cloudflare 推出，直接赋予你的 AI 智能体控制计算机终端的能力。"
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-08-08T09:00:13.764382+08:00",
+      "author": "mattpocock",
+      "name": "skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": "",
+      "forks": "",
+      "summary": "来自知名开发者 Matt Pocock 的极客技能库，源于他个人 .agents 目录里的硬核积累。"
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-08-08T09:00:13.764444+08:00",
+      "author": "obra",
+      "name": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": "",
+      "forks": "",
+      "summary": "一套赋能智能体的技能框架，结合了有效的软件开发方法论。"
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-08-08T09:00:13.764506+08:00",
+      "author": "goauthentik",
+      "name": "authentik",
+      "url": "https://github.com/goauthentik/authentik",
+      "description": "The authentication glue you need.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "高度灵活的开源身份验证与统一登录管理系统，被称为认证方案中的“万能胶水”。"
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-08-08T09:00:13.764568+08:00",
+      "author": "semantica-agi",
+      "name": "semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "提供原生图结构的基础框架，致力于为上下文丰富和可靠的 AI 系统搭建底层。"
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-08-08T09:00:13.764629+08:00",
+      "author": "666ghj",
+      "name": "MiroFish",
+      "url": "https://github.com/666ghj/MiroFish",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "简单好用的通用群体智能引擎，主打“预测万物”的能力。"
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-08-08T09:00:13.764683+08:00",
+      "author": "chenyme",
+      "name": "grok2api",
+      "url": "https://github.com/chenyme/grok2api",
+      "description": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
+      "language": "Go",
+      "stars": "",
+      "forks": "",
+      "summary": "专为接管 Grok 多端生态系统（Build、Web、Console）而编写的多账号 API网关。"
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-08-08T09:00:13.764734+08:00",
+      "author": "jdx",
+      "name": "mise",
+      "url": "https://github.com/jdx/mise",
+      "description": "dev tools, env vars, task runner",
+      "language": "Rust",
+      "stars": "",
+      "forks": "",
+      "summary": "一款强大极速的Rust版开发工具管理器，集环境变量与任务运行功能于一身。"
+    }
+  ]
+}
