@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-08-12T09:00:10.881033+08:00",
+  "date": "2026-08-12",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-08-12T09:00:10.880382+08:00",
+      "author": "msitarzewski",
+      "name": "agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": "",
+      "forks": "",
+      "summary": "包含各种专门化AI代理的集合，通过Shell脚本构建，覆盖前端开发到社区管理等多种任务。"
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-08-12T09:00:10.880490+08:00",
+      "author": "semantica-agi",
+      "name": "semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "提供图原生的基础设施，旨在为AI系统增强上下文管理和结果可解释性。"
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-08-12T09:00:10.880570+08:00",
+      "author": "nvm-sh",
+      "name": "nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+      "language": "Shell",
+      "stars": "",
+      "forks": "",
+      "summary": "经典稳定的Node.js多版本管理工具，兼容POSIX的bash脚本。"
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-08-12T09:00:10.880627+08:00",
+      "author": "addyosmani",
+      "name": "agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": "",
+      "forks": "",
+      "summary": "面向AI编程代理的生产级工程辅助技能库。"
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-08-12T09:00:10.880683+08:00",
+      "author": "ZhuLinsen",
+      "name": "daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "由大语言模型驱动的多市场股票分析系统，提供实时新闻抓取、多资源整合免费自动运行支持。"
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-08-12T09:00:10.880738+08:00",
+      "author": "vitali87",
+      "name": "code-graph-rag",
+      "url": "https://github.com/vitali87/code-graph-rag",
+      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "专为单体仓库打造的代码检索增强生成(RAG)工具，利用AI与知识图谱帮助开发者理解、修改代码库。"
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-08-12T09:00:10.880803+08:00",
+      "author": "anthropics",
+      "name": "skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "Anthropic（Claude开发商）公开的AI代理官方技能库仓库。"
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-08-12T09:00:10.880857+08:00",
+      "author": "3b1b",
+      "name": "manim",
+      "url": "https://github.com/3b1b/manim",
+      "description": "Animation engine for explanatory math videos",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "用于辅助创建数学说明视频的跨平台动画引擎库。"
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-08-12T09:00:10.880910+08:00",
+      "author": "HKUDS",
+      "name": "DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "终身个性化辅导系统研究项目代码库。"
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-08-12T09:00:10.880968+08:00",
+      "author": "stablyai",
+      "name": "orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "用于并行调度多代理队列并进行代理开发的集成工作流环境。"
+    }
+  ]
+}
