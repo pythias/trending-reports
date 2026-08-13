@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-08-13T09:00:10.153271+08:00",
+  "date": "2026-08-13",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-08-13T09:00:10.152556+08:00",
+      "author": "cathrynlavery",
+      "name": "diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+      "language": "HTML",
+      "stars": "",
+      "forks": "",
+      "summary": "为 Claude Code 提供的 29 种编程式纯 HTML+SVG 图表模板，无 Mermaid 依赖。"
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-08-13T09:00:10.152666+08:00",
+      "author": "macro-inc",
+      "name": "macro",
+      "url": "https://github.com/macro-inc/macro",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "language": "Rust",
+      "stars": "",
+      "forks": "",
+      "summary": "团队协作的一站式数字工作空间，整合邮件、聊天、文档及任务，融合共享的 AI 记忆。"
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-08-13T09:00:10.152740+08:00",
+      "author": "semantica-agi",
+      "name": "semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "面向上下文和可解释 AI 系统的图原生底层基础设施。"
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-08-13T09:00:10.152819+08:00",
+      "author": "stablyai",
+      "name": "orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "一款多平台可用的并行智能体管理环境，支持运行多种本地代码智能体。"
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-08-13T09:00:10.152879+08:00",
+      "author": "msitarzewski",
+      "name": "agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": "",
+      "forks": "",
+      "summary": "全能型的 AI 代理体系项目，每个智能体都具有特定的人设与解决实际任务的专业技能。"
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-08-13T09:00:10.152952+08:00",
+      "author": "shiyu-coder",
+      "name": "Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "面向金融市场特定语言语境的 AI 基础大模型。"
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-08-13T09:00:10.153011+08:00",
+      "author": "NanmiCoder",
+      "name": "MediaCrawler",
+      "url": "https://github.com/NanmiCoder/MediaCrawler",
+      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "强大的社媒内容抓取工具，支持小红书、抖音、B站、微博、知乎等平台内容及评论数据的爬取。"
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-08-13T09:00:10.153082+08:00",
+      "author": "hugohe3",
+      "name": "ppt-master",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "AI 原生幻灯片生成器，可将文档直接生成带有图表、动画的原始 PowerPoint 文件并支持自定义模板。"
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-08-13T09:00:10.153140+08:00",
+      "author": "infiniflow",
+      "name": "ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "language": "Go",
+      "stars": "",
+      "forks": "",
+      "summary": "领先的开源检索增强生成 (RAG) 引擎，有效融合 RAG 与 Agent 技术以提供更好的 LLM 上下文。"
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-08-13T09:00:10.153198+08:00",
+      "author": "paperclipai",
+      "name": "paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "广受欢迎的工作场景 AI 智能体开源管理应用。"
+    }
+  ]
+}
