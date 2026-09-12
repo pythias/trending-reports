@@ -1,0 +1,116 @@
+{
+  "timestamp": "2026-09-12T09:03:36.966782+08:00",
+  "date": "2026-09-12",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-09-12T09:03:36.966007+08:00",
+      "author": "ayghri",
+      "name": "i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "language": "Python",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-09-12T09:03:36.966155+08:00",
+      "author": "bilawalsidhu",
+      "name": "gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-09-12T09:03:36.966229+08:00",
+      "author": "nab138",
+      "name": "iloader",
+      "url": "https://github.com/nab138/iloader",
+      "description": "User friendly sideloader",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-09-12T09:03:36.966300+08:00",
+      "author": "melgarafael",
+      "name": "DeskcommCRM",
+      "url": "https://github.com/melgarafael/DeskcommCRM",
+      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-09-12T09:03:36.966370+08:00",
+      "author": "vastsa",
+      "name": "PI-Desktop",
+      "url": "https://github.com/vastsa/PI-Desktop",
+      "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-09-12T09:03:36.966439+08:00",
+      "author": "armory3d",
+      "name": "armorpaint",
+      "url": "https://github.com/armory3d/armorpaint",
+      "description": "Graphics Creation Tools",
+      "language": "C",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-09-12T09:03:36.966503+08:00",
+      "author": "alsk1992",
+      "name": "CloddsBot",
+      "url": "https://github.com/alsk1992/CloddsBot",
+      "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-09-12T09:03:36.966565+08:00",
+      "author": "nashsu",
+      "name": "llm_wiki",
+      "url": "https://github.com/nashsu/llm_wiki",
+      "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-09-12T09:03:36.966629+08:00",
+      "author": "obra",
+      "name": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-09-12T09:03:36.966700+08:00",
+      "author": "Sonarr",
+      "name": "Sonarr",
+      "url": "https://github.com/Sonarr/Sonarr",
+      "description": "Smart PVR for newsgroup and bittorrent users.",
+      "language": "C#",
+      "stars": "",
+      "forks": ""
+    }
+  ]
+}
