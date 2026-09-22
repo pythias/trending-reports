@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-05-10T09:00:10.784612+08:00",
+  "date": "2026-05-10",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-05-10T09:00:10.783970+08:00",
+      "author": "anthropics",
+      "name": "financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "description": "Anthropics 官方金融服务业插件与模板库，提供 Cowork 插件和 Claude Managed Agent 模板，覆盖投资银行、 Equity Research、私募股权等垂直领域，内置 Earnings Reviewer、Model Builder 等专业 Agent。",
+      "summary": "Anthropics 官方 FSI 插件库，面向金融服务业提供一系列垂直插件和托管 Agent 模板。包含投资银行（建模、路演、并购模型）、股权研究（财报分析 Initiations）、私募股权（尽职调查、IC备忘录）等细分方向。提供既可作为 Cowork 插件使用、也可通过 `/v1/agents` 部署为托管 Agent 的双重形态。Partner-built 部分接入了 LSEG、S&P Global 等数据源。适合金融机构构建 AI 辅助工作流。"
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-05-10T09:00:10.784072+08:00",
+      "author": "bytedance",
+      "name": "UI-TARS-desktop",
+      "url": "https://github.com/bytedance/UI-TARS-desktop",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "字节跳动开源的多模态 AI Agent 全栈项目，30.9k stars。提供 Agent TARS CLI 和 MCP server，支持视觉-语言模型驱动的桌面端 Agent，可控制浏览器、执行自动化任务。核心工具链包括 @multimodal/agent、@multimodal/mcp-agent 等 npm 包，支持 Gemini CLI、Claude Code 等主流 Agent。内置 Agent TARS CLI 和 38 个发行版，持续快速迭代中。"
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-05-10T09:00:10.784140+08:00",
+      "author": "rohitg00",
+      "name": "agentmemory",
+      "url": "https://github.com/rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "为 AI 编程 Agent 提供持久化记忆系统的开源项目，基于 iii-engine 三原语（Worker/Function/Trigger）构建。最大特点是不绑定特定模型或平台，支持跨 Agent 共享记忆架构。内置 Viewer Web 界面、JSONL 导入管道、BM25 索引、会话重放等功能，适合需要长期上下文记忆的 AI Coding 场景。"
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-05-10T09:00:10.784211+08:00",
+      "author": "datawhalechina",
+      "name": "hello-agents",
+      "url": "https://github.com/datawhalechina/hello-agents",
+      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "Datawhale 社区出品的系统化 Agent 入门教程，围绕「从零开始构建智能体」主题，覆盖最小原子工具集、分层记忆体系、上下文管理等核心架构设计。教程分应用指南、原理篇、实践篇三大部分，既有理论深度又强调动手实战，适合想系统理解 Agent 设计与开发的学习者。"
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-05-10T09:00:10.784266+08:00",
+      "author": "datawhalechina",
+      "name": "easy-vibe",
+      "url": "https://github.com/datawhalechina/easy-vibe",
+      "description": "💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step.",
+      "language": "JavaScript",
+      "stars": "",
+      "forks": "",
+      "summary": "Datawhale 出品的 Vibe Coding 2026 入门编程课，专为零基础学习者设计，采用循序渐进的实践教学方式，帮助初学者一步步掌握现代编程技能。课程紧跟 2026 年编程教学趋势，强调边做边学的沉浸式体验。"
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-05-10T09:00:10.784327+08:00",
+      "author": "rowboatlabs",
+      "name": "rowboat",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "开源 AI 同事产品，将工作内容转化为知识图谱并自动执行操作。通过连接邮件、会议笔记等数据源构建长期记忆，以本地 Markdown 文件存储，支持本地 Ollama 模型或 OpenAI/Claude/Gemini/Groq 云端模型。核心定位是成为有记忆能力的本地 AI 助手，通过知识图谱完成真实工作输出，支持 MCP 工具扩展。"
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-05-10T09:00:10.784382+08:00",
+      "author": "ChromeDevTools",
+      "name": "chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "Google Chrome 团队官方 MCP Server，将 Chrome DevTools 能力赋能 AI 编程助手。支持 click、drag、fill、navigate_page、take_snapshot、performance_start_trace 等丰富工具，兼容 Gemini CLI、Claude Code、Codex 等主流 Agent。提供 MCP+Skills 双重模式，AI 可直接操控浏览器进行页面自动化、性能分析、DOM 检查和自动调试验证。"
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-05-10T09:00:10.784436+08:00",
+      "author": "masterking32",
+      "name": "MasterDnsVPN",
+      "url": "https://github.com/masterking32/MasterDnsVPN",
+      "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
+      "language": "Go",
+      "stars": "",
+      "forks": "",
+      "summary": "高级 DNS 隧道 VPN，用于突破网络审查和流量过滤。通过将流量封装在 DNS 请求中绕过防火墙，针对高丢包环境优化，集成了低开销 ARQ 纠错、解析器负载均衡等技术，相比 DNSTT 和 SlipStream 有显著改进。支持多种 DNS 隧道协议和resolver负载均衡，在高丢包环境下仍能保持稳定速度和连接质量。"
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-05-10T09:00:10.784490+08:00",
+      "author": "playcanvas",
+      "name": "supersplat",
+      "url": "https://github.com/playcanvas/supersplat",
+      "description": "3D Gaussian Splat Editor",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "PlayCanvas 出品的开源浏览器端 3D Gaussian Splat 编辑器，基于 WebGPU 加速。支持在浏览器内对 PLY 格式的高斯泼溅数据进行选择、变换、优化、合并等操作，可一键发布到 superspl.at 分享链接。完全开源（MIT），引擎无关，编辑器本身一直开源，现已将 Viewer 也开源出来。提供交互式 3D 嵌入能力，适合 3D 内容创作者处理实景重建数据。"
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-05-10T09:00:10.784543+08:00",
+      "author": "Lordog",
+      "name": "dive-into-llms",
+      "url": "https://github.com/Lordog/dive-into-llms",
+      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "language": "Jupyter Notebook",
+      "stars": "",
+      "forks": "",
+      "summary": "上海交通大学《自然语言处理前沿技术》和《人工智能安全技术》课程讲义拓展而来的开源实战教程系列。覆盖预训练微调与部署、提示学习与思维链、知识编辑、模型水印、越狱攻击等核心主题，配有 Slides 和 Tutorial，适合大模型方向的研究者和开发者快速上手实战。目前更新了 5 章内容，持续维护中。"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-04-14T22:00:17.493033+08:00",
+  "date": "2026-04-14",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-04-14T22:00:17.492326+08:00",
+      "author": "forrestchang",
+      "name": "andrej-karpathy-skills",
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "summary": "将 Andrej Karpathy 的 LLM 编程经验凝练成一份 CLAUDE.md，供 Claude Code 直接使用，帮助 AI 更好地理解和规避常见编程陷阱，提升代码质量与推理准确性。",
+      "stars": "",
+      "forks": "",
+      "language": ""
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-04-14T22:00:17.492436+08:00",
+      "author": "thedotmack",
+      "name": "claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "summary": "为 Claude Code 提供持久记忆能力的插件，自动记录会话过程并用 AI 压缩，未来的会话可以自动获得相关上下文，大幅提升 AI 对长期项目的理解深度。",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-04-14T22:00:17.492519+08:00",
+      "author": "jamiepine",
+      "name": "voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source voice synthesis studio",
+      "summary": "开源语音合成工作室，提供灵活的语音生成与编辑能力，支持多种声音风格与应用场景，适合开发者构建语音交互类产品。",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-04-14T22:00:17.492581+08:00",
+      "author": "pascalorg",
+      "name": "editor",
+      "url": "https://github.com/pascalorg/editor",
+      "description": "Create and share 3D architectural projects.",
+      "summary": "在线 3D 建筑项目编辑器，让用户可以创建、浏览和分享建筑场景，聚焦于协作与可视化，适合建筑师和设计爱好者快速原型搭建。",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-04-14T22:00:17.492639+08:00",
+      "author": "microsoft",
+      "name": "markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "summary": "微软出品的文档转换工具，可将 PDF、Word、Excel、PowerPoint 等格式一键转为 Markdown，保留基本结构，方便文档处理与迁移。",
+      "language": "Python",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-04-14T22:00:17.492705+08:00",
+      "author": "obra",
+      "name": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "summary": "一个 Agent 技能框架与软件开发方法论，通过定义可复用的技能单元和标准化工作流，帮助团队更高效地构建和部署 AI Agent 应用。",
+      "language": "Shell",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-04-14T22:00:17.492781+08:00",
+      "author": "chrislgarry",
+      "name": "Apollo-11",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "summary": "阿波罗 11 号制导计算机（AGC）的原始源码仓库，包含指挥舱和登月舱的汇编代码，具有重要的历史与教育意义，是计算机发展史的里程碑。",
+      "language": "Assembly",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-04-14T22:00:17.492850+08:00",
+      "author": "virattt",
+      "name": "ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "summary": "用 AI 多智能体协作架构打造的对冲基金团队项目，模拟不同角色的 AI Agent 协同进行投资决策与风控管理，体现 AI 在金融领域的实际应用探索。",
+      "language": "Python",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-04-14T22:00:17.492906+08:00",
+      "author": "shiyu-coder",
+      "name": "Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "summary": "金融市场的基座大模型，专门用于理解和生成金融文本，可以应用于金融舆情分析、量化因子构建、交易信号生成等任务。",
+      "language": "Python",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-04-14T22:00:17.492964+08:00",
+      "author": "NousResearch",
+      "name": "hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "summary": "NousResearch 推出的可成长式 AI Agent 框架，Agent 能够随着使用和交互不断学习和适应，长期使用后表现越来越好，适合个人助手和定制化场景。",
+      "language": "Python",
+      "stars": "",
+      "forks": ""
+    }
+  ]
+}

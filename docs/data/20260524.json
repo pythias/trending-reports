@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-05-24T09:00:10.405584+08:00",
+  "date": "2026-05-24",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-05-24T09:00:10.404958+08:00",
+      "author": "Lum1104",
+      "name": "Understand-Anything",
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "将任意代码转换为可交互的知识图谱，支持 Claude Code、Codex、Cursor 等主流 AI 编码助手，帮助探索、搜索和提问代码库，大幅降低大型项目的理解成本。"
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-05-24T09:00:10.405046+08:00",
+      "author": "anthropics",
+      "name": "claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "Anthropic 官方维护的 Claude Code 插件目录，收录高质量、经官方认证的插件，帮助开发者快速查找和集成可信插件到 AI 编码工作流中。"
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-05-24T09:00:10.405109+08:00",
+      "author": "colbymchenry",
+      "name": "codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "为 AI 编码助手构建的预索引代码知识图谱，支持 Claude Code、Codex、Cursor 等主流 Agent，100% 本地运行，减少 token 消耗和工具调用次数，提升代码理解效率。"
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-05-24T09:00:10.405169+08:00",
+      "author": "rohitg00",
+      "name": "ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "从零开始学习 AI 工程化的实践指南，涵盖从基础概念到产品交付的完整路径，适合想系统掌握 AI 应用开发的工程师。"
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-05-24T09:00:10.405231+08:00",
+      "author": "Fincept-Corporation",
+      "name": "FinceptTerminal",
+      "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "现代金融应用平台，提供高级市场分析、投资研究和经济数据工具，支持交互式探索和数据驱动决策，适合金融从业者和投资者。"
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-05-24T09:00:10.405294+08:00",
+      "author": "multica-ai",
+      "name": "andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": "",
+      "forks": "",
+      "language": "",
+      "summary": "基于 Andrej Karpathy 对 LLM 编码陷阱的观察提炼出的单一 CLAUDE.md 文件，用于优化 Claude Code 行为，提升 AI 编码助手的稳定性。"
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-05-24T09:00:10.405349+08:00",
+      "author": "dotnet",
+      "name": "skills",
+      "url": "https://github.com/dotnet/skills",
+      "description": "Repository for skills to assist AI coding agents with .NET and C#",
+      "language": "C#",
+      "stars": "",
+      "forks": "",
+      "summary": "微软官方维护的 .NET 和 C# AI 编码技能库，为 AI 助手提供 .NET 开发的专业知识、代码模式和最佳实践，提升 AI 在 .NET 项目中的表现。"
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-05-24T09:00:10.405400+08:00",
+      "author": "ChromeDevTools",
+      "name": "chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "Chrome DevTools 的 MCP（Model Context Protocol）集成，让 AI 编码助手能够直接控制 Chrome DevTools 进行调试、网络分析和性能分析。"
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-05-24T09:00:10.405449+08:00",
+      "author": "mukul975",
+      "name": "Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "为 AI 代理设计的 754 个结构化网络安全技能，映射到 MITRE ATT&CK、NIST CSF 2.0 等 5 大框架，覆盖 26 个安全领域，支持 Claude Code、Copilot 等 20+ 平台。"
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-05-24T09:00:10.405512+08:00",
+      "author": "presenton",
+      "name": "presenton",
+      "url": "https://github.com/presenton/presenton",
+      "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "开源 AI 演示文稿生成器和 API，是 Gamma、Beautiful AI、Decktopus 的开源替代方案，支持快速生成专业演示文稿。"
+    }
+  ]
+}

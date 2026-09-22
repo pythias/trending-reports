@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-05-28T09:00:06.678919+08:00",
+  "date": "2026-05-28",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-05-28T09:00:06.678258+08:00",
+      "author": "harry0703",
+      "name": "MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "一款利用 AI 大模型一键生成高清短视频的工具，支持自动文案、配音、字幕生成，适合内容创作者快速批量生产短视频。"
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-05-28T09:00:06.678361+08:00",
+      "author": "Lum1104",
+      "name": "Understand-Anything",
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "将任意代码转换为可交互的知识图谱，支持搜索和提问，兼容 Claude Code、Copilot 等主流 AI 编程工具，帮助开发者更好地理解大型代码库。"
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-05-28T09:00:06.678430+08:00",
+      "author": "hardikpandya",
+      "name": "stop-slop",
+      "url": "https://github.com/hardikpandya/stop-slop",
+      "description": "A skill file for removing AI tells from prose",
+      "stars": "",
+      "forks": "",
+      "language": "",
+      "summary": "一个 AI Skill 文件，专门用于去除 AI 生成文本中的「AI 腔调」，让 AI 辅助写作更加自然、贴近人类风格。"
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-05-28T09:00:06.678556+08:00",
+      "author": "affaan-m",
+      "name": "ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": "",
+      "forks": "",
+      "summary": "面向 AI 编程 Agent（Claude Code、Copilot 等）的性能优化系统，提供 Skills、 instincts、Memory、安全和研究导向开发等模块，提升 Agent 开发效率。"
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-05-28T09:00:06.678612+08:00",
+      "author": "anthropics",
+      "name": "knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "stars": "",
+      "forks": "",
+      "language": "Python",
+      "summary": "Anthropic 官方开源的知识工作者插件库，专为 Claude Cowork 设计，涵盖文档处理、信息检索、任务管理等知识工作场景。"
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-05-28T09:00:06.678680+08:00",
+      "author": "Leonxlnx",
+      "name": "taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "language": "Shell",
+      "stars": "",
+      "forks": "",
+      "summary": "一个 AI Skill，通过风格引导让 AI 避免生成平淡、泛味的「垃圾内容」，提升 AI 输出品质和审美水平。"
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-05-28T09:00:06.678735+08:00",
+      "author": "p-e-w",
+      "name": "heretic",
+      "url": "https://github.com/p-e-w/heretic",
+      "description": "Fully automatic censorship removal for language models",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "自动移除语言模型输出中审查过滤机制的工具，帮助恢复被过度过滤的内容，提升 LLM 生成内容的完整性和自由度。"
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-05-28T09:00:06.678789+08:00",
+      "author": "shiyu-coder",
+      "name": "Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "金融市场语言的基础模型，专门用于理解和生成金融领域文本，可应用于金融新闻分析、投研报告生成、量化策略等场景。"
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-05-28T09:00:06.678789+08:00",
+      "author": "mukul975",
+      "name": "Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "为 AI Agent 设计的网络安全技能库，包含 754 个结构化技能，涵盖 26 个安全领域，映射 MITRE ATT&CK、NIST CSF 等 5 大框架，兼容 20+ AI 编程平台。"
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-05-28T09:00:06.678854+08:00",
+      "author": "twentyhq",
+      "name": "twenty",
+      "url": "https://github.com/twentyhq/twenty",
+      "description": "The open alternative to Salesforce, designed for AI.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "开源 Salesforce 替代品，专为 AI 时代设计的 CRM 系统，支持 AI 辅助销售流程、数据分析和客户关系管理。"
+    }
+  ]
+}

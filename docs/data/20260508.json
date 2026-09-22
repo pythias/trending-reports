@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-05-08T09:02:41.030240+08:00",
+  "date": "2026-05-08",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-05-08T09:02:41.029576+08:00",
+      "author": "anthropics",
+      "name": "financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "description": "",
+      "summary": "Anthropic 官方推出的金融行业解决方案，基于 Claude 模型，帮助金融机构构建 AI 应用。Anthropic 罕见地将模型能力落地到具体行业场景，说明 AI+金融已成 2026 年落地重点。"
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-05-08T09:02:41.029683+08:00",
+      "author": "Hmbown",
+      "name": "DeepSeek-TUI",
+      "url": "https://github.com/Hmbown/DeepSeek-TUI",
+      "description": "Coding agent for DeepSeek models that runs in your terminal",
+      "language": "Rust",
+      "stars": "",
+      "forks": "",
+      "summary": "Rust 写的 DeepSeek 终端 Coding Agent，让开发者可以在命令行里直接使用 DeepSeek 模型做代码任务。Rust + LLM 的组合很值得关注——性能优秀，适合做高效率本地工具。"
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-05-08T09:02:41.029752+08:00",
+      "author": "z-lab",
+      "name": "dflash",
+      "url": "https://github.com/z-lab/dflash",
+      "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "Block Diffusion 用于 Flash Speculative Decoding，是大模型推理加速方向的前沿工作。通过分块扩散方式加速推理，学术价值和工程落地潜力兼备。"
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-05-08T09:02:41.029811+08:00",
+      "author": "InsForge",
+      "name": "InsForge",
+      "url": "https://github.com/InsForge/InsForge",
+      "description": "InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "以 Postgres 为核心的全栈后端方案，集成了 auth、storage、compute、hosting 和 AI gateway，专门为 coding agent 打造。TypeScript 全家桶，对 AI 原生应用的开发者友好。"
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-05-08T09:02:41.029877+08:00",
+      "author": "LearningCircuit",
+      "name": "local-deep-research",
+      "url": "https://github.com/LearningCircuit/local-deep-research",
+      "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "本地深度研究工具，Qwen3.6-27B 在 3090 上达 SimpleQA ~95%，支持 llama.cpp/Ollama/Google 等多模型，整合 10+ 搜索引擎。隐私优先、本地加密，适合企业内网研究场景。"
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-05-08T09:02:41.029945+08:00",
+      "author": "addyosmani",
+      "name": "agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "Shell",
+      "stars": "",
+      "forks": "",
+      "summary": "addyosmani（Google 工程师）推出的 AI coding agent 工程技能集，目标是把 AI agent 从 demo 做到生产级。Shell 脚本形式，轻量易集成，Google 背书让这个项目含金量很高。"
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-05-08T09:02:41.030000+08:00",
+      "author": "VectifyAI",
+      "name": "PageIndex",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "无向量的 reasoning-based RAG 文档索引方案，绕过 embedding 模型直接做检索。思路新颖，解决传统 RAG 对向量数据库的依赖问题，值得关注后续效果。"
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-05-08T09:02:41.030065+08:00",
+      "author": "vercel-labs",
+      "name": "open-agents",
+      "url": "https://github.com/vercel-labs/open-agents",
+      "description": "An open source template for building cloud agents.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "Vercel 官方开源的云端 AI agent 模板，TypeScript + Vercel 生态，是快速搭建 agent 服务的起点。大厂下场做开源 agent 框架，说明 agent 平台化战争已开打。"
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-05-08T09:02:41.030119+08:00",
+      "author": "docusealco",
+      "name": "docuseal",
+      "url": "https://github.com/docusealco/docuseal",
+      "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+      "language": "Ruby",
+      "stars": "",
+      "forks": "",
+      "summary": "开源 DocuSign 替代品，数字文档创建、填写、签署全流程。Ruby on Rails 实现，开源社区活跃。对于需要文档签署工作流的应用来说是很实用的基础设施。"
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-05-08T09:02:41.030172+08:00",
+      "author": "decolua",
+      "name": "9router",
+      "url": "https://github.com/decolua/9router",
+      "description": "🆓 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "language": "JavaScript",
+      "stars": "",
+      "forks": "",
+      "summary": "通过 40+ provider 聚合免费 Claude/GPT/Gemini 的 AI coding 路由器，带自动 fallback 和 40% token 压缩。面对 AI coding 工具高昂 API 成本的痛点，实用性强，但依赖多个 provider 稳定性。"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-05-11T09:05:12.310272+08:00",
+  "date": "2026-05-11",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-05-11T09:05:12.309654+08:00",
+      "author": "bytedance",
+      "name": "UI-TARS-desktop",
+      "url": "https://github.com/bytedance/UI-TARS-desktop",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "ByteDance 开源的多模态 AI Agent 技术栈，整合了前沿 AI 模型与 Agent 基础设施，支持桌面端应用开发，定位为端到端的 AI Agent 解决方案。"
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-05-11T09:05:12.309748+08:00",
+      "author": "anthropics",
+      "name": "financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "description": "",
+      "summary": "Anthropic 推出的金融服务业 AI 应用示例项目，展示如何在大模型应用中构建金融场景的 Agent 工作流，可能包含风险评估、交易分析等场景。"
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-05-11T09:05:12.309822+08:00",
+      "author": "addyosmani",
+      "name": "agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "Shell",
+      "stars": "",
+      "forks": "",
+      "summary": "Addy Osmani 出品的 AI 编码 Agent 生产级技能库，提供一系列面向 AI Agent 的工程化技能，帮助 AI 工具在真实工程任务中达到生产级质量。"
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-05-11T09:05:12.309948+08:00",
+      "author": "CloakHQ",
+      "name": "CloakBrowser",
+      "url": "https://github.com/CloakHQ/CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "反检测 Chromium 浏览器，可通过所有 Bot 检测测试，无缝替代 Playwright，采用源码级指纹补丁，30/30 测试全过，专为需要高隐蔽性的自动化场景设计。"
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-05-11T09:05:12.309997+08:00",
+      "author": "HKUDS",
+      "name": "AI-Trader",
+      "url": "https://github.com/HKUDS/AI-Trader",
+      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "港大团队开发的 100% 全自动 Agent 原生交易系统，完全由 AI Agent 驱动交易决策与执行，探索 LLM 在金融交易中的应用边界。"
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-05-11T09:05:12.310044+08:00",
+      "author": "jundot",
+      "name": "omlx",
+      "url": "https://github.com/jundot/omlx",
+      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "Apple Silicon 专用 LLM 推理服务器，支持连续批处理和 SSD 缓存优化，通过 macOS 菜单栏管理，为 Mac 上的本地大模型推理提供高效方案。"
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-05-11T09:05:12.310095+08:00",
+      "author": "datawhalechina",
+      "name": "easy-vibe",
+      "url": "https://github.com/datawhalechina/easy-vibe",
+      "description": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.",
+      "language": "JavaScript",
+      "stars": "",
+      "forks": "",
+      "summary": "Datawhale 出品的 Vibe Coding 2026 教程，面向零基础初学者的现代编程入门课程，帮助新手一步步掌握编程技能，踩准 2026 年的编程学习趋势。"
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-05-11T09:05:12.310147+08:00",
+      "author": "playcanvas",
+      "name": "supersplat",
+      "url": "https://github.com/playcanvas/supersplat",
+      "description": "3D Gaussian Splat Editor",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "PlayCanvas 开源的 3D Gaussian Splat 编辑器，提供可视化的 3D GS 场景编辑能力，让用户可以对 Gaussian Splat 这类新型 3D 表表示进行实时编辑与创作。"
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-05-11T09:05:12.310198+08:00",
+      "author": "lsdefine",
+      "name": "GenericAgent",
+      "url": "https://github.com/lsdefine/GenericAgent",
+      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "自进化 Agent 系统，从 3300 行代码的种子模型出发，通过技能树自主扩展实现全系统控制，且 token 消耗降低 6 倍，展示了大模型 Agent 的高效自进化路径。"
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-05-11T09:05:12.310249+08:00",
+      "author": "decolua",
+      "name": "9router",
+      "url": "https://github.com/decolua/9router",
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "language": "JavaScript",
+      "stars": "",
+      "forks": "",
+      "summary": "通过 40+ 提供商将 Claude Code、Cursor、Copilot 等主流 AI 编程工具连接到免费的 Claude/GPT/Gemini，支持自动降级与 RTK 压缩 40% token，解决 AI 编程工具的用量限制问题。"
+    }
+  ]
+}

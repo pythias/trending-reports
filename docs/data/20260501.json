@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-05-01T09:02:46.808999+08:00",
+  "date": "2026-05-01",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-05-01T09:02:46.808454+08:00",
+      "author": "warpdotdev",
+      "name": "warp",
+      "url": "https://github.com/warpdotdev/warp",
+      "description": "Warp is an agentic development environment, born out of the terminal.",
+      "language": "Rust",
+      "stars": "",
+      "forks": "",
+      "summary": "Warp 是一个诞生于终端的 AI 原生开发环境（agentic development environment），用 Rust 编写。它将 AI 能力直接嵌入终端，让开发者可以在命令行中完成代码编写、任务自动化和协作工作流。"
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-05-01T09:02:46.808534+08:00",
+      "author": "TauricResearch",
+      "name": "TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "TradingAgents 是一个多智能体 LLM 金融交易框架，采用 Python 开发。它通过多个 AI 智能体协同工作来进行金融数据分析与交易决策，支持多市场、多策略的量化交易研究。"
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-05-01T09:02:46.808590+08:00",
+      "author": "mattpocock",
+      "name": "skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars": "",
+      "forks": "",
+      "summary": "mattpocock/skills 是知名 TypeScript 教育者 Matt Pocock 开源的工程师技能合集，直接源自他的 .claude 目录。收录了真实工程师在日常开发中使用的高效技巧、工作流和 Shell 脚本。"
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-05-01T09:02:46.808700+08:00",
+      "author": "obra",
+      "name": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": "",
+      "forks": "",
+      "summary": "superpowers 是一个 AI 智能体技能框架与软件工程方法论，帮助开发者构建可复用的 AI 工作流程和技能模块，旨在让 AI 辅助编程真正落地而非停留在概念层面。"
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-05-01T09:02:46.808752+08:00",
+      "author": "lukilabs",
+      "name": "craft-agents-oss",
+      "url": "https://github.com/lukilabs/craft-agents-oss",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "description": "",
+      "summary": "lukilabs/craft-agents-oss 是 Craft 团队开源的 TypeScript AI 智能体框架，专注于构建可靠、可测试的 AI 工作流与代理协作系统。"
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-05-01T09:02:46.808796+08:00",
+      "author": "public-apis",
+      "name": "public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "public-apis 是一个免费公共 API 汇总列表，收录了来自各领域的数千个免费接口，涵盖认证、数据、工具等分类，是开发者快速查找和集成免费 API 的首选资源。"
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-05-01T09:02:46.808839+08:00",
+      "author": "1jehuang",
+      "name": "jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "Coding Agent Harness",
+      "language": "Rust",
+      "stars": "",
+      "forks": "",
+      "summary": "jcode 是一个用 Rust 编写的 Coding Agent 测试框架（harness），用于方便地评测和迭代各种 AI 编程智能体的表现，支持标准化评测协议。"
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-05-01T09:02:46.808858+08:00",
+      "author": "soxoj",
+      "name": "maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "maigret 是一个开源人物情报收集工具，通过用户名在 3000+ 网站上自动检索目标的相关账户信息，常用于 OSINT 开源情报调查和数字足迹分析。"
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-05-01T09:02:46.808893+08:00",
+      "author": "HunxByts",
+      "name": "GhostTrack",
+      "url": "https://github.com/HunxByts/GhostTrack",
+      "description": "Useful tool to track location or mobile number",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "GhostTrack 是一个位置和手机号追踪工具，提供号码归属地查询、位置信息追踪等功能，常用于安全研究和失踪人口协助调查等合法场景。"
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-05-01T09:02:46.808935+08:00",
+      "author": "iamgio",
+      "name": "quarkdown",
+      "url": "https://github.com/iamgio/quarkdown",
+      "description": "🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.",
+      "language": "Kotlin",
+      "stars": "",
+      "forks": "",
+      "summary": "quarkdown 是一个用 Kotlin 编写的增强型 Markdown 工具，支持从同一个源文件生成论文、演示文稿、网站、书籍和知识库等多种输出格式，大幅提升技术文档创作效率。"
+    }
+  ]
+}

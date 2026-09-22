@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-06-01T09:03:51.725445+08:00",
+  "date": "2026-06-01",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-06-01T09:03:51.724914+08:00",
+      "author": "harry0703",
+      "name": "MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "language": "Python",
+      "summary": "一个利用 AI 大模型一键生成高清短视频的工具，支持自动化文案、配音、字幕合成，适合内容创作者快速批量生产短视频。",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-06-01T09:03:51.724995+08:00",
+      "author": "microsoft",
+      "name": "markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "summary": "微软出品的文档转 Markdown 工具，支持 Word、Excel、PowerPoint、PDF 等多种格式一键转换，适合文档迁移和内容处理工作流。",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-06-01T09:03:51.725054+08:00",
+      "author": "D4Vinci",
+      "name": "Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+      "language": "Python",
+      "summary": "自适应网页爬取框架，从单次请求到大规模爬取都能应对，内置自动解析、反爬绕过和结构化数据提取能力。",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-06-01T09:03:51.725110+08:00",
+      "author": "nesquena",
+      "name": "hermes-webui",
+      "url": "https://github.com/nesquena/hermes-webui",
+      "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+      "language": "Python",
+      "summary": "Hermes Agent 的 Web UI 界面，可以通过浏览器或手机远程访问和控制 AI Agent 执行各类任务，适合无头服务器场景。",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-06-01T09:03:51.725165+08:00",
+      "author": "EveryInc",
+      "name": "compound-engineering-plugin",
+      "url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+      "language": "TypeScript",
+      "summary": "Compound Engineering 官方插件，为 Claude Code、Codex、Cursor 等主流 AI 编程工具提供工程化能力扩展，提升代码生成质量和项目管理能力。",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-06-01T09:03:51.725210+08:00",
+      "author": "github",
+      "name": "docs",
+      "url": "https://github.com/github/docs",
+      "description": "The open-source repo for docs.github.com",
+      "language": "TypeScript",
+      "summary": "GitHub 官方文档仓库，包含 docs.github.com 网站的所有内容和示例代码，是学习和参考 GitHub 功能的重要资源。",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-06-01T09:03:51.725254+08:00",
+      "author": "OpenBMB",
+      "name": "VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "language": "Python",
+      "summary": "VoxCPM2 是一个无需分词器的多语言语音生成 TTS 模型，支持创意语音设计和高保真语音克隆，适合多语言内容创作和语音合成应用。",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-06-01T09:03:51.725298+08:00",
+      "author": "revfactory",
+      "name": "harness",
+      "url": "https://github.com/revfactory/harness",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "language": "HTML",
+      "summary": "一个元技能框架，通过设计特定领域的 Agent 团队、定义专业 Agent 并生成其使用的技能，实现复杂任务的分布式协作处理。",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-06-01T09:03:51.725344+08:00",
+      "author": "FareedKhan-dev",
+      "name": "train-llm-from-scratch",
+      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+      "description": "A straightforward method for training your LLM, from downloading data to generating text.",
+      "language": "Jupyter Notebook",
+      "summary": "从零训练 LLM 的完整教程，从数据下载到文本生成的每个步骤都有详细讲解，适合想深入理解大模型训练过程的开发者。",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-06-01T09:03:51.725389+08:00",
+      "author": "supermemoryai",
+      "name": "supermemory",
+      "url": "https://github.com/supermemoryai/supermemory",
+      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "language": "TypeScript",
+      "summary": "为 AI 时代打造的极速、可扩展的记忆引擎和应用，提供 Memory API，帮助 AI 应用实现长期记忆和上下文管理。",
+      "stars": "",
+      "forks": ""
+    }
+  ]
+}

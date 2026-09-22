@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-08-09T09:00:10.426442+08:00",
+  "date": "2026-08-09",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-08-09T09:00:10.425758+08:00",
+      "author": "PrimeIntellect-ai",
+      "name": "prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "用于编程工作流和长期自主任务的自我改进型RLM智能体。"
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-08-09T09:00:10.425864+08:00",
+      "author": "addyosmani",
+      "name": "agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": "",
+      "forks": "",
+      "summary": "适用于AI编程智能体的生产级工程技能库。"
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-08-09T09:00:10.425940+08:00",
+      "author": "TapXWorld",
+      "name": "ChinaTextbook",
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "language": "Roff",
+      "stars": "",
+      "forks": "",
+      "summary": "收录了包括中小学及大学的所有PDF版教育教材。"
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-08-09T09:00:10.426000+08:00",
+      "author": "google",
+      "name": "skills",
+      "url": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "适用于 Google 产品和技术的 Agent Skills 集合。"
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-08-09T09:00:10.426060+08:00",
+      "author": "mattpocock",
+      "name": "skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": "",
+      "forks": "",
+      "summary": "为真实工程师提供的实用 AI Agent 技能配置目录。"
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-08-09T09:00:10.426130+08:00",
+      "author": "goauthentik",
+      "name": "authentik",
+      "url": "https://github.com/goauthentik/authentik",
+      "description": "The authentication glue you need.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "灵活且强大的身份认证“胶水层”解决方案。"
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-08-09T09:00:10.426201+08:00",
+      "author": "TauricResearch",
+      "name": "TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "基于多智能体大型语言模型的金融交易框架。"
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-08-09T09:00:10.426258+08:00",
+      "author": "google",
+      "name": "guava",
+      "url": "https://github.com/google/guava",
+      "description": "Google core libraries for Java",
+      "language": "Java",
+      "stars": "",
+      "forks": "",
+      "summary": "Google 提供的常用 Java 核心基础库集合。"
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-08-09T09:00:10.426316+08:00",
+      "author": "LadybirdBrowser",
+      "name": "ladybird",
+      "url": "https://github.com/LadybirdBrowser/ladybird",
+      "description": "Truly independent web browser",
+      "language": "C++",
+      "stars": "",
+      "forks": "",
+      "summary": "一个完全独立、从零开始开发的现代 Web 浏览器引擎。"
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-08-09T09:00:10.426373+08:00",
+      "author": "denoland",
+      "name": "celld",
+      "url": "https://github.com/denoland/celld",
+      "description": "self-hosted, distributed Durable Objects",
+      "language": "Rust",
+      "stars": "",
+      "forks": "",
+      "summary": "由 Deno 团队推出的自托管且分布式的持久化对象（Durable Objects）实现。"
+    }
+  ]
+}

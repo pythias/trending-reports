@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-08-06T09:00:07.910141+08:00",
+  "date": "2026-08-06",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-08-06T09:00:07.909466+08:00",
+      "author": "cloudflare",
+      "name": "computer",
+      "url": "https://github.com/cloudflare/computer",
+      "description": "Give your agent a computer 👾",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "Cloudflare 推出的为 AI Agent 提供计算机执行能力的轻量框架。"
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-08-06T09:00:07.909604+08:00",
+      "author": "huangruiteng",
+      "name": "loopx",
+      "url": "https://github.com/huangruiteng/loopx",
+      "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "一个为长程 AI Agent 团队设计的轻量级循环状态核心，支持跨框架目标持久化、防限流唤醒与任务交接日志。"
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-08-06T09:00:07.909673+08:00",
+      "author": "TencentCloud",
+      "name": "TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "腾讯云推出的团队级 Agent 记忆中枢，可集中管理、共享并灵活挂载对话、Skill、LLM Wiki 和代码图谱等记忆资产。"
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-08-06T09:00:07.909730+08:00",
+      "author": "donnemartin",
+      "name": "system-design-primer",
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "经典的系统设计学习与面试准备指南，包含架构原理图解及复习卡片。"
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-08-06T09:00:07.909786+08:00",
+      "author": "firecrawl",
+      "name": "pdf-inspector",
+      "url": "https://github.com/firecrawl/pdf-inspector",
+      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "language": "Rust",
+      "stars": "",
+      "forks": "",
+      "summary": "基于 Rust 的高性能 PDF 分析库，能够智能区分扫描版和文本版 PDF，以优化内容提取策略。"
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-08-06T09:00:07.909844+08:00",
+      "author": "esengine",
+      "name": "DeepSeek-Reasonix",
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "language": "Go",
+      "stars": "",
+      "forks": "",
+      "summary": "专为终端环境设计的 DeepSeek 原生 AI 编码 Agent，重点优化了前缀缓存（Prefix-Cache）性能与稳定性。"
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-08-06T09:00:07.909899+08:00",
+      "author": "addyosmani",
+      "name": "agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": "",
+      "forks": "",
+      "summary": "面向 AI 编码 Agent 提供的一系列开箱即用、达到生产级别的工程及开发 Skill 集合。"
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-08-06T09:00:07.909953+08:00",
+      "author": "obra",
+      "name": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": "",
+      "forks": "",
+      "summary": "一套高效的 Agentic 技能框架及配套的软件开发实践方法论。"
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-08-06T09:00:07.910017+08:00",
+      "author": "roboflow",
+      "name": "supervision",
+      "url": "https://github.com/roboflow/supervision",
+      "description": "We write your reusable computer vision tools. 💜",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "由 Roboflow 开发的实用计算机视觉工具库，提供可复用的图像和视频处理工具片段。"
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-08-06T09:00:07.910071+08:00",
+      "author": "vercel",
+      "name": "next.js",
+      "url": "https://github.com/vercel/next.js",
+      "description": "The React Framework",
+      "language": "JavaScript",
+      "stars": "",
+      "forks": "",
+      "summary": "Vercel 打造的流行 React 全栈应用开发框架。"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-04-29T09:00:37.391599+08:00",
+  "date": "2026-04-29",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-04-29T09:00:37.391062+08:00",
+      "author": "mattpocock",
+      "name": "skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars": "",
+      "forks": "",
+      "summary": "mattpocock（Zod maintainer）开源的 AI 编程 skills 合集，源自他个人使用的 .claude 目录。包含一系列实用的 AI 辅助开发提示词和配置，可直接导入到 Claude Code 等工具中使用。对想要提升 AI 编程效率的开发者很有参考价值。"
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-04-29T09:00:37.391152+08:00",
+      "author": "abhigyanpatwari",
+      "name": "GitNexus",
+      "url": "https://github.com/abhigyanpatwari/GitNexus",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "零服务器的代码智能引擎，完全运行在浏览器中。用户可以导入任意 GitHub 仓库或 ZIP 文件，即可获得交互式知识图谱和内置的 Graph RAG Agent。非常适合代码探索和理解大型代码库的结构，无需后端，纯前端实现。"
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-04-29T09:00:37.391220+08:00",
+      "author": "ComposioHQ",
+      "name": "awesome-codex-skills",
+      "url": "https://github.com/ComposioHQ/awesome-codex-skills",
+      "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "ComposioHQ 维护的 Codex skills 精选列表，聚焦于通过 Codex CLI 和 API 实现工作流自动化。汇集了各种实用的 Codex 提示词和技能模板，帮助开发者快速构建自动化任务。对使用 Codex 的用户来说是很好的资源库。"
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-04-29T09:00:37.391269+08:00",
+      "author": "microsoft",
+      "name": "VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "微软开源的前沿语音 AI 项目，定位为开源界的语音智能解决方案。支持多语言语音识别、合成等核心能力，代表了微软在语音技术领域的最新探索。开源背景加上微软的品牌值得关注。"
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-04-29T09:00:37.391322+08:00",
+      "author": "davila7",
+      "name": "claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "用于配置和监控 Claude Code 的 CLI 工具模板集合。提供了开箱即用的配置方案和监控能力，帮助开发者更好地管理和优化 Claude Code 的使用体验。对 Claude Code 重度用户很有帮助。"
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-04-29T09:00:37.391368+08:00",
+      "author": "HunxByts",
+      "name": "GhostTrack",
+      "url": "https://github.com/HunxByts/GhostTrack",
+      "description": "Useful tool to track location or mobile number",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "位置和手机号码追踪工具。需要提醒的是，此类工具涉及隐私和安全风险，仅作技术研究参考，请勿用于非法追踪他人。技术层面展示了基于 API 的位置查询实现方式。"
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-04-29T09:00:37.391412+08:00",
+      "author": "fspecii",
+      "name": "ace-step-ui",
+      "url": "https://github.com/fspecii/ace-step-ui",
+      "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
+      "language": "JavaScript",
+      "stars": "",
+      "forks": "",
+      "summary": "ACE-Step 1.5 AI 音乐生成的专业前端界面，被称为「开源版 Suno 替代品」。支持本地部署、免费无限使用，适合想要自己托管 AI 音乐生成能力的开发者。UI 设计面向专业音乐创作场景。"
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-04-29T09:00:37.391499+08:00",
+      "author": "public-apis",
+      "name": "public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "经典的免费 API 聚合列表，汇集了互联网上各种免费的公开 API 接口。按类别整理，覆盖工具、AI、天气、地图等多个领域。是查找免费 API 资源的首选资源站，开发者必备书签。"
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-04-29T09:00:37.391544+08:00",
+      "author": "CJackHwang",
+      "name": "ds2api",
+      "url": "https://github.com/CJackHwang/ds2api",
+      "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
+      "language": "Go",
+      "stars": "",
+      "forks": "",
+      "summary": "轻量高性能的全栈中间件，将客户端协议转换为通用 API。核心亮点是支持多账号轮换，兼容 Google、Claude、OpenAI 格式，提供编译后的二进制文件、Vercel Serverless 和 Docker 部署选项。对需要统一调用多种 AI API 的开发者很有用。"
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-04-29T09:00:37.391544+08:00",
+      "author": "Alishahryar1",
+      "name": "free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "让用户可以在终端、VSCode 扩展或通过 Discord（类似 OpenClaw）免费使用 Claude Code 的项目。降低了 Claude Code 的使用门槛，提供了多种接入方式。适合想要体验 Claude Code 但不想付费的用户。"
+    }
+  ]
+}

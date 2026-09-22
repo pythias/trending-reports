@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-04-25T09:01:44.067325+08:00",
+  "date": "2026-04-25",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-04-25T09:01:44.066693+08:00",
+      "author": "Alishahryar1",
+      "name": "free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "一款让你在终端、VSCode 扩展或 Discord 中免费使用 Claude Code 的工具，支持类似 OpenClaw 的交互方式。对于想体验 AI 编程助手但不想付费的用户来说是个热门替代方案。"
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-04-25T09:01:44.066786+08:00",
+      "author": "huggingface",
+      "name": "ml-intern",
+      "url": "https://github.com/huggingface/ml-intern",
+      "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "Hugging Face 推出的开源 ML 工程师项目，能够自主阅读论文、训练模型并部署 ML 模型。旨在让机器学习工作流更加自动化，降低 AI 开发门槛。"
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-04-25T09:01:44.066854+08:00",
+      "author": "google",
+      "name": "osv-scanner",
+      "url": "https://github.com/google/osv-scanner",
+      "description": "Vulnerability scanner written in Go which uses the data provided byhttps://osv.dev",
+      "language": "Go",
+      "stars": "",
+      "forks": "",
+      "summary": "Google 开发的开源漏洞扫描器，基于 OSV.dev 数据库工作。支持多种编程语言和生态系统，能快速检测项目依赖中的已知漏洞，是 DevSecOps 流水线的有力补充。"
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-04-25T09:01:44.066913+08:00",
+      "author": "Z4nzu",
+      "name": "hackingtool",
+      "url": "https://github.com/Z4nzu/hackingtool",
+      "description": "ALL IN ONE Hacking Tool For Hackers",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "集成了多种渗透测试和安全审计工具的综合渗透框架，涵盖网络扫描、密码破解、Web 攻击等模块。常用于网络安全研究和合法的渗透测试场景。"
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-04-25T09:01:44.066969+08:00",
+      "author": "zilliztech",
+      "name": "claude-context",
+      "url": "https://github.com/zilliztech/claude-context",
+      "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "Zilliz 开发的 Claude Code MCP 工具，让 AI 编程助手能以整个代码库作为上下文进行代码检索和理解。大幅提升 AI 对复杂代码库的推理和问答能力。"
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-04-25T09:01:44.067022+08:00",
+      "author": "open-metadata",
+      "name": "OpenMetadata",
+      "url": "https://github.com/open-metadata/OpenMetadata",
+      "description": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "一站式元数据管理平台，整合数据发现、可观测性、治理、列级血缘追踪等功能。支持与多种数据工具集成，是现代数据栈中建立统一数据目录的热门开源选择。"
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-04-25T09:01:44.067088+08:00",
+      "author": "PostHog",
+      "name": "posthog",
+      "url": "https://github.com/PostHog/posthog",
+      "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "功能完备的产品分析平台，提供产品分析、会话回放、错误追踪、特性开关、实验、A/B 测试、问卷和数据仓库等能力。定位为开源的 Mixpanel / Amplitude 替代方案，支持自托管。"
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-04-25T09:01:44.067142+08:00",
+      "author": "dani-garcia",
+      "name": "vaultwarden",
+      "url": "https://github.com/dani-garcia/vaultwarden",
+      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "language": "Rust",
+      "stars": "",
+      "forks": "",
+      "summary": "Rust 编写的非官方 Bitwarden 兼容密码管理服务器，资源占用极低。完整支持 Bitwarden API，适合在树莓派或低配置机器上自建密码管理服务。"
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-04-25T09:01:44.067205+08:00",
+      "author": "Anil-matcha",
+      "name": "Open-Generative-AI",
+      "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+      "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "language": "JavaScript",
+      "stars": "",
+      "forks": "",
+      "summary": "无审查的开源 AI 图像和视频生成工作室，集成了 200+ 模型（Flux、Midjourney、Kling、Sora、Veo 等）。完全自托管、MIT 许可、无内容过滤，是创意 AI 工具的开源替代方案。"
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-04-25T09:01:44.067259+08:00",
+      "author": "codecrafters-io",
+      "name": "build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "stars": "",
+      "forks": "",
+      "summary": "Codecrafters 出品的经典项目，通过手写实现来深入理解各种核心技术（Redis、Bittorrent、Git、Docker 等）。编程学习的绝佳实践指南，GitHub star 持续增长。"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-04-11T22:00:17.032137+08:00",
+  "date": "2026-04-11",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-04-11T22:00:17.031474+08:00",
+      "author": "NousResearch",
+      "name": "hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "An AI agent framework from NousResearch focused on continuous learning and adaptation — the agent that evolves as it handles tasks."
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-04-11T22:00:17.031573+08:00",
+      "author": "microsoft",
+      "name": "markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "A Microsoft utility that converts various file formats (including Office documents) into clean Markdown, useful for preparing documentation for LLM processing."
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-04-11T22:00:17.031643+08:00",
+      "author": "coleam00",
+      "name": "Archon",
+      "url": "https://github.com/coleam00/Archon",
+      "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "An open-source harness/framework builder for AI coding agents, aiming to make AI-assisted development more controlled, reproducible, and deterministic."
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-04-11T22:00:17.031701+08:00",
+      "author": "forrestchang",
+      "name": "andrej-karpathy-skills",
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "",
+      "stars": "",
+      "forks": "",
+      "summary": "A curated CLAUDE.md file distilling Karpathy's insights on common LLM coding mistakes, designed to boost Claude Code's effectiveness with minimal setup."
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-04-11T22:00:17.031760+08:00",
+      "author": "multica-ai",
+      "name": "multica",
+      "url": "https://github.com/multica-ai/multica",
+      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "An open-source platform for managing AI coding agents as team members — supports task assignment, progress tracking, and skill accumulation over time."
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-04-11T22:00:17.031870+08:00",
+      "author": "shanraisshan",
+      "name": "claude-code-best-practice",
+      "url": "https://github.com/shanraisshan/claude-code-best-practice",
+      "description": "practice made claude perfect",
+      "language": "HTML",
+      "stars": "",
+      "forks": "",
+      "summary": "A community-driven collection of best practices and patterns for using Claude Code effectively in real-world development workflows."
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-04-11T22:00:17.031870+08:00",
+      "author": "TapXWorld",
+      "name": "ChinaTextbook",
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "language": "Roff",
+      "stars": "",
+      "forks": "",
+      "summary": "An open repository of Chinese K-12 and university textbooks in PDF format, covering the full education spectrum."
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-04-11T22:00:17.031922+08:00",
+      "author": "OpenBMB",
+      "name": "VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "VoxCPM2 is a tokenizer-free multilingual text-to-speech model from OpenBMB, supporting voice cloning, creative voice design, and lifelike speech synthesis across languages."
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-04-11T22:00:17.031974+08:00",
+      "author": "shiyu-coder",
+      "name": "Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "A foundation model specialized in financial market language — designed to understand and generate financial narratives, analyst reports, and market commentary."
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-04-11T22:00:17.032028+08:00",
+      "author": "opendataloader-project",
+      "name": "opendataloader-pdf",
+      "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+      "language": "Java",
+      "stars": "",
+      "forks": "",
+      "summary": "An open-source PDF parsing toolkit focused on extracting structured, AI-ready data from PDF documents and automating accessibility workflows."
+    }
+  ]
+}

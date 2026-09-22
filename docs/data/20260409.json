@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-04-09T21:32:50.946676+08:00",
+  "date": "2026-04-09",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-04-09T21:32:50.945895+08:00",
+      "author": "NousResearch",
+      "name": "hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "summary": "An AI agent framework from NousResearch focused on continuous learning and adaptation. Designed to evolve its capabilities over time as it interacts with users and environments.",
+      "language": "Python",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-04-09T21:32:50.945980+08:00",
+      "author": "forrestchang",
+      "name": "andrej-karpathy-skills",
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "summary": "A curated CLAUDE.md prompt file distilled from Andrej Karpathy's insights on common LLM coding mistakes. Helps Claude Code avoid typical pitfalls in AI-assisted software development.",
+      "stars": "",
+      "forks": "",
+      "language": ""
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-04-09T21:32:50.946043+08:00",
+      "author": "HKUDS",
+      "name": "DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+      "summary": "An AI-powered personalized learning assistant built as an agent-native system. Uses deep learning to adapt tutoring content to individual learner needs and pace.",
+      "language": "Python",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-04-09T21:32:50.946095+08:00",
+      "author": "OpenBMB",
+      "name": "VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "summary": "VoxCPM2 is a tokenizer-free text-to-speech system supporting multilingual speech generation, creative voice design, and realistic voice cloning. A significant upgrade over the original VoxCPM.",
+      "language": "Python",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-04-09T21:32:50.946142+08:00",
+      "author": "opendataloader-project",
+      "name": "opendataloader-pdf",
+      "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+      "summary": "An open-source PDF parsing tool designed to extract structured data from PDFs for AI training pipelines. Automates PDF accessibility and preprocessing for machine learning datasets.",
+      "language": "Java",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-04-09T21:32:50.946189+08:00",
+      "author": "obra",
+      "name": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "summary": "An agentic framework for organizing and executing skills in software development. Provides a methodology for building reliable AI-assisted development workflows using shell-based tooling.",
+      "language": "Shell",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-04-09T21:32:50.946245+08:00",
+      "author": "TheCraigHewitt",
+      "name": "seomachine",
+      "url": "https://github.com/TheCraigHewitt/seomachine",
+      "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
+      "summary": "A Claude Code-powered system for generating SEO-optimized blog content. Handles research, writing, analysis, and ranking optimization end-to-end for any niche or business.",
+      "language": "Python",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-04-09T21:32:50.946290+08:00",
+      "author": "coleam00",
+      "name": "Archon",
+      "url": "https://github.com/coleam00/Archon",
+      "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+      "summary": "An open-source harness framework for AI coding agents that adds determinism and repeatability. Lets teams capture, replay, and validate AI coding sessions for consistent outcomes.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-04-09T21:32:50.946335+08:00",
+      "author": "shiyu-coder",
+      "name": "Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "summary": "A foundation model trained on financial market language — covering SEC filings, earnings calls, analyst reports, and market news. Built for financial NLP tasks like sentiment analysis, prediction, and document understanding.",
+      "language": "Python",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-04-09T21:32:50.946380+08:00",
+      "author": "YishenTu",
+      "name": "claudian",
+      "url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
+      "summary": "An Obsidian plugin that embeds Claude Code as an AI collaborator directly within your note vault. Enables context-aware AI assistance while writing and organizing personal knowledge.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": ""
+    }
+  ]
+}

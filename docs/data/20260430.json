@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-04-30T09:00:16.672063+08:00",
+  "date": "2026-04-30",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-04-30T09:00:16.671514+08:00",
+      "author": "warpdotdev",
+      "name": "warp",
+      "url": "https://github.com/warpdotdev/warp",
+      "description": "Warp is an agentic development environment, born out of the terminal.",
+      "language": "Rust",
+      "stars": "",
+      "forks": "",
+      "summary": "Warp 将终端重新定义为智能化开发环境，让命令行操作更加直观高效。"
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-04-30T09:00:16.671595+08:00",
+      "author": "mattpocock",
+      "name": "skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars": "",
+      "forks": "",
+      "summary": "工程师必备的 Shell 技能集合，源自真实经验积累。"
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-04-30T09:00:16.671663+08:00",
+      "author": "HunxByts",
+      "name": "GhostTrack",
+      "url": "https://github.com/HunxByts/GhostTrack",
+      "description": "Useful tool to track location or mobile number",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "位置和手机号追踪工具，功能实用但需注意隐私合规。"
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-04-30T09:00:16.671711+08:00",
+      "author": "ComposioHQ",
+      "name": "awesome-codex-skills",
+      "url": "https://github.com/ComposioHQ/awesome-codex-skills",
+      "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "Codex 工作流自动化技能集，整理了丰富的实战用例。"
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-04-30T09:00:16.671761+08:00",
+      "author": "1jehuang",
+      "name": "jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "Coding Agent Harness",
+      "language": "Rust",
+      "stars": "",
+      "forks": "",
+      "summary": "编程 Agent 的测试框架，提供标准化评估环境。"
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-04-30T09:00:16.671807+08:00",
+      "author": "abhigyanpatwari",
+      "name": "GitNexus",
+      "url": "https://github.com/abhigyanpatwari/GitNexus",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "零服务器的代码知识图谱引擎，在浏览器内即可探索 GitHub 仓库结构。"
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-04-30T09:00:16.671861+08:00",
+      "author": "microsoft",
+      "name": "VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "微软开源的前沿语音 AI 项目，支持多场景语音交互。"
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-04-30T09:00:16.671907+08:00",
+      "author": "CJackHwang",
+      "name": "ds2api",
+      "url": "https://github.com/CJackHwang/ds2api",
+      "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
+      "language": "Go",
+      "stars": "",
+      "forks": "",
+      "summary": "Deepseek 转 API 中间件，支持多账号轮换和多种部署方式。"
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-04-30T09:00:16.671952+08:00",
+      "author": "obra",
+      "name": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": "",
+      "forks": "",
+      "summary": "实用的 Agent 技能框架和开发方法论，强调落地而非概念。"
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-04-30T09:00:16.672006+08:00",
+      "author": "ZhuLinsen",
+      "name": "daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "LLM 驱动的股票分析系统，覆盖 A/H/美股，支持多渠道推送。"
+    }
+  ]
+}

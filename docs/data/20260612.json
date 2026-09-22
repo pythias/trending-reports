@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-06-12T09:18:35.792393+08:00",
+  "date": "2026-06-12",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-06-12T09:18:35.791769+08:00",
+      "author": "apple",
+      "name": "container",
+      "url": "https://github.com/apple/container",
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "language": "Swift",
+      "stars": "",
+      "forks": "",
+      "summary": "Apple 推出的容器工具，用 Swift 编写，在 Mac 上通过轻量级虚拟机运行 Linux 容器，并对 Apple Silicon 进行了深度优化，适合在 macOS 开发环境中快速搭建 Linux 容器化环境。"
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-06-12T09:18:35.791862+08:00",
+      "author": "addyosmani",
+      "name": "agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "Shell",
+      "stars": "",
+      "forks": "",
+      "summary": "Addy Osmani 出品的生产级 AI 编程 agent 工程技能集合，提供高质量的 prompt 和工作流模板，帮助 AI coding agents 完成真实生产环境的软件工程任务。"
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-06-12T09:18:35.791927+08:00",
+      "author": "maziyarpanahi",
+      "name": "openmed",
+      "url": "https://github.com/maziyarpanahi/openmed",
+      "description": "open-source healthcare ai",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "开源医疗 AI 项目，提供医疗健康领域的人工智能模型、数据处理工具和应用示例，致力于降低医疗 AI 的门槛，推动医疗健康行业的智能化。"
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-06-12T09:18:35.792033+08:00",
+      "author": "phuryn",
+      "name": "pm-skills",
+      "url": "https://github.com/phuryn/pm-skills",
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "stars": "",
+      "forks": "",
+      "language": "",
+      "summary": "一个 AI agent 技能市场，聚合了 100+ 可用于 AI 编程 agents 的技能、命令和插件，覆盖从需求发现到策略、执行、上线和增长的全流程。"
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-06-12T09:18:35.792085+08:00",
+      "author": "NVIDIA",
+      "name": "SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "NVIDIA 开源的安全扫描工具，专门检测 AI agent 技能中的漏洞、恶意模式和潜在安全风险，帮助开发者识别和修复 AI 技能中的安全问题。"
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-06-12T09:18:35.792147+08:00",
+      "author": "soxoj",
+      "name": "maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "强大的用户名_OSINT 工具，通过单个用户名在 3000+ 网站上自动收集个人信息档案，常用于渗透测试和数字调查场景。"
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-06-12T09:18:35.792217+08:00",
+      "author": "x1xhlol",
+      "name": "system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "stars": "",
+      "forks": "",
+      "language": "",
+      "summary": "一个收集了主流 AI 编程工具（Cursor、Claude Code、Devin、Windsurf、v0 等）系统提示词、内部工具和 AI 模型的合集仓库，适合研究 AI coding agents 的 prompt 工程。"
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-06-12T09:18:35.792280+08:00",
+      "author": "refactoringhq",
+      "name": "tolaria",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "description": "Desktop app to manage markdown knowledge bases",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "桌面应用，用 TypeScript 开发，用于管理基于 Markdown 的知识库，支持笔记整理、标签分类和快速搜索，适合个人知识管理。"
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-06-12T09:18:35.792331+08:00",
+      "author": "obra",
+      "name": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": "",
+      "forks": "",
+      "summary": "一个经过实践验证的 agentic 技能框架和软件开发方法论，提供结构化的 AI agent 工作流程，帮助团队将 AI 技能落地到真实开发流程中。"
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-06-12T09:18:35.792393+08:00",
+      "author": "restic",
+      "name": "restic",
+      "url": "https://github.com/restic/restic",
+      "description": "Fast, secure, efficient backup program",
+      "language": "Go",
+      "stars": "",
+      "forks": "",
+      "summary": "用 Go 编写的快速、安全、高效备份程序，支持本地、远程、云端多种后端存储，去重压缩加密，开源备受信赖，是自托管备份的经典选择。"
+    }
+  ]
+}

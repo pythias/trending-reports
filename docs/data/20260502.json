@@ -1,0 +1,114 @@
+{
+  "timestamp": "2026-05-02T09:00:10.091286+08:00",
+  "date": "2026-05-02",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-05-02T09:00:10.090771+08:00",
+      "author": "TauricResearch",
+      "name": "TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "Multi-Agents LLM Financial Trading Framework，模拟顶级对冲基金运作模式。框架由研究经理、交易员、组合经理等多个结构化智能体组成，支持结构化输出、checkpoint记忆、多种LLM提供商。v0.2.4版本带来了结构化智能体和内存日志等重要更新，擅长并行执行多个智能体完成复杂金融交易任务。"
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-05-02T09:00:10.090855+08:00",
+      "author": "soxoj",
+      "name": "maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "强大的OSINT用户名侦察工具，支持从3000+网站收集目标人物档案信息。只需输入用户名即可自动化搜索并聚合各平台上的公开个人资料，支持生成HTML/PDF报告，是渗透测试和社交工程侦察的利器。"
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-05-02T09:00:10.090921+08:00",
+      "author": "warpdotdev",
+      "name": "warp",
+      "url": "https://github.com/warpdotdev/warp",
+      "description": "Warp is an agentic development environment, born out of the terminal.",
+      "language": "Rust",
+      "stars": "",
+      "forks": "",
+      "summary": "由OpenAI赞助的AI驱动终端，将智能化开发环境带入命令行。基于Rust（Tokio、Alacritty等）构建，集成内置编码智能体，并支持Claude Code、Codex、Gemini CLI等第三方CLI智能体工具。支持多智能体并行工作流，UI框架已MIT开源，其余代码AGPLv3开源。"
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-05-02T09:00:10.090973+08:00",
+      "author": "1jehuang",
+      "name": "jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "Coding Agent Harness",
+      "language": "Rust",
+      "stars": "",
+      "forks": "",
+      "summary": "Rust编写的Coding Agent Harness，为AI编程智能体提供标准化的任务执行框架。采用了高性能的原生Rust实现，支持Mermaid图表渲染等高级功能，是构建可靠AI编程助手的底层基础设施。"
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-05-02T09:00:10.091019+08:00",
+      "author": "mattpocock",
+      "name": "skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars": "",
+      "forks": "",
+      "summary": "Matt Pocock个人AI智能体技能库，精选自他真实的.claude/skills目录。涵盖PRD规划、任务拆分、界面设计、TDD循环、bug排查、架构改进、pre-commit钩子、git防护等多个维度，可通过npx安装到Claude Code，显著扩展AI编程助手的工程能力。"
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-05-02T09:00:10.091073+08:00",
+      "author": "browserbase",
+      "name": "skills",
+      "url": "https://github.com/browserbase/skills",
+      "description": "Claude Agent SDK with a web browsing tool",
+      "language": "JavaScript",
+      "stars": "",
+      "forks": "",
+      "summary": "Browserbase官方Skills套件，为Claude Code提供浏览器自动化和官方bb CLI集成能力。通过自然语言控制真实浏览器执行Web自动化任务，适合需要处理复杂Web交互场景的AI Agent应用，如网页抓取、表单填写、登录态维持等。"
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-05-02T09:00:10.091119+08:00",
+      "author": "simstudioai",
+      "name": "sim",
+      "url": "https://github.com/simstudioai/sim",
+      "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "开源AI Agent工作流编排平台，定位为企业AI劳动力的中央智能层。提供可视化界面设计、测试和优化Agent应用，支持自托管（自备Copilot API Key），已有27.2k+ stars和3943次commit，社区活跃，适合需要规模化部署和编排多个AI智能体的团队。"
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-05-02T09:00:10.091164+08:00",
+      "author": "obra",
+      "name": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": "",
+      "forks": "",
+      "summary": "让AI编程智能体获得「超能力」的全栈开发方法论框架。核心特点是强制执行TDD（先写测试）、结构化规划（而非冲动编码）、系统化调试（四阶段根因分析）、双阶段代码审查。框架自动根据上下文触发技能，支持Claude Code、Codex CLI、Cursor和Gemini CLI等多平台，89k+ stars。"
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-05-02T09:00:10.091219+08:00",
+      "author": "Flowseal",
+      "name": "zapret-discord-youtube",
+      "url": "https://github.com/Flowseal/zapret-discord-youtube",
+      "language": "Batchfile",
+      "stars": "",
+      "forks": "",
+      "description": "",
+      "summary": "开源反审查工具，最初为应对俄罗斯互联网审查（RKN域名封锁、ISP级TSPU系统）而开发，通过WinDivert拦截过滤网络流量，实现对Discord、YouTube等受限平台的访问突破。注意：WinDivert可能触发部分杀毒软件的误报。"
+    }
+  ]
+}

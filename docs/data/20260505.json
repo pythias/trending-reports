@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-05-05T09:01:39.528511+08:00",
+  "date": "2026-05-05",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-05-05T09:01:39.527964+08:00",
+      "author": "ruvnet",
+      "name": "ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "ruflo 是一个企业级 Claude 多智能体编排平台，支持部署自主工作流、构建对话式 AI 系统，集成 RAG 和 Claude Code/Codex，适合需要复杂 AI 工作流编排的开发者。"
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-05-05T09:01:39.528047+08:00",
+      "author": "TauricResearch",
+      "name": "TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "基于多智能体 LLM 的金融交易框架，支持自动化量化交易策略，适合对 AI 辅助交易感兴趣的开发者研究。"
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-05-05T09:01:39.528105+08:00",
+      "author": "browserbase",
+      "name": "skills",
+      "url": "https://github.com/browserbase/skills",
+      "description": "Claude Agent SDK with a web browsing tool",
+      "language": "JavaScript",
+      "stars": "",
+      "forks": "",
+      "summary": "browserbase 出品的 Claude Agent SDK，集成网页浏览工具，方便构建能够访问和操作网页的 AI Agent，适用于自动化测试、爬虫、数据采集等场景。"
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-05-05T09:01:39.528154+08:00",
+      "author": "Hmbown",
+      "name": "DeepSeek-TUI",
+      "url": "https://github.com/Hmbown/DeepSeek-TUI",
+      "description": "Coding agent for DeepSeek models that runs in your terminal",
+      "language": "Rust",
+      "stars": "",
+      "forks": "",
+      "summary": "一款运行在终端的 DeepSeek 模型编程助手，用 Rust 编写，适合喜欢命令行环境、希望本地运行 AI 编程辅助的开发者。"
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-05-05T09:01:39.528201+08:00",
+      "author": "soxoj",
+      "name": "maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "用户名 OSINT 工具，通过 3000+ 站点收集目标人物信息，支持渗透测试和社交媒体调查，是安全研究者的得力工具。"
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-05-05T09:01:39.528257+08:00",
+      "author": "qbittorrent",
+      "name": "qBittorrent",
+      "url": "https://github.com/qbittorrent/qBittorrent",
+      "description": "qBittorrent BitTorrent client",
+      "language": "C++",
+      "stars": "",
+      "forks": "",
+      "summary": "知名的开源 BitTorrent 下载客户端，跨平台、轻量级、无广告，是 qBittorrent WebUI 等衍生项目的基础。"
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-05-05T09:01:39.528302+08:00",
+      "author": "czlonkowski",
+      "name": "n8n-mcp",
+      "url": "https://github.com/czlonkowski/n8n-mcp",
+      "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "让 Claude 通过 MCP 协议驱动 n8n 工作流自动化的工具，支持主流 AI 编程编辑器，方便构建自动化业务流程。"
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-05-05T09:01:39.528356+08:00",
+      "author": "1jehuang",
+      "name": "jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "Coding Agent Harness",
+      "language": "Rust",
+      "stars": "",
+      "forks": "",
+      "summary": "一个用 Rust 编写的编程智能体测试框架（Harness），用于标准化和评估 AI 编程智能体的能力，适合框架开发者和 AI 研究者。"
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-05-05T09:01:39.528399+08:00",
+      "author": "msitarzewski",
+      "name": "agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": "",
+      "forks": "",
+      "summary": "一个多角色 AI 智能体工具箱，包含前端、社交媒体、分析等多种专业角色，通过 Shell 脚本编排，适合快速搭建 AI 自动化团队工作流。"
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-05-05T09:01:39.528454+08:00",
+      "author": "virattt",
+      "name": "dexter",
+      "url": "https://github.com/virattt/dexter",
+      "description": "An autonomous agent for deep financial research",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "自主金融深度研究智能体，TypeScript 实现，适合构建 AI 驱动的投资研究流程，支持多源信息聚合分析。"
+    }
+  ]
+}

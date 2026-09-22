@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-05-25T09:05:08.269165+08:00",
+  "date": "2026-05-25",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-05-25T09:05:08.268578+08:00",
+      "author": "Lum1104",
+      "name": "Understand-Anything",
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "将任意代码转换为可交互的知识图谱，支持 Claude Code、Copilot 等主流 AI 编码工具，让代码可探索、可搜索、可提问。"
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-05-25T09:05:08.268664+08:00",
+      "author": "rohitg00",
+      "name": "ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "从零学习 AI 工程，涵盖从基础概念到实际交付的全流程实战教程，适合想进入 AI 领域的开发者。"
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-05-25T09:05:08.268740+08:00",
+      "author": "anthropics",
+      "name": "claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "Anthropic 官方维护的高质量 Claude Code 插件目录，提供经验证的优质插件资源。"
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-05-25T09:05:08.268794+08:00",
+      "author": "anthropics",
+      "name": "knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "面向知识工作者的开源插件集，专为 Claude Cowork 场景设计，帮助提升信息检索与文档处理效率。"
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-05-25T09:05:08.268846+08:00",
+      "author": "multica-ai",
+      "name": "andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": "",
+      "forks": "",
+      "language": "",
+      "summary": "基于 Andrej Karpathy 对 LLM 编程陷阱的观察，整理成单个 CLAUDE.md 文件来提升 Claude Code 表现。"
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-05-25T09:05:08.268902+08:00",
+      "author": "earendil-works",
+      "name": "pi",
+      "url": "https://github.com/earendil-works/pi",
+      "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "AI agent 工具包：包含编码 agent CLI、统一 LLM API、TUI/Web UI 库、Slack 机器人及 vLLM pod 支持。"
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-05-25T09:05:08.268953+08:00",
+      "author": "Alishahryar1",
+      "name": "free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "在终端、VSCode 扩展或 Discord 中免费使用 claude-code，支持语音，类 OpenClaw 体验。"
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-05-25T09:05:08.268994+08:00",
+      "author": "colbymchenry",
+      "name": "codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "stars": "",
+      "forks": "",
+      "language": "TypeScript",
+      "summary": "为 Claude Code 等主流编码 agent 预索引代码知识图谱，减少 token 消耗和工具调用次数，100% 本地运行。"
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-05-25T09:05:08.269054+08:00",
+      "author": "multica-ai",
+      "name": "multica",
+      "url": "https://github.com/multica-ai/multica",
+      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "开源托管 agent 平台，将编码 agent 变成真正的团队成员——分配任务、追踪进度、积累技能。"
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-05-25T09:05:08.269105+08:00",
+      "author": "shiyu-coder",
+      "name": "Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "金融市场的基础语言模型，专注于理解和生成金融市场领域文本，适合金融 AI 应用开发。"
+    }
+  ]
+}

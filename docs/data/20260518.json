@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-05-18T09:05:07.975573+08:00",
+  "date": "2026-05-18",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-05-18T09:05:07.974983+08:00",
+      "author": "tinyhumansai",
+      "name": "openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "language": "Rust",
+      "stars": "",
+      "forks": "",
+      "summary": "Rust 实现的大型语言模型对话框架，主打隐私优先和本地部署，适合追求极致性能和私密性的开发者。"
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-05-18T09:05:07.975071+08:00",
+      "author": "HKUDS",
+      "name": "CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "香港大学开源项目，将任何软件工具转化为 AI Agent 可调用的 CLI 接口，降低 AI Agent 接入现有工具链的门槛。"
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-05-18T09:05:07.975138+08:00",
+      "author": "calcom",
+      "name": "cal.diy",
+      "url": "https://github.com/calcom/cal.diy",
+      "description": "Scheduling infrastructure for absolutely everyone.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "Cal.com 开源的日程调度基础设施，TypeScript 重写版，提供开源自托管的预约排程系统，适用于个人和小团队。"
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-05-18T09:05:07.975192+08:00",
+      "author": "oven-sh",
+      "name": "bun",
+      "url": "https://github.com/oven-sh/bun",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "language": "Rust",
+      "stars": "",
+      "forks": "",
+      "summary": " Oven-sh 团队用 Zig 重写的极速 JS 运行时，兼容 Node.js 生态，集 runtime/bundler/test runner/package manager 于一身，性能显著优于 Node。"
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-05-18T09:05:07.975245+08:00",
+      "author": "Anil-matcha",
+      "name": "Open-Generative-AI",
+      "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+      "description": "Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "language": "JavaScript",
+      "stars": "",
+      "forks": "",
+      "summary": "开源 AI 图像和视频生成工作室，集成 200+ 主流模型（Flux、Midjourney、Kling、Sora、Veo 等），无内容过滤，支持自托管，MIT 许可。"
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-05-18T09:05:07.975298+08:00",
+      "author": "BigBodyCobain",
+      "name": "Shadowbroker",
+      "url": "https://github.com/BigBodyCobain/Shadowbroker",
+      "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "开源情报聚合工具，整合私人飞机轨迹、间谍卫星、地震数据等多源信息，支持 AI Agent 关联分析，适合安全研究和商业情报场景。"
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-05-18T09:05:07.975349+08:00",
+      "author": "tech-leads-club",
+      "name": "agent-skills",
+      "url": "https://github.com/tech-leads-club/agent-skills",
+      "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "专业 AI 编码 Agent 的安全技能注册表，经过验证的 Skills 库，可扩展至 Antigravity、Claude Code、Cursor、Copilot 等主流 AI 编程工具。"
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-05-18T09:05:07.975400+08:00",
+      "author": "NirDiamant",
+      "name": "agents-towards-production",
+      "url": "https://github.com/NirDiamant/agents-towards-production",
+      "description": "End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.",
+      "language": "Jupyter Notebook",
+      "stars": "",
+      "forks": "",
+      "summary": "从原型到企业级部署的 GenAI Agent 全流程教程，以代码为核心，涵盖生产级 AI Agent 的工程化实践，适合想落地 AI Agent 的开发者。"
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-05-18T09:05:07.975460+08:00",
+      "author": "dograh-hq",
+      "name": "dograh",
+      "url": "https://github.com/dograh-hq/dograh",
+      "description": "Open Source Voice Agent Platform",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "开源语音 Agent 平台，支持语音对话、实时打断、多语言识别，适合构建智能客服、语音助手等实时语音交互应用。"
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-05-18T09:05:07.975510+08:00",
+      "author": "K-Dense-AI",
+      "name": "scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "面向科研、工程、金融、写作等场景的即用型 AI Agent Skills 合集，开箱即用，降低在专业领域使用 AI Agent 的门槛。"
+    }
+  ]
+}

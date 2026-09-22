@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-06-08T09:03:45.801224+08:00",
+  "date": "2026-06-08",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-06-08T09:03:45.800695+08:00",
+      "author": "mvanhorn",
+      "name": "last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "summary": "让 AI Agent 联网搜 Reddit/X/YouTube/HN 等平台，帮你快速汇总任意话题的热门观点",
+      "language": "Python",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-06-08T09:03:45.800774+08:00",
+      "author": "opencv",
+      "name": "opencv",
+      "url": "https://github.com/opencv/opencv",
+      "description": "Open Source Computer Vision Library",
+      "summary": "OpenCV 经典计算机视觉库，支持图像处理、目标检测、摄像头输入等大量功能",
+      "language": "C++",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-06-08T09:03:45.800842+08:00",
+      "author": "Leonxlnx",
+      "name": "taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "summary": "给 AI 装上审美！防止大模型输出千篇一律的废话，强迫它产生有品味的内容",
+      "language": "Shell",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-06-08T09:03:45.800898+08:00",
+      "author": "NousResearch",
+      "name": "hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "summary": "一款可自我迭代的 AI Agent，能不断学习和适应你的需求，越用越聪明",
+      "language": "Python",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-06-08T09:03:45.800944+08:00",
+      "author": "lfnovo",
+      "name": "open-notebook",
+      "url": "https://github.com/lfnovo/open-notebook",
+      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+      "summary": "开源版 Notebook LM，支持更多自定义功能，可本地部署的 AI 播客笔记工具",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-06-08T09:03:45.800991+08:00",
+      "author": "yikart",
+      "name": "AiToEarn",
+      "url": "https://github.com/yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "summary": "探索用 AI 赚钱的各种方法和工具，适合对 AI 商业化感兴趣的技术玩家",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-06-08T09:03:45.801034+08:00",
+      "author": "aaif-goose",
+      "name": "goose",
+      "url": "https://github.com/aaif-goose/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "summary": "开源可扩展的 AI Agent，不仅给代码建议，还能直接安装、执行、修改和测试代码",
+      "language": "Rust",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-06-08T09:03:45.801078+08:00",
+      "author": "Crosstalk-Solutions",
+      "name": "project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "summary": "离线生存神器！内置关键工具、知识和 AI，无网也能获取生存信息",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-06-08T09:03:45.801125+08:00",
+      "author": "ggml-org",
+      "name": "llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "summary": "纯 C/C++ 实现的大模型推理框架，llama.cpp 以极致性能让你在各种设备跑 AI 模型",
+      "language": "C++",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-06-08T09:03:45.801169+08:00",
+      "author": "RyanCodrai",
+      "name": "turbovec",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "summary": "Rust 写的高性能向量索引库，搭配 Python 绑定，适合构建大规模语义搜索系统",
+      "language": "Python",
+      "stars": "",
+      "forks": ""
+    }
+  ]
+}

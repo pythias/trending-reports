@@ -32,21 +32,22 @@
 ```bash
 python3 fetch_trending.py
 python3 summarize_repos.py    # AI 生成项目简介（如已配置 API key）
-python3 generate_report.py
+python3 generate_report.py    # 只同步 JSON，不改 HTML
 ```
 
 **完整流程：**
-1. 抓取当天 GitHub Trending TOP 10
+1. 抓取当天 GitHub Trending TOP 10，写入 `data/history/YYYYMMDD.json`
 2. **（需 API key）** AI 为每个项目生成一句话中文简介
-3. 与昨天数据进行对比（新晋 / 留榜 / 落榜）
-4. 生成带日期导航的 HTML 报告，写入 `docs/index.html`
+3. 把历史 JSON 同步到 `docs/data/`，并更新 `docs/data/dates.json`
+4. `docs/index.html` 用同一份模板在浏览器里渲染，按日期切换
 
-> ⚠️ **Python 版本**：必须使用 **Python 3.11**（项目使用类型联合语法 `Path | None`），路径：
-> `/opt/homebrew/opt/python@3.11/bin/python3.11`
+每天只新增/更新当天数据。不要再为历史日期生成 `date-YYYY-MM-DD.html`。
+
+> ⚠️ **Python 版本**：必须使用 **Python 3.11+**（项目使用类型联合语法 `Path | None`）。
 >
 > 本地测试时需安装依赖：
 > ```bash
-> /opt/homebrew/opt/python@3.11/bin/python3.11 -m pip install requests beautifulsoup4 lxml
+> python3 -m pip install requests beautifulsoup4 lxml
 > ```
 
 ---
@@ -55,11 +56,12 @@ python3 generate_report.py
 
 | 文件位置 | 说明 |
 |---------|------|
-| `data/YYYY-MM-DD.json` | 当日抓取原始数据 |
 | `data/history/YYYYMMDD.json` | 历史归档（每日生成） |
-| `docs/index.html` | 最新报告（含日期导航） |
+| `docs/data/YYYYMMDD.json` | 页面读取的数据副本 |
+| `docs/data/dates.json` | 日期清单 |
+| `docs/index.html` | 唯一报告模板 |
 
-> 注意：两个文件由脚本自动维护，不要手动合并或删除任一路径。
+> 注意：页面数据由脚本从 `data/history` 同步，不要手改 `docs/data`。
 
 ---
 
@@ -89,7 +91,7 @@ python3 generate_report.py
 - **新晋**：首次上榜的项目
 - **留榜**：连续在榜的项目
 - **落榜**：上期在榜但本期下榜的项目
-- **日期导航**：首页可切换查看历史报告
+- **日期导航**：页面内选择日期，模板不变
 
 ---
 
@@ -98,16 +100,14 @@ python3 generate_report.py
 ```
 trending-reports/
 ├── docs/
-│   └── index.html              # 报告首页（含日期导航）
-├── data/
-│   ├── YYYY-MM-DD.json        # 当日原始数据
-│   └── history/
-│       └── YYYYMMDD.json      # 历史归档
+│   ├── index.html              # 唯一页面模板
+│   ├── app.js                  # 读取 JSON 并渲染
+│   ├── styles.css
+│   └── data/                   # 页面用 JSON
+├── data/history/               # 每日历史数据
 ├── fetch_trending.py           # 数据抓取
 ├── summarize_repos.py          # AI 摘要生成
-├── generate_report.py          # 报告生成
-├── templates/
-│   └── report.html             # HTML 模板
+├── generate_report.py          # 同步 JSON 到 docs/data
 └── README.md
 ```
 
@@ -116,13 +116,7 @@ trending-reports/
 ## 本地测试
 
 ```bash
-cd /Users/chenjie5/Desktop/claw/code/trending-reports
-
-# 抓取 + 生成（如无 API key，summarize_repos.py 会跳过摘要）
-/opt/homebrew/opt/python@3.11/bin/python3.11 fetch_trending.py
-# 手动补充摘要（如未配置 API key）
-/opt/homebrew/opt/python@3.11/bin/python3.11 generate_report.py
-
-# 预览报告
-open docs/index.html
+python3 fetch_trending.py
+python3 generate_report.py
+python3 -m http.server 8080 --directory docs
 ```

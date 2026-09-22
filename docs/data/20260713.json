@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-07-13T10:35:22.000253+08:00",
+  "date": "2026-07-13",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-07-13T10:35:21.987081+08:00",
+      "author": "Dicklesworthstone",
+      "name": "destructive_command_guard",
+      "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+      "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+      "summary": "Destructive Command Guard (DCG) 是一个用 Rust 编写的安全工具，专门用于阻止 AI Agent 执行危险的 git 和 shell 命令。它通过主动拦截高风险操作（如 rm -rf、直接修改系统文件等）来保护代码库和系统安全，非常适合在 AI Coding Agent 工作流中作为安全护栏使用。",
+      "language": "Rust",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-07-13T10:35:21.988097+08:00",
+      "author": "wonderwhy-er",
+      "name": "DesktopCommanderMCP",
+      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "summary": "DesktopCommanderMCP 是一个 TypeScript 实现的 MCP（Model Context Protocol）服务器，为 Claude 提供终端控制、文件系统搜索和 diff 文件编辑能力。它扩展了 Claude 的操作边界，使其能够直接在用户桌面上执行命令和管理文件，是提升 AI 助手生产力 的桌面端增强方案。",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-07-13T10:35:21.988748+08:00",
+      "author": "HKUDS",
+      "name": "Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "summary": "Vibe-Trading 是香港大学研究团队开发的个人 AI 交易智能体，利用大语言模型让用户用自然语言描述交易策略，系统自动执行交易操作。它将「氛围交易」（Vibe Trading）的概念落地，试图让非专业投资者也能通过对话方式参与市场。",
+      "language": "Python",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-07-13T10:35:21.988969+08:00",
+      "author": "PrefectHQ",
+      "name": "prefect",
+      "url": "https://github.com/PrefectHQ/prefect",
+      "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+      "summary": "Prefect 是一个 Python 工作流编排框架，专注于构建弹性的数据管道。它在 Airflow 基础上做了大量改进，提供了更现代的 API、更强的错误恢复能力和实时监控功能。是数据工程领域非常流行的任务调度方案，尤其适合需要长时间运行的数据处理流水线。",
+      "language": "Python",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-07-13T10:35:21.989678+08:00",
+      "author": "Shubhamsaboo",
+      "name": "awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "summary": "awesome-llm-apps 是一个精选集合，收录了 100+ 个可实际运行的大模型应用，涵盖 AI Agent 和 RAG（检索增强生成）两大方向。每个项目都提供完整的代码，可以直接 clone 后自定义部署。对于想快速搭建 AI 应用原型的开发者来说是一个不错的起点集合。",
+      "language": "Python",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-07-13T10:35:21.994629+08:00",
+      "author": "anthropics",
+      "name": "claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "summary": "Claude Cookbooks 是 Anthropic 官方维护的 Jupyter Notebook 合集，展示了各种有趣且实用的 Claude 使用方法。涵盖提示工程、多轮对话、工具调用、代码生成等多个维度，是深入了解和掌握 Claude 能力的权威参考材料。",
+      "language": "Jupyter Notebook",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-07-13T10:35:21.994983+08:00",
+      "author": "home-assistant",
+      "name": "core",
+      "url": "https://github.com/home-assistant/core",
+      "description": "🏡 Open source home automation that puts local control and privacy first.",
+      "summary": "Home Assistant Core 是开源智能家居平台的核心引擎，强调本地控制和隐私优先。它支持数千种 IoT 设备集成，用户可以在自有硬件上完全自托管，不依赖云端。近期在 AI 集成（如本地 LLM 控制家居）方面也有新动作。",
+      "language": "Python",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-07-13T10:35:21.997343+08:00",
+      "author": "Crosstalk-Solutions",
+      "name": "project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "summary": "Project NOMAD 是一个自包含的离线生存计算机，内置关键工具、生存知识和 AI 助手，专为无网络环境下的信息需求设计。它打包了大量离线可用的数据和 AI 能力，适用于野外探险、灾害应急等离网场景。",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-07-13T10:35:21.997670+08:00",
+      "author": "ColeMurray",
+      "name": "background-agents",
+      "url": "https://github.com/ColeMurray/background-agents",
+      "description": "An open-source background agents coding system",
+      "summary": "background-agents 是一个开源的后台编程 Agent 系统，允许 AI 助手在后台持续运行任务而不会阻塞主线程。它通过异步任务队列和上下文管理，实现多任务并行处理，适合需要长时间运行的代码生成和自动化工作流场景。",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-07-13T10:35:21.997848+08:00",
+      "author": "k1tbyte",
+      "name": "Wand-Enhancer",
+      "url": "https://github.com/k1tbyte/Wand-Enhancer",
+      "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
+      "summary": "Wand-Enhancer 是针对 WeMod 的 Wand 应用的高级 UX 和互操作性扩展，提供了游戏模组管理之外的额外功能和界面优化。面向使用 WeMod 管理游戏修改器的用户群体，属于垂直细分领域的小众工具。",
+      "language": "C#",
+      "stars": "",
+      "forks": ""
+    }
+  ]
+}

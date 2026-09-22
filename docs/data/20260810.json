@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-08-10T09:00:11.153809+08:00",
+  "date": "2026-08-10",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-08-10T09:00:11.153108+08:00",
+      "author": "PrimeIntellect-ai",
+      "name": "prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "一个用于编程工作流和长期自主任务的自我优化强化学习模型（RLM）智能体，支持复杂场景下的持续优化。"
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-08-10T09:00:11.153231+08:00",
+      "author": "vitali87",
+      "name": "code-graph-rag",
+      "url": "https://github.com/vitali87/code-graph-rag",
+      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "专为 Monorepo 打造的最终解决方案，利用大模型和知识图谱对多语言代码库进行查询、理解和编辑的代码级别的 RAG 项目。"
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-08-10T09:00:11.153329+08:00",
+      "author": "msitarzewski",
+      "name": "agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": "",
+      "forks": "",
+      "summary": "完整的 AI 代理机构系统。集成了多种专门的 AI 专家（如前端向导、社区运营等），每个代理都有独特的个性、流程和明确的交付物。"
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-08-10T09:00:11.153427+08:00",
+      "author": "pranshuparmar",
+      "name": "witr",
+      "url": "https://github.com/pranshuparmar/witr",
+      "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+      "language": "Go",
+      "stars": "",
+      "forks": "",
+      "summary": "一款实用的 CLI + TUI 系统诊断追踪工具，用于追溯任一进程、端口、容器或文件是被什么源头启动的。"
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-08-10T09:00:11.153503+08:00",
+      "author": "google-deepmind",
+      "name": "weathernext",
+      "url": "https://github.com/google-deepmind/weathernext",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "description": "",
+      "summary": "Google DeepMind 开发的基于 AI 的天气预测和气象建模相关的下一代项目。"
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-08-10T09:00:11.153565+08:00",
+      "author": "addyosmani",
+      "name": "agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": "",
+      "forks": "",
+      "summary": "为 AI 编程智能体提供丰富、生产级别的工程化技能规范和实现集合。"
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-08-10T09:00:11.153610+08:00",
+      "author": "ZhuLinsen",
+      "name": "daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "由大语言模型（LLM）驱动的多市场股票智能分析系统，支持多源行情、实时新闻获取、决策看板生成及自动推送，并支持零成本定时任务。"
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-08-10T09:00:11.153654+08:00",
+      "author": "goauthentik",
+      "name": "authentik",
+      "url": "https://github.com/goauthentik/authentik",
+      "description": "The authentication glue you need.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "一个开源的企业级身份验证解决方案，提供单点登录（SSO）、多因素认证及灵活的身份管理，成为不同系统的认证「胶水」。"
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-08-10T09:00:11.153708+08:00",
+      "author": "google",
+      "name": "skills",
+      "url": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "Google 官方出品的 Agent Skills 集合，专门针对 Google 旗下及相关的产品和技术提供的代理技能整合。"
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-08-10T09:00:11.153752+08:00",
+      "author": "Comfy-Org",
+      "name": "ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "最强大且模块化的图像生成扩散模型（Diffusion Model）GUI 工具，提供创新的节点/连线工作流交互、API 以及稳定后端支持。"
+    }
+  ]
+}

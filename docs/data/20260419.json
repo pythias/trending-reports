@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-04-19T09:00:07.680466+08:00",
+  "date": "2026-04-19",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-04-19T09:00:07.679759+08:00",
+      "author": "thunderbird",
+      "name": "thunderbolt",
+      "url": "https://github.com/thunderbird/thunderbolt",
+      "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
+      "summary": "Thunderbird's experimental AI project enabling users to choose their own AI models with full data ownership, eliminating vendor lock-in.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-04-19T09:00:07.679873+08:00",
+      "author": "BasedHardware",
+      "name": "omi",
+      "url": "https://github.com/BasedHardware/omi",
+      "description": "AI that sees your screen, listens to your conversations and tells you what to do",
+      "summary": "An AI wearable/app that sees your screen, listens to conversations, and provides contextual guidance and recommendations in real time.",
+      "language": "Dart",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-04-19T09:00:07.679958+08:00",
+      "author": "openai",
+      "name": "openai-agents-python",
+      "url": "https://github.com/openai/openai-agents-python",
+      "description": "A lightweight, powerful framework for multi-agent workflows",
+      "summary": "OpenAI's official Python framework for building multi-agent AI systems — lightweight, powerful, and designed for orchestrating multiple AI agents in production workflows.",
+      "language": "Python",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-04-19T09:00:07.680020+08:00",
+      "author": "EvoMap",
+      "name": "evolver",
+      "url": "https://github.com/EvoMap/evolver",
+      "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
+      "summary": "A self-evolution engine for AI agents using Genome Evolution Protocol (GEP), enabling agents to iteratively improve themselves through genetic programming.",
+      "language": "JavaScript",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-04-19T09:00:07.680137+08:00",
+      "author": "deepseek-ai",
+      "name": "DeepGEMM",
+      "url": "https://github.com/deepseek-ai/DeepGEMM",
+      "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
+      "summary": "DeepSeek's clean and highly efficient FP8 GEMM (general matrix multiply) kernels with fine-grained scaling, optimized for high-performance deep learning.",
+      "language": "Cuda",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-04-19T09:00:07.680079+08:00",
+      "author": "Lordog",
+      "name": "dive-into-llms",
+      "url": "https://github.com/Lordog/dive-into-llms",
+      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "summary": "A Chinese-language hands-on programming tutorial series for learning large language models (LLMs), with practical coding exercises and implementations.",
+      "language": "Jupyter Notebook",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-04-19T09:00:07.680195+08:00",
+      "author": "aaddrick",
+      "name": "claude-desktop-debian",
+      "url": "https://github.com/aaddrick/claude-desktop-debian",
+      "description": "Claude Desktop for Debian-based Linux distributions",
+      "summary": "Community port of Anthropic's Claude Desktop app to Debian-based Linux distributions (Debian/Ubuntu/Linux Mint/etc.), enabling local AI assistant use.",
+      "language": "Shell",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-04-19T09:00:07.680267+08:00",
+      "author": "rustdesk",
+      "name": "rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "summary": "A self-hostable open-source remote desktop application written in Rust — a popular TeamViewer alternative with full control over your data and infrastructure.",
+      "language": "Rust",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-04-19T09:00:07.680336+08:00",
+      "author": "SimoneAvogadro",
+      "name": "android-reverse-engineering-skill",
+      "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
+      "description": "Claude Code skill to support Android app's reverse engineering",
+      "summary": "A Claude Code skill that assists with Android app reverse engineering — helping analyze APK packages, decompile code, and trace app behavior.",
+      "language": "Shell",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-04-19T09:00:07.680391+08:00",
+      "author": "tractorjuice",
+      "name": "arc-kit",
+      "url": "https://github.com/tractorjuice/arc-kit",
+      "description": "Enterprise Architecture Governance & Vendor Procurement Toolkit",
+      "summary": "A comprehensive enterprise architecture governance and vendor procurement toolkit covering frameworks, templates, and workflows for managing tech vendors and architecture decisions.",
+      "language": "HTML",
+      "stars": "",
+      "forks": ""
+    }
+  ]
+}

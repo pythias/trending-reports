@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-08-11T09:00:09.482935+08:00",
+  "date": "2026-08-11",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-08-11T09:00:09.482270+08:00",
+      "author": "semantica-agi",
+      "name": "semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "这是一个用于上下文和可解释AI系统（Accountable AI Systems）的原生图基础设施。"
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-08-11T09:00:09.482381+08:00",
+      "author": "msitarzewski",
+      "name": "agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": "",
+      "forks": "",
+      "summary": "一个触手可及的完整AI代理工具箱，内置前端、社区运营等专业领域的专家级智能体，各具个性和既定期望结果。"
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-08-11T09:00:09.482459+08:00",
+      "author": "NanmiCoder",
+      "name": "MediaCrawler",
+      "url": "https://github.com/NanmiCoder/MediaCrawler",
+      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "强大的多平台通用爬虫，支持爬取小红书、抖音、快手、B站、微博、百度贴吧、知乎等平台的视频、帖子、文章及评论数据。"
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-08-11T09:00:09.482528+08:00",
+      "author": "addyosmani",
+      "name": "agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": "",
+      "forks": "",
+      "summary": "为AI代码智能体（coding agents）专门设计和提供的生产级别的工程技能工具库。"
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-08-11T09:00:09.482584+08:00",
+      "author": "paperclipai",
+      "name": "paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "一款开源的智能体管理应用，主要用于方便用户在工作环境中集中管理和使用各种AI Agent。"
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-08-11T09:00:09.482639+08:00",
+      "author": "PrimeIntellect-ai",
+      "name": "prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "一款具有自我进化改进能力的 RLM 智能体，专门针对代码编写和长时间的自动任务流设计。"
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-08-11T09:00:09.482693+08:00",
+      "author": "LadybirdBrowser",
+      "name": "ladybird",
+      "url": "https://github.com/LadybirdBrowser/ladybird",
+      "description": "Truly independent web browser",
+      "language": "C++",
+      "stars": "",
+      "forks": "",
+      "summary": "一个专注于成为完全独立的全新架构原生网络浏览器。"
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-08-11T09:00:09.482747+08:00",
+      "author": "ruvnet",
+      "name": "RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": "",
+      "forks": "",
+      "summary": "能够将普通的WiFi信号转化为实时空间智能信息的工具，支持生命体征监测和存在检测，而无需依赖任何视频摄像头像素。"
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-08-11T09:00:09.482801+08:00",
+      "author": "danielmiessler",
+      "name": "LifeOS",
+      "url": "https://github.com/danielmiessler/LifeOS",
+      "description": "⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "一个通用的爬山算法AI驱动的体系框架，能够帮助用户在工作与生活中不断从当前状态迭代通往理想状态。"
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-08-11T09:00:09.482864+08:00",
+      "author": "firecrawl",
+      "name": "firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "description": "The context API to search, scrape, and interact with the web at scale. 🔥",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "一个功能强大的上下文 API 工具，用于进行大规模的网页搜索、信息抓取以及与Web界面的交互。"
+    }
+  ]
+}

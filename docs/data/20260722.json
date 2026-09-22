@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-07-22T09:00:05.540589+08:00",
+  "date": "2026-07-22",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-07-22T09:00:05.539962+08:00",
+      "author": "koala73",
+      "name": "worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "summary": "worldmonitor 是一个实时全球情报仪表盘，采用 TypeScript 编写。它集成了 AI 驱动的新闻聚合、地缘政治监控和基础设施跟踪，在统一的态势感知界面中提供直观的数据展示，适用于安全分析和宏观监控场景。",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-07-22T09:00:05.540067+08:00",
+      "author": "bojieli",
+      "name": "ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "summary": "ai-agent-book 是由李博杰编写的《深入理解 AI Agent：设计原理与工程实践》一书的开源主仓库。该仓库包含了全书的正文内容、编译好的 PDF 版本以及按章节配套的示例代码，是学习和实践 AI Agent 设计与开发的优秀资源。",
+      "language": "Python",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-07-22T09:00:05.540134+08:00",
+      "author": "tirth8205",
+      "name": "code-review-graph",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "summary": "code-review-graph 是一个本地优先的代码智能图谱工具，专为 MCP 和命令行界面设计。它通过构建代码库的持久映射，帮助 AI 编程工具仅读取相关部分，在代码审查和大型仓库工作流中能显著减少上下文占用。",
+      "language": "Python",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-07-22T09:00:05.540202+08:00",
+      "author": "ayghri",
+      "name": "i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+      "summary": "i-have-adhd 是一个为 AI 编程智能体设计的技能插件，旨在优化输出格式，防止 AI 将关键答案埋没在冗长的解释中。提供对 ADHD（多动症/注意力缺陷）友好的直截了当的输出体验。",
+      "stars": "",
+      "forks": "",
+      "language": ""
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-07-22T09:00:05.540258+08:00",
+      "author": "earthtojake",
+      "name": "text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description": "A collection of agent skills for CAD, robotics and hardware design",
+      "summary": "text-to-cad 是一个专为 CAD（计算机辅助设计）、机器人技术和硬件设计定制的 AI 智能体技能集合，采用 JavaScript 开发。它使 AI 能够更高效地参与实体工程设计 and 自动化建模任务。",
+      "language": "JavaScript",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-07-22T09:00:05.540313+08:00",
+      "author": "1jehuang",
+      "name": "jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "The most intelligent agent harness for code",
+      "summary": "jcode 是一个使用 Rust 编写的智能代码智能体线束（harness）/运行框架。它旨在为 AI 编写和测试代码提供更智能、更具弹性的运行环境与工具链支持。",
+      "language": "Rust",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-07-22T09:00:05.540364+08:00",
+      "author": "oblien",
+      "name": "openship",
+      "url": "https://github.com/oblien/openship",
+      "description": "Self-hosted deployment platform",
+      "summary": "openship 是一个用 TypeScript 构建的自托管部署平台，用于替代传统的托管云服务。它为开发者提供了一个轻量、独立的发布与运维环境，有助于完全掌控应用部署流程。",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-07-22T09:00:05.540416+08:00",
+      "author": "AstrBotDevs",
+      "name": "AstrBot",
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "summary": "AstrBot 是一个用 Python 开发的 AI 智能体助手和开发框架。它集成了大量的即时通讯平台（如微信、QQ 等）、大语言模型和插件系统，同时也具有类似 openclaw 的功能，是构建多平台机器人的优秀方案。",
+      "language": "Python",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-07-22T09:00:05.540467+08:00",
+      "author": "every-app",
+      "name": "open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "summary": "open-seo 是一个开源的搜索引擎优化（SEO）分析工具，旨在作为 Semrush 和 Ahrefs 的开源替代品。它使用 TypeScript 编写，可帮助网站管理者或营销人员进行关键词追踪、分析和竞争对手调研。",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-07-22T09:00:05.540518+08:00",
+      "author": "tradesdontlie",
+      "name": "tradingview-mcp",
+      "url": "https://github.com/tradesdontlie/tradingview-mcp",
+      "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
+      "summary": "tradingview-mcp 是一个将 Claude Code 与 TradingView 桌面端连接的 Model Context Protocol (MCP) 服务器。它利用 JavaScript 构建，能辅助进行图表分析并提供个人的量化投资与交易流自动化支持。",
+      "language": "JavaScript",
+      "stars": "",
+      "forks": ""
+    }
+  ]
+}

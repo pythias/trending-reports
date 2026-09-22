@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-06-02T09:00:07.156590+08:00",
+  "date": "2026-06-02",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-06-02T09:00:07.156045+08:00",
+      "author": "microsoft",
+      "name": "markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "微软出品的文档转换神器，支持将 Office 文档（Word/Excel/PPT）、PDF、EPUB 等格式一键转为 Markdown，大幅保留格式与元数据，适合内容迁移与文档处理流水线。Python 开发，跨平台可用。"
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-06-02T09:00:07.156126+08:00",
+      "author": "nesquena",
+      "name": "hermes-webui",
+      "url": "https://github.com/nesquena/hermes-webui",
+      "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "Hermes Agent 的 Web 界面，让用户通过浏览器或手机远程操控 AI Agent，支持任务下发、日志查看、状态监控，适合需要远程控制 AI 工作流的场景。"
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-06-02T09:00:07.156191+08:00",
+      "author": "supermemoryai",
+      "name": "supermemory",
+      "url": "https://github.com/supermemoryai/supermemory",
+      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "面向 AI 时代的极速、可扩展记忆引擎，提供 Memory API，帮助大模型应用实现持久化上下文记忆，支持海量知识检索，适合 AI Agent 与 RAG 场景。"
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-06-02T09:00:07.156287+08:00",
+      "author": "harry0703",
+      "name": "MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "AI 短视频生成工具，输入一句话或脚本即可自动生成高清短视频，配音、字幕、画面全自动化，适合内容创作者和自媒体快速量产视频内容。"
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-06-02T09:00:07.156344+08:00",
+      "author": "D4Vinci",
+      "name": "Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "自适应网页爬取框架，能处理从单次请求到大规模爬取的各类场景，自动应对反爬、动态加载、网站变更等挑战，比传统爬虫更智能、更稳健。"
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-06-02T09:00:07.156394+08:00",
+      "author": "pbakaus",
+      "name": "impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
+      "stars": "",
+      "forks": "",
+      "summary": "AI 设计语言框架，帮助 AI Agent 在设计任务中保持一致的审美与规范输出，提升 AI 生成 UI/UX 的质量与专业度，降低人工返工率。"
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-06-02T09:00:07.156441+08:00",
+      "author": "p-e-w",
+      "name": "heretic",
+      "url": "https://github.com/p-e-w/heretic",
+      "description": "Fully automatic censorship removal for language models",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "自动移除语言模型审查内容的工具，通过后处理方式清除模型输出中的审查限制信号，保持内容原意，适合研究人员和开发者探索模型真实能力。"
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-06-02T09:00:07.156486+08:00",
+      "author": "EveryInc",
+      "name": "compound-engineering-plugin",
+      "url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "为 Claude Code、Codex、Cursor 等 AI 编程工具打造的复合工程插件，强化多 Agent 协作、代码审查、自动化测试等工程能力，提升团队级开发效率。"
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-06-02T09:00:07.156486+08:00",
+      "author": "TauricResearch",
+      "name": "TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "多 Agent LLM 金融交易框架，多个 AI Agent 协作完成市场分析、信号识别、策略生成、风控等交易全流程，适合量化交易研究者和金融 AI 开发者。"
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-06-02T09:00:07.156531+08:00",
+      "author": "revfactory",
+      "name": "harness",
+      "url": "https://github.com/revfactory/harness",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "language": "HTML",
+      "stars": "",
+      "forks": "",
+      "summary": "元技能工具，自动设计领域专用 Agent 团队、定义专业 Agent 角色并生成对应技能，实现复杂任务的自动化分解与 Agent 编排，适合构建企业级 AI 工作流。"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-07-26T09:00:05.421041+08:00",
+  "date": "2026-07-26",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-07-26T09:00:05.420400+08:00",
+      "author": "block",
+      "name": "buzz",
+      "url": "https://github.com/block/buzz",
+      "description": "A hive mind communication platform",
+      "language": "Rust",
+      "stars": "",
+      "forks": "",
+      "summary": "采用Rust编写的蜂群意识分布式通信平台，专为构建去中心化、高协同的实时通信网络而设计。"
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-07-26T09:00:05.420504+08:00",
+      "author": "alibaba",
+      "name": "open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars": "",
+      "forks": "",
+      "summary": "阿里巴巴开源且经过大规模生产验证的混合架构代码评审工具，结合静态分析流水线与大模型智能体，提供行级精准评注与漏洞审查。"
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-07-26T09:00:05.420577+08:00",
+      "author": "citrolabs",
+      "name": "ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "language": "JavaScript",
+      "stars": "",
+      "forks": "",
+      "summary": "专为AI智能体进行网页自动化设计的高速浏览器，无需干扰用户即可安全共享登录态，具备零成本与零配置特性。"
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-07-26T09:00:05.420634+08:00",
+      "author": "ComposioHQ",
+      "name": "awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "收录大量定制Claude智能体技能、资源与配套工具的精选库，助力优化、扩展Claude AI自动化工作流。"
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-07-26T09:00:05.420689+08:00",
+      "author": "anthropics",
+      "name": "claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "language": "Jupyter Notebook",
+      "stars": "",
+      "forks": "",
+      "summary": "Anthropic官方提供的Claude开发实践指南与Jupyter Notebook示例集合，包含丰富实用的提示词与工程技巧。"
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-07-26T09:00:05.420743+08:00",
+      "author": "Automattic",
+      "name": "harper",
+      "url": "https://github.com/Automattic/harper",
+      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+      "language": "Rust",
+      "stars": "",
+      "forks": "",
+      "summary": "由Rust驱动的离线开源语法检查器，主打隐私优先与极速运行，为文章和代码注释提供高效本地校验。"
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-07-26T09:00:05.420796+08:00",
+      "author": "shiyu-coder",
+      "name": "Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "专为金融市场数据与场景所设计的基础大模型，针对金融领域的专业语言进行深度的理解与预测建模。"
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-07-26T09:00:05.420848+08:00",
+      "author": "obra",
+      "name": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": "",
+      "forks": "",
+      "summary": "基于智能体技能的工程框架与软件开发方法论，旨在帮助开发者更流畅地通过AI辅助完成日常编码任务。"
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-07-26T09:00:05.420911+08:00",
+      "author": "Pumpkin-MC",
+      "name": "Pumpkin",
+      "url": "https://github.com/Pumpkin-MC/Pumpkin",
+      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+      "language": "Rust",
+      "stars": "",
+      "forks": "",
+      "summary": "基于Rust开发的高性能、低底噪“我的世界”Minecraft服务端，旨在人人都可轻松部署极速的MC服务器。"
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-07-26T09:00:05.420963+08:00",
+      "author": "permissionlesstech",
+      "name": "bitchat",
+      "url": "https://github.com/permissionlesstech/bitchat",
+      "description": "bluetooth mesh chat, IRC vibes",
+      "language": "Swift",
+      "stars": "",
+      "forks": "",
+      "summary": "基于蓝牙网状网络（Bluetooth Mesh）的通讯聊天应用，无需互联网，专为近距离点对点无线聊天设计。"
+    }
+  ]
+}

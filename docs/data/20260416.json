@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-04-16T09:00:17.424899+08:00",
+  "date": "2026-04-16",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-04-16T09:00:17.424273+08:00",
+      "author": "forrestchang",
+      "name": "andrej-karpathy-skills",
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": "",
+      "forks": "",
+      "language": "",
+      "summary": "将 Andrej Karpathy 关于 LLM 编码陷阱的观察整理成一份 CLAUDE.md，通过单一文件配置提升 Claude Code 的行为表现，适合希望优化 AI 辅助编码效果的开发者。"
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-04-16T09:00:17.424398+08:00",
+      "author": "pascalorg",
+      "name": "editor",
+      "url": "https://github.com/pascalorg/editor",
+      "description": "Create and share 3D architectural projects.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "一个 TypeScript 驱动的 3D 建筑项目创建与分享平台，用户可在浏览器中构建并共享三维建筑作品。"
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-04-16T09:00:17.424458+08:00",
+      "author": "thedotmack",
+      "name": "claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "Claude Code 的记忆插件，自动记录整个编码会话过程并用 AI 压缩，未来的会话可自动注入相关上下文，解决 AI 编码助手的长期记忆问题。"
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-04-16T09:00:17.424520+08:00",
+      "author": "Lordog",
+      "name": "dive-into-llms",
+      "url": "https://github.com/Lordog/dive-into-llms",
+      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "language": "Jupyter Notebook",
+      "stars": "",
+      "forks": "",
+      "summary": "中文大模型实践教程系列，通过 Jupyter Notebook 以交互式编程方式带领读者动手学习大模型原理与实战，适合中文开发者入门 LLM 开发。"
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-04-16T09:00:17.424569+08:00",
+      "author": "virattt",
+      "name": "ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "一个由多个 AI Agent 组成的对冲基金团队项目，通过多角色协作进行投资分析与决策，是 AI 在金融领域应用的实验性开源实现。"
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-04-16T09:00:17.424675+08:00",
+      "author": "chrislgarry",
+      "name": "Apollo-11",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "language": "Assembly",
+      "stars": "",
+      "forks": "",
+      "summary": "阿波罗 11 号指令舱和登月舱制导计算机（AGC）的原始汇编代码仓库，具有重要的历史意义，让开发者可以一窥 60 年代登月任务的核心软件实现。"
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-04-16T09:00:17.424737+08:00",
+      "author": "obra",
+      "name": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": "",
+      "forks": "",
+      "summary": "一个 Agent 技能框架与软件开发方法论，通过 Shell 脚本实现，强调实战有效的 Agent 协作与技能编排，适合探索 AI Agent 工程化落地的开发者。"
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-04-16T09:00:17.424785+08:00",
+      "author": "jamiepine",
+      "name": "voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source voice synthesis studio",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "开源语音合成工作室，基于 TypeScript 构建，提供浏览器端的语音生成与编辑能力，支持自定义音色与多语言，适合语音应用开发者。"
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-04-16T09:00:17.424831+08:00",
+      "author": "public-apis",
+      "name": "public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "汇集免费公共 API 的精选列表，覆盖生活、娱乐、开发等各类接口，是开发者日常查找免费数据源的重要资源仓库。"
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-04-16T09:00:17.424831+08:00",
+      "author": "vercel-labs",
+      "name": "open-agents",
+      "url": "https://github.com/vercel-labs/open-agents",
+      "description": "An open source template for building cloud agents.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "Vercel Labs 出品的开源云端 AI Agent 构建模板，基于 TypeScript，可快速部署基于云端的 Agent 服务，适合需要构建自己 AI Agent 服务的开发者。"
+    }
+  ]
+}

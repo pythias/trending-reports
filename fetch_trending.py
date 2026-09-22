@@ -74,11 +74,17 @@ def parse_trending(html: str) -> list[dict]:
         # Stars and Forks
         for link in article.find_all("a"):
             href = link.get("href", "")
-            text = link.get("text", "").strip()
-            if "/stargazers" in href:
+            text = link.get_text(strip=True)
+            if "/stargazers" in href and not repo.get("stars"):
                 repo["stars"] = text
-            elif "/network/members" in href or "/forks" in href:
+            elif ("/network/members" in href or href.endswith("/forks")) and not repo.get("forks"):
                 repo["forks"] = text
+
+        for span in article.find_all("span"):
+            text = span.get_text(strip=True).lower()
+            if "stars today" in text or "star today" in text:
+                repo["stars_today"] = span.get_text(strip=True)
+                break
 
         # Ensure all fields exist
         for field in ["author", "name", "url", "description", "language", "stars", "forks"]:
@@ -151,6 +157,10 @@ def main():
         history_file = archive_to_history({"timestamp": datetime.now(BEIJING_TZ).isoformat(), "date": today, "repos": repos})
         print(f"Archived to: {history_file}")
 
+        from generate_report import publish_docs_data
+        manifest = publish_docs_data()
+        print(f"Published page data: {manifest}")
+
         print(f"\nFetched {len(repos)} repos:")
         for repo in repos[:3]:
             print(f"  #{repo['rank']}: {repo['author']}/{repo['name']} - {repo.get('language', '?')}")
@@ -159,7 +169,7 @@ def main():
         yesterday_file = get_latest_history_file()
         if yesterday_file:
             print(f"\nYesterday's data found: {yesterday_file.name}")
-            print("Run generate_report.py to create the daily report.")
+            print("Page data is ready. Serve docs/ to preview.")
 
     except Exception as e:
         print(f"Error: {e}")

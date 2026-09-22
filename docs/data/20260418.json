@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-04-18T09:00:11.449546+08:00",
+  "date": "2026-04-18",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-04-18T09:00:11.448887+08:00",
+      "author": "EvoMap",
+      "name": "evolver",
+      "url": "https://github.com/EvoMap/evolver",
+      "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
+      "language": "JavaScript",
+      "stars": "",
+      "forks": "",
+      "summary": "A self-evolution framework for AI agents based on the Genome Evolution Protocol (GEP). Enables AI agents to iteratively improve themselves through genetic programming-inspired mechanisms. Offers a structured approach to agent self-improvement with configurable evolution strategies."
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-04-18T09:00:11.448983+08:00",
+      "author": "lsdefine",
+      "name": "GenericAgent",
+      "url": "https://github.com/lsdefine/GenericAgent",
+      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "An autonomous agent framework that bootstraps a complete skill tree from a minimal seed codebase. Demonstrates full system control capabilities with significantly reduced token usage (6x improvement). Particularly notable for its self-improvement mechanism and efficient resource utilization."
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-04-18T09:00:11.449053+08:00",
+      "author": "SimoneAvogadro",
+      "name": "android-reverse-engineering-skill",
+      "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
+      "description": "Claude Code skill to support Android app's reverse engineering",
+      "language": "Shell",
+      "stars": "",
+      "forks": "",
+      "summary": "A specialized Claude Code skill designed to assist with Android reverse engineering workflows. Integrates common APK analysis, decompilation, and inspection tools into an AI-assisted skill for security researchers and reverse engineers."
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-04-18T09:00:11.449113+08:00",
+      "author": "BasedHardware",
+      "name": "omi",
+      "url": "https://github.com/BasedHardware/omi",
+      "description": "AI that sees your screen, listens to your conversations and tells you what to do",
+      "language": "Dart",
+      "stars": "",
+      "forks": "",
+      "summary": "A wearable/ambient AI companion app that leverages multimodal inputs (screen context + audio) to provide contextual guidance and recommendations. Built with Flutter/Dart, targeting smart glasses and mobile form factors. Positions itself as a proactive AI assistant rather than reactive."
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-04-18T09:00:11.449179+08:00",
+      "author": "Lordog",
+      "name": "dive-into-llms",
+      "url": "https://github.com/Lordog/dive-into-llms",
+      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "language": "Jupyter Notebook",
+      "stars": "",
+      "forks": "",
+      "summary": "A Chinese-language practical tutorial series for learning Large Language Models through hands-on programming exercises. Covers core LLM concepts, fine-tuning, deployment, and application development. Ideal for developers and researchers looking to build working knowledge of LLMs through code-first examples."
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-04-18T09:00:11.449238+08:00",
+      "author": "Donchitos",
+      "name": "Claude-Code-Game-Studios",
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+      "language": "Shell",
+      "stars": "",
+      "forks": "",
+      "summary": "An ambitious multi-agent system that replicates a complete game development studio structure within Claude Code. Features 49 specialized agents covering design, programming, art, QA, and management roles, coordinated through a 72-skill workflow system. Demonstrates emergent coordination in AI-driven software production."
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-04-18T09:00:11.449302+08:00",
+      "author": "jamiepine",
+      "name": "voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source voice synthesis studio",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "An open-source browser-based voice synthesis and audio production studio. Provides tools for generating, editing, and manipulating synthetic voices without specialized hardware. Built with TypeScript for web deployment, targeting creators who need accessible voice generation capabilities."
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-04-18T09:00:11.449356+08:00",
+      "author": "lukilabs",
+      "name": "craft-agents-oss",
+      "url": "https://github.com/lukilabs/craft-agents-oss",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "description": "",
+      "summary": "An open-source agent framework from lukilabs focused on crafting AI agents for creative and productive workflows. Provides extensible primitives for building task-oriented agents with structured output and tool use."
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-04-18T09:00:11.449416+08:00",
+      "author": "Tracer-Cloud",
+      "name": "opensre",
+      "url": "https://github.com/Tracer-Cloud/opensre",
+      "description": "Build your own AI SRE agents. The open source toolkit for the AI era ✨",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "An AI-powered Site Reliability Engineering toolkit that enables building autonomous SRE agents. Combines traditional SRE practices (monitoring, alerting, incident response) with LLM capabilities. Suitable for teams looking to automate operational workflows and reduce on-call burden."
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-04-18T09:00:11.449470+08:00",
+      "author": "obra",
+      "name": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": "",
+      "forks": "",
+      "summary": "A practical framework for building agentic software development workflows. Provides structured methodologies for deploying AI agents in real engineering contexts, emphasizing reliable task completion over demo-quality showcases. Bridges the gap between AI agent research and production software development."
+    }
+  ]
+}

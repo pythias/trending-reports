@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-07-24T09:00:05.683154+08:00",
+  "date": "2026-07-24",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-07-24T09:00:05.682540+08:00",
+      "author": "block",
+      "name": "buzz",
+      "url": "https://github.com/block/buzz",
+      "description": "A hive mind communication platform",
+      "language": "Rust",
+      "stars": "",
+      "forks": "",
+      "summary": "采用Rust编写的蜂群意识分布式通信平台，专为构建去中心化、高协同的实时通信网络而设计。"
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-07-24T09:00:05.682649+08:00",
+      "author": "koala73",
+      "name": "worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "实时全球情报分析平台，整合AI新闻聚合与地缘政治监控，提供一站式态势感知与基础设施追踪仪表盘。"
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-07-24T09:00:05.682713+08:00",
+      "author": "shiyu-coder",
+      "name": "Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "专为金融市场语言和数据建模设计的基础大模型，旨在深度解析和预测复杂多变的金融市场动态。"
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-07-24T09:00:05.682768+08:00",
+      "author": "Pumpkin-MC",
+      "name": "Pumpkin",
+      "url": "https://github.com/Pumpkin-MC/Pumpkin",
+      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+      "language": "Rust",
+      "stars": "",
+      "forks": "",
+      "summary": "使用Rust语言开发的轻量级我的世界服务端，旨在帮助所有人轻松部署快速且高效的MC服务器。"
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-07-24T09:00:05.682828+08:00",
+      "author": "citrolabs",
+      "name": "ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "description": "The best browser for both you and your AI agents work in parallel.",
+      "language": "JavaScript",
+      "stars": "",
+      "forks": "",
+      "summary": "专为人类与AI智能体协同工作量身打造的多窗口浏览器，支持多任务并行和智能化的助理交互。"
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-07-24T09:00:05.682878+08:00",
+      "author": "chrislgarry",
+      "name": "Apollo-11",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "language": "Assembly",
+      "stars": "",
+      "forks": "",
+      "summary": "传奇阿波罗11号登月飞船制导计算机的原始汇编源代码，包含指令舱和登月舱的经典太空历史程序。"
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-07-24T09:00:05.682936+08:00",
+      "author": "diegosouzapw",
+      "name": "OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "免费开源的聚合AI网关，支持超290家服务商和500种模型，具备自动降级和高比例Token压缩等特性。"
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-07-24T09:00:05.682994+08:00",
+      "author": "ComposioHQ",
+      "name": "awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "汇集众多优秀定制技能与工具的精选资源列表，助力开发者进一步拓展和优化AI工作流。"
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-07-24T09:00:05.683042+08:00",
+      "author": "earthtojake",
+      "name": "text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description": "A collection of agent skills for CAD, robotics and hardware design",
+      "language": "JavaScript",
+      "stars": "",
+      "forks": "",
+      "summary": "专为CAD、机器人技术和硬件设计开发的一系列智能体技能集合，赋能AI辅助工程与物理建模。"
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-07-24T09:00:05.683090+08:00",
+      "author": "agegr",
+      "name": "pi-web",
+      "url": "https://github.com/agegr/pi-web",
+      "description": "Web UI for the pi coding agent",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "专为pi编程智能体打造的网页版可视化用户界面，提升智能交互与代码调试体验。"
+    }
+  ]
+}

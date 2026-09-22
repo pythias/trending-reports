@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-06-10T09:03:08.585558+08:00",
+  "date": "2026-06-10",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-06-10T09:03:08.584909+08:00",
+      "author": "mvanhorn",
+      "name": "last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary. Useful for competitive intelligence, trend tracking, and market research."
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-06-10T09:03:08.585012+08:00",
+      "author": "RyanCodrai",
+      "name": "turbovec",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "A high-performance vector index built on TurboQuant, implemented in Rust with Python bindings. Designed for efficient similarity search at scale, bridging Rust's performance with Python's ecosystem."
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-06-10T09:03:08.585085+08:00",
+      "author": "roboflow",
+      "name": "supervision",
+      "url": "https://github.com/roboflow/supervision",
+      "description": "We write your reusable computer vision tools. 💜",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "Reusable computer vision utilities from Roboflow. Provides a comprehensive toolkit for common CV tasks including detection, tracking, and visualization - popular for rapid prototyping."
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-06-10T09:03:08.585143+08:00",
+      "author": "opencv",
+      "name": "opencv",
+      "url": "https://github.com/opencv/opencv",
+      "description": "Open Source Computer Vision Library",
+      "language": "C++",
+      "stars": "",
+      "forks": "",
+      "summary": "The classic Open Source Computer Vision Library, foundational for image processing and computer vision applications worldwide. Still actively maintained with regular updates."
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-06-10T09:03:08.585209+08:00",
+      "author": "refactoringhq",
+      "name": "tolaria",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "description": "Desktop app to manage markdown knowledge bases",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "Desktop application for managing markdown-based knowledge bases. Built with TypeScript, aimed at developers and researchers who prefer local, file-based note systems."
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-06-10T09:03:08.585263+08:00",
+      "author": "aaif-goose",
+      "name": "goose",
+      "url": "https://github.com/aaif-goose/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "stars": "",
+      "forks": "",
+      "summary": "Open source, extensible AI agent that goes beyond code suggestions - can install, execute, edit, and test code with any LLM. Built in Rust for performance and reliability."
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-06-10T09:03:08.585316+08:00",
+      "author": "Andyyyy64",
+      "name": "whichllm",
+      "url": "https://github.com/Andyyyy64/whichllm",
+      "description": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "CLI tool to find the best local LLM for your hardware, ranked by real recency-aware benchmarks rather than parameter count. One-command instant evaluation."
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-06-10T09:03:08.585369+08:00",
+      "author": "TapXWorld",
+      "name": "ChinaTextbook",
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "language": "Roff",
+      "stars": "",
+      "forks": "",
+      "summary": "Collection of Chinese textbooks from primary through university level in PDF format. Educational resource covering the full spectrum of Chinese curriculum."
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-06-10T09:03:08.585421+08:00",
+      "author": "x1xhlol",
+      "name": "system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "stars": "",
+      "forks": "",
+      "language": "",
+      "summary": "Comprehensive collection of system prompts and model info for major AI coding tools including Cursor, Claude Code, Devin, Replit, Windsurf, and many others. Valuable for understanding AI assistant internals."
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-06-10T09:03:08.585489+08:00",
+      "author": "yikart",
+      "name": "AiToEarn",
+      "url": "https://github.com/yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "Project focused on using AI to earn income. Explore AI-powered monetization strategies and automation for income generation."
+    }
+  ]
+}

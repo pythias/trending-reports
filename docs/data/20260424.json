@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-04-24T09:00:18.782991+08:00",
+  "date": "2026-04-24",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-04-24T09:00:18.782476+08:00",
+      "author": "huggingface",
+      "name": "ml-intern",
+      "url": "https://github.com/huggingface/ml-intern",
+      "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "Huggingface 开源项目，让 AI 自主阅读论文、训练模型并部署 ML 模型，定位为「机器学习实习生」，适合自动化 ML 工作流。"
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-04-24T09:00:18.782564+08:00",
+      "author": "zilliztech",
+      "name": "claude-context",
+      "url": "https://github.com/zilliztech/claude-context",
+      "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "Zilliz 出品的 Claude Code MCP 工具，将整个代码库作为上下文提供给编码 Agent，支持代码搜索与智能检索，适合大型代码库辅助编程场景。"
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-04-24T09:00:18.782617+08:00",
+      "author": "HKUDS",
+      "name": "RAG-Anything",
+      "url": "https://github.com/HKUDS/RAG-Anything",
+      "description": "\"RAG-Anything: All-in-One RAG Framework\"",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "香港大学开源的全功能 RAG 框架，支持多模态内容检索与问答，适合构建企业级知识库和智能问答系统。"
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-04-24T09:00:18.782662+08:00",
+      "author": "Z4nzu",
+      "name": "hackingtool",
+      "url": "https://github.com/Z4nzu/hackingtool",
+      "description": "ALL IN ONE Hacking Tool For Hackers",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "集成了多种渗透测试与网络安全工具的综合黑客工具箱，涵盖信息收集、漏洞扫描、密码破解等功能，仅供合法安全测试使用。"
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-04-24T09:00:18.782705+08:00",
+      "author": "ruvnet",
+      "name": "RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": "",
+      "forks": "",
+      "summary": "利用商用 WiFi 信号实现实时人体姿态估计、生命体征监测和存在感知的开源项目，无需摄像头，保护隐私，适合智能家居和医疗监护场景。"
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-04-24T09:00:18.782792+08:00",
+      "author": "Anil-matcha",
+      "name": "Open-Generative-AI",
+      "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+      "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik, Krea, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "language": "JavaScript",
+      "stars": "",
+      "forks": "",
+      "summary": "开源 AI 生成工作室，集成 200+ 模型（Flux、Midjourney、Kling、Sora、Veo），无内容过滤、MIT 许可，支持自托管，适合追求创作自由度的用户。"
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-04-24T09:00:18.782834+08:00",
+      "author": "Alishahryar1",
+      "name": "free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "summary": "让用户可以在终端、VSCode 扩展或 Discord 中免费使用 Claude Code 的项目，参考 OpenClaw 的设计思路，降低 AI 编码工具的使用门槛。"
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-04-24T09:00:18.782834+08:00",
+      "author": "open-metadata",
+      "name": "OpenMetadata",
+      "url": "https://github.com/open-metadata/OpenMetadata",
+      "description": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": "",
+      "summary": "统一元数据平台，整合数据发现、可观测性、治理能力，支持列级血缘追踪和团队协作，适合数据团队构建可信数据资产目录。"
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-04-24T09:00:18.782885+08:00",
+      "author": "microsoft",
+      "name": "ai-agents-for-beginners",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "description": "12 Lessons to Get Started Building AI Agents",
+      "language": "Jupyter Notebook",
+      "stars": "",
+      "forks": "",
+      "summary": "微软出品的 AI Agent 入门课程，共 12 节，涵盖 Agent 基础概念、工具调用、记忆系统、多 Agent 协作等核心主题，适合开发者快速入门。"
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-04-24T09:00:18.782928+08:00",
+      "author": "PowerShell",
+      "name": "PowerShell",
+      "url": "https://github.com/PowerShell/PowerShell",
+      "description": "PowerShell for every system!",
+      "language": "C#",
+      "stars": "",
+      "forks": "",
+      "summary": "PowerShell 开源官方仓库，跨平台自动化和配置工具，支持 Windows、Linux、macOS，是系统管理和 DevOps 场景的标准工具之一。"
+    }
+  ]
+}
