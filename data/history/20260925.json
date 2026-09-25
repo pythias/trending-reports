@@ -1,0 +1,116 @@
+{
+  "timestamp": "2026-09-25T09:07:16.702959+08:00",
+  "date": "2026-09-25",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-09-25T09:07:16.701944+08:00",
+      "author": "rohitg00",
+      "name": "ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-09-25T09:07:16.702176+08:00",
+      "author": "vectorize-io",
+      "name": "hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "language": "Python",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-09-25T09:07:16.702276+08:00",
+      "author": "dream-num",
+      "name": "univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-09-25T09:07:16.702373+08:00",
+      "author": "google",
+      "name": "ax",
+      "url": "https://github.com/google/ax",
+      "description": "Google's open agentic orchestration runtime",
+      "language": "Go",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-09-25T09:07:16.702452+08:00",
+      "author": "NVIDIA",
+      "name": "Model-Optimizer",
+      "url": "https://github.com/NVIDIA/Model-Optimizer",
+      "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "language": "Python",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-09-25T09:07:16.702530+08:00",
+      "author": "FxEmbed",
+      "name": "FxEmbed",
+      "url": "https://github.com/FxEmbed/FxEmbed",
+      "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-09-25T09:07:16.702606+08:00",
+      "author": "anthropics",
+      "name": "financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "language": "Python",
+      "stars": "",
+      "forks": "",
+      "description": ""
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-09-25T09:07:16.702693+08:00",
+      "author": "HKUDS",
+      "name": "CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "language": "Python",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-09-25T09:07:16.702769+08:00",
+      "author": "mvt-project",
+      "name": "mvt",
+      "url": "https://github.com/mvt-project/mvt",
+      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "language": "Python",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 10,
+      "fetched_at": "2026-09-25T09:07:16.702845+08:00",
+      "author": "obra",
+      "name": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": "",
+      "forks": ""
+    }
+  ]
+}
