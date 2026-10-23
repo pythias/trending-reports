@@ -1,0 +1,105 @@
+{
+  "timestamp": "2026-10-23T09:05:13.337912+08:00",
+  "date": "2026-10-23",
+  "repos": [
+    {
+      "rank": 1,
+      "fetched_at": "2026-10-23T09:05:13.337167+08:00",
+      "author": "php",
+      "name": "php-src",
+      "url": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 2,
+      "fetched_at": "2026-10-23T09:05:13.337282+08:00",
+      "author": "anthropics",
+      "name": "knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 3,
+      "fetched_at": "2026-10-23T09:05:13.337374+08:00",
+      "author": "DietrichGebert",
+      "name": "ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 4,
+      "fetched_at": "2026-10-23T09:05:13.337466+08:00",
+      "author": "cloudflare",
+      "name": "security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 5,
+      "fetched_at": "2026-10-23T09:05:13.337529+08:00",
+      "author": "Graphify-Labs",
+      "name": "graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "language": "Python",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 6,
+      "fetched_at": "2026-10-23T09:05:13.337592+08:00",
+      "author": "supabase",
+      "name": "supabase",
+      "url": "https://github.com/supabase/supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "language": "TypeScript",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 7,
+      "fetched_at": "2026-10-23T09:05:13.337665+08:00",
+      "author": "fastapi",
+      "name": "fastapi",
+      "url": "https://github.com/fastapi/fastapi",
+      "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "language": "Python",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 8,
+      "fetched_at": "2026-10-23T09:05:13.337729+08:00",
+      "author": "luongnv89",
+      "name": "claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "language": "Python",
+      "stars": "",
+      "forks": ""
+    },
+    {
+      "rank": 9,
+      "fetched_at": "2026-10-23T09:05:13.337829+08:00",
+      "author": "Meloong-Git",
+      "name": "PCL",
+      "url": "https://github.com/Meloong-Git/PCL",
+      "description": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
+      "language": "Visual Basic .NET",
+      "stars": "",
+      "forks": ""
+    }
+  ]
+}
